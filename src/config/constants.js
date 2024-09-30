@@ -1,0 +1,12 @@
+const {
+    DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME
+} = process.env;
+
+const CONSTANT = {
+    DB_HOST: DB_HOST,
+    DB_USERNAME: DB_USERNAME,
+    DB_PASSWORD: DB_PASSWORD,
+    DB_NAME: DB_NAME,
+}
+
+export default CONSTANT;
