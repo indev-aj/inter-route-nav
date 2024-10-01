@@ -1,0 +1,63 @@
+[
+  {
+    "id": 457,
+    "name": "Kampung Kangkar Sungai Tiram",
+    "route": "P313",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "P313",
+    "lat": "1.59051471",
+    "lng": "103.85399550",
+    "intersections": [
+      {
+        "withRoute": "P313",
+        "stopId": 458,
+        "distance": 23.3
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Ann Lock Garden",
+    "route": "P313",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "P313",
+    "lat": "1.59951154",
+    "lng": "103.84117740",
+    "distance": 1747.9
+  },
+  {
+    "id": 460,
+    "name": "Masjid Bandar Ulu Tiram",
+    "route": "P313",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "P313",
+    "lat": "1.59915606",
+    "lng": "103.82687290",
+    "distance": 1784.7
+  },
+  {
+    "id": 461,
+    "name": "Taman Tiram Jaya,Jalan Kota Tinggi",
+    "route": "P313",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P313",
+    "lat": "1.60307233",
+    "lng": "103.82067330",
+    "distance": 1154.5
+  },
+  {
+    "id": 464,
+    "name": "Today's Mall,Jalan Kota Tinggi",
+    "route": "P313",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "P313",
+    "lat": "1.60817286",
+    "lng": "103.82171230",
+    "distance": 592.1
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 2361,
+    "name": "Terminal Segamat",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.50835468",
+    "lng": "102.81295710",
+    "intersections": [
+      {
+        "withRoute": "SE001",
+        "stopId": 2368,
+        "distance": 0
+      },
+      {
+        "withRoute": "SE003",
+        "stopId": 2345,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2348,
+    "name": "Majlis Perbandaran Segamat",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.51266027",
+    "lng": "102.81374960",
+    "distance": 761.8
+  },
+  {
+    "id": 2349,
+    "name": "Kampung Tengah",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.52169048",
+    "lng": "102.80569610",
+    "distance": 1399.2
+  },
+  {
+    "id": 2314,
+    "name": "Asrama Pusat Segamat",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "SE002",
+    "lat": "2.53531874",
+    "lng": "102.80621350",
+    "distance": 1578.1
+  },
+  {
+    "id": 2319,
+    "name": "Pasar Tani Yayasan (Bus Stop)",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "SE002",
+    "lat": "2.54659700",
+    "lng": "102.79073000",
+    "distance": 2752.2
+  },
+  {
+    "id": 2350,
+    "name": "Opposite Taman Segamat Jaya",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.54783517",
+    "lng": "102.78798620",
+    "distance": 565.4
+  },
+  {
+    "id": 2351,
+    "name": "Opposite SMK Buloh Kasap",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.54679030",
+    "lng": "102.77920220",
+    "distance": 997.4,
+    "intersections": [
+      {
+        "withRoute": "SE002",
+        "stopId": 2354,
+        "distance": 121.8
+      }
+    ]
+  },
+  {
+    "id": 2352,
+    "name": "Kampung Teluk Keladi",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.54722206",
+    "lng": "102.78151120",
+    "distance": 262.1
+  },
+  {
+    "id": 2317,
+    "name": "Taman Selesa",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "SE002",
+    "lat": "2.55014686",
+    "lng": "102.76956130",
+    "distance": 1567.1
+  },
+  {
+    "id": 2316,
+    "name": "SK Buloh Kasap (Bus Stop)",
+    "route": "SE002",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "SE002",
+    "lat": "2.55345560",
+    "lng": "102.76496430",
+    "distance": 690.5,
+    "intersections": [
+      {
+        "withRoute": "SE002",
+        "stopId": 2322,
+        "distance": 86.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1034,
+    "name": "Terminal Taman U",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P201,P202,P211,P213,P214 ",
+    "lat": "1.53844000",
+    "lng": "103.62847000",
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 215,
+        "distance": 0
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 901,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1051,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1161,
+    "name": "SK Tmn Universiti 4 (tiang 2)",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P202,P213,P214",
+    "lat": "1.53429000",
+    "lng": "103.62717000",
+    "distance": 654.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 149,
+        "distance": 4
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 29,
+        "distance": 188.4
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 150,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 882,
+        "distance": 4
+      }
+    ]
+  },
+  {
+    "id": 917,
+    "name": "Opposite SMK Mutiara Rini,Persiaran Utama",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P202, P213, P214",
+    "lat": "1.52458153",
+    "lng": "103.63511700",
+    "distance": 1520.1,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 251,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 921,
+    "name": "Sekolah Agama Mutiara Rini,Persiaran Utama",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P202, P213, P214",
+    "lat": "1.52092171",
+    "lng": "103.63826170",
+    "distance": 621,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 253,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1075,
+    "name": "Tesco Mutiara Rini",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P213,P214",
+    "lat": "1.51488000",
+    "lng": "103.63352000",
+    "distance": 1129.9
+  },
+  {
+    "id": 276,
+    "name": "Taman Harmoni 2",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P214",
+    "lat": "1.52712058",
+    "lng": "103.65158890",
+    "distance": 2947
+  },
+  {
+    "id": 278,
+    "name": "Taman Nesa",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P214",
+    "lat": "1.52719248",
+    "lng": "103.65846000",
+    "distance": 813.3
+  },
+  {
+    "id": 186,
+    "name": "Taman Nesa (Bus Stop)",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P214",
+    "lat": "1.52822700",
+    "lng": "103.66181900",
+    "distance": 415
+  },
+  {
+    "id": 1237,
+    "name": "Opposite Best Vission Motors, Jalan Skudai - Gelang Patah",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P203,P214",
+    "lat": "1.52958639",
+    "lng": "103.66515990",
+    "distance": 405.2,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 2600,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 938,
+    "name": "SJK(C) Pu Sze, Jalan Skudai",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53644904",
+    "lng": "103.66345730",
+    "distance": 1137.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 2601,
+        "distance": 218.2
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 281,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 203,
+        "distance": 223.7
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 2610,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 937,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1188,
+    "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53962067",
+    "lng": "103.66054310",
+    "distance": 478,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 280,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1171,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 933,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 934,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Flat Taman Impian Emas (Bus Stop)",
+    "route": "P214",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P214",
+    "lat": "1.53285700",
+    "lng": "103.67148200",
+    "distance": 5338.4,
+    "intersections": [
+      {
+        "withRoute": "P112",
+        "stopId": 2895,
+        "distance": 3.1
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 25,
+        "distance": 191
+      }
+    ]
+  }
+]

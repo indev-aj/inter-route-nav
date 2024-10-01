@@ -1,0 +1,236 @@
+[
+  {
+    "id": 2712,
+    "name": "SK Sungai Durian",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 26,
+    "station_code": null,
+    "lat": "1.33840000",
+    "lng": "103.45943300"
+  },
+  {
+    "id": 2713,
+    "name": "Jabatan Kastam DiRaja Malaysia, Pontian",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 27,
+    "station_code": null,
+    "lat": "1.34326800",
+    "lng": "103.46098400",
+    "distance": 627.9,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2702,
+        "distance": 48.2
+      }
+    ]
+  },
+  {
+    "id": 2714,
+    "name": "Sekolah Kebangsaan Penerok ",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 28,
+    "station_code": null,
+    "lat": "1.38083700",
+    "lng": "103.44206200",
+    "distance": 4694.1,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2701,
+        "distance": 209.1
+      }
+    ]
+  },
+  {
+    "id": 2715,
+    "name": "SJK ( C) Sui Woon (Return)",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 29,
+    "station_code": null,
+    "lat": "1.38670400",
+    "lng": "103.43953600",
+    "distance": 707.5,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2700,
+        "distance": 46.3
+      }
+    ]
+  },
+  {
+    "id": 2716,
+    "name": "Masjid Kampung Telok Kerang",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 30,
+    "station_code": null,
+    "lat": "1.41184000",
+    "lng": "103.42620700",
+    "distance": 3154.1,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2699,
+        "distance": 82.7
+      }
+    ]
+  },
+  {
+    "id": 2717,
+    "name": "SJK(C) Pei Hwa",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 31,
+    "station_code": null,
+    "lat": "1.42103100",
+    "lng": "103.42156100",
+    "distance": 1141.8
+  },
+  {
+    "id": 2718,
+    "name": "Sekolah Agama Rambah",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 32,
+    "station_code": null,
+    "lat": "1.43197100",
+    "lng": "103.41634200",
+    "distance": 1343.9
+  },
+  {
+    "id": 2719,
+    "name": "Pekan Rembah",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 33,
+    "station_code": null,
+    "lat": "1.43621200",
+    "lng": "103.41392800",
+    "distance": 540.5
+  },
+  {
+    "id": 2720,
+    "name": "Kolej Matrikulasi Kejuruteraan Johor (Return)",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 34,
+    "station_code": null,
+    "lat": "1.44225200",
+    "lng": "103.41075000",
+    "distance": 777.5,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2698,
+        "distance": 59.8
+      }
+    ]
+  },
+  {
+    "id": 2725,
+    "name": "Kampung Parit Tegong",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 35,
+    "station_code": null,
+    "lat": "1.44794500",
+    "lng": "103.40784300",
+    "distance": 793.4
+  },
+  {
+    "id": 2726,
+    "name": "SK Rimba Terjun",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 36,
+    "station_code": null,
+    "lat": "1.45630600",
+    "lng": "103.40373600",
+    "distance": 1032.2,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2696,
+        "distance": 102.5
+      }
+    ]
+  },
+  {
+    "id": 2727,
+    "name": "Taman Gembira",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 37,
+    "station_code": null,
+    "lat": "1.46326900",
+    "lng": "103.40066100",
+    "distance": 843.3,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2695,
+        "distance": 121.4
+      }
+    ]
+  },
+  {
+    "id": 2728,
+    "name": "Kampung Terjun Rimba (Return)",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 38,
+    "station_code": null,
+    "lat": "1.46793900",
+    "lng": "103.39826800",
+    "distance": 581.7,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2694,
+        "distance": 54.6
+      }
+    ]
+  },
+  {
+    "id": 2729,
+    "name": "AADK Daerah Pontian",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 39,
+    "station_code": null,
+    "lat": "1.47427500",
+    "lng": "103.39487500",
+    "distance": 796,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2693,
+        "distance": 88.1
+      }
+    ]
+  },
+  {
+    "id": 2730,
+    "name": "Pasar Awam Pontian (Return)",
+    "route": "PN003",
+    "bound_type": 2,
+    "sequence": 40,
+    "station_code": null,
+    "lat": "1.47643200",
+    "lng": "103.39364800",
+    "distance": 307.1,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2692,
+        "distance": 179.4
+      }
+    ]
+  }
+]

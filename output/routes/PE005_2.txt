@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1003,
+    "name": "Terminal Bas And Teksi Bandar Penawar",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "PE001, PE003, PE004, PE005",
+    "lat": "1.55490527",
+    "lng": "104.22837170",
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 2369,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE003",
+        "stopId": 525,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 1148,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Kampung Punggai",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "PE005",
+    "lat": "1.43666689",
+    "lng": "104.27407000",
+    "distance": 17361
+  },
+  {
+    "id": 2370,
+    "name": "Bayu Damai",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.38728400",
+    "lng": "104.27141100",
+    "distance": 6081.7,
+    "intersections": [
+      {
+        "withRoute": "PE002",
+        "stopId": 2371,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Kampung Punggai",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "PE005",
+    "lat": "1.43675291",
+    "lng": "104.27395220",
+    "distance": 6466
+  },
+  {
+    "id": 526,
+    "name": "Ladang Petri Tenggara",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": "PE005",
+    "lat": "1.51984815",
+    "lng": "104.26163620",
+    "distance": 10892.1
+  },
+  {
+    "id": 1121,
+    "name": "Kolej Delima INSTEDT",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "PE001, PE005",
+    "lat": "1.55303400",
+    "lng": "104.23989600",
+    "distance": 4966.1,
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 497,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1122,
+    "name": "Majid As-Syifa Bandar Penawar",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "PE001, PE005",
+    "lat": "1.55360600",
+    "lng": "104.23661500",
+    "distance": 377.7,
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 498,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "name": "Klinik Kesihatan Bandar Penawar",
+    "route": "PE005",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "PE001, PE005",
+    "lat": "1.55326700",
+    "lng": "104.23310400",
+    "distance": 399.3,
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 499,
+        "distance": 0
+      }
+    ]
+  }
+]

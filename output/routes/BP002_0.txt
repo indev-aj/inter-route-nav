@@ -1,0 +1,166 @@
+[
+  {
+    "id": 2636,
+    "name": "TAMAN UNIVERSITI",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "1.84814100",
+    "lng": "103.07251500"
+  },
+  {
+    "id": 2637,
+    "name": "KKTM SRI GADING",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "1.85019000",
+    "lng": "103.07996400",
+    "distance": 871.1
+  },
+  {
+    "id": 2638,
+    "name": "UTHM",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "1.85313300",
+    "lng": "103.08831300",
+    "distance": 984.8
+  },
+  {
+    "id": 2639,
+    "name": "PETRON PARIT RAJA",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "1.86404700",
+    "lng": "103.10918600",
+    "distance": 2658.9
+  },
+  {
+    "id": 2640,
+    "name": "KOMPLEKS NIAGA PARIT RAJA",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": null,
+    "lat": "1.86649800",
+    "lng": "103.11163800",
+    "distance": 560.6
+  },
+  {
+    "id": 2641,
+    "name": "KLINIK KESIHATAN PARIT RAJA",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "1.86379800",
+    "lng": "103.10928100",
+    "distance": 529.7
+  },
+  {
+    "id": 2642,
+    "name": "PARIT SEMPADAN",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "1.85678800",
+    "lng": "103.09866000",
+    "distance": 1413.2
+  },
+  {
+    "id": 2643,
+    "name": "FUJITSU",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": null,
+    "lat": "1.85442100",
+    "lng": "103.09327000",
+    "distance": 657.6
+  },
+  {
+    "id": 2644,
+    "name": "OPPOSITE UTHM",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": null,
+    "lat": "1.85239500",
+    "lng": "103.08727900",
+    "distance": 720.5
+  },
+  {
+    "id": 2645,
+    "name": "PARIT JELUTONG",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "1.85114700",
+    "lng": "103.08361300",
+    "distance": 431.1
+  },
+  {
+    "id": 2646,
+    "name": "OPPOSITE SMK SRI GADING",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "1.85054500",
+    "lng": "103.05084700",
+    "distance": 3738
+  },
+  {
+    "id": 2647,
+    "name": "PARIT BUDIN",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "1.85173800",
+    "lng": "103.04283000",
+    "distance": 937.6
+  },
+  {
+    "id": 2648,
+    "name": "IPG TUN HUSSEIN ONN",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "1.87039000",
+    "lng": "102.98529500",
+    "distance": 7017.8
+  },
+  {
+    "id": 2649,
+    "name": "OPPOSITE BP MALL",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": null,
+    "lat": "1.86337700",
+    "lng": "102.96327100",
+    "distance": 2578.6
+  },
+  {
+    "id": 2650,
+    "name": "THE SUMMIT BATU PAHAT",
+    "route": "BP002",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": null,
+    "lat": "1.85773800",
+    "lng": "102.93481400",
+    "distance": 3704.4
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 2819,
+    "name": "Kg. Ladang Batu ",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "ME004",
+    "lat": "2.64102000",
+    "lng": "103.63059600"
+  },
+  {
+    "id": 2820,
+    "name": "Kampung Londang Batu",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "ME004",
+    "lat": "2.63959700",
+    "lng": "103.63142300",
+    "distance": 193
+  },
+  {
+    "id": 2821,
+    "name": "Kampung Hubong",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "ME004",
+    "lat": "2.63560900",
+    "lng": "103.64102600",
+    "distance": 1229.4,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2816,
+        "distance": 151
+      }
+    ]
+  },
+  {
+    "id": 2822,
+    "name": "Felda Endau (Ke Mersing)",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "ME004",
+    "lat": "2.62140100",
+    "lng": "103.67839300",
+    "distance": 4964.9,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2815,
+        "distance": 45.9
+      }
+    ]
+  },
+  {
+    "id": 2823,
+    "name": "Kampung Tenglu Batu Enam (Ke Mersing)",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "ME004",
+    "lat": "2.51507800",
+    "lng": "103.79141200",
+    "distance": 17977.6
+  },
+  {
+    "id": 2824,
+    "name": "Kampung Tenglu (Ke Mersing)",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "ME004",
+    "lat": "2.49532100",
+    "lng": "103.80133000",
+    "distance": 2447.9,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2813,
+        "distance": 96.3
+      }
+    ]
+  },
+  {
+    "id": 2825,
+    "name": "Kampung Tenglu Kecil (Ke Mersing)",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "ME004",
+    "lat": "2.48173200",
+    "lng": "103.80820900",
+    "distance": 1686.2,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2811,
+        "distance": 7.7
+      }
+    ]
+  },
+  {
+    "id": 2826,
+    "name": "Kampung Sawah Dato",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "ME004",
+    "lat": "2.46596100",
+    "lng": "103.81834300",
+    "distance": 2140.7
+  },
+  {
+    "id": 2827,
+    "name": "SMK Mersing (Ke Mersing)",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "ME004",
+    "lat": "2.45375100",
+    "lng": "103.82808900",
+    "distance": 1776.1,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2810,
+        "distance": 28.5
+      }
+    ]
+  },
+  {
+    "id": 2828,
+    "name": "Masjid Jamek Kg. Sri Lalang",
+    "route": "ME004",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "2.44279000",
+    "lng": "103.83302600",
+    "distance": 1341.7
+  }
+]

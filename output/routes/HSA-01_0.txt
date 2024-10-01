@@ -1,0 +1,81 @@
+[
+  {
+    "id": 2876,
+    "name": "Penjara Ayer Molek",
+    "route": "HSA-01",
+    "bound_type": 0,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.46316400",
+    "lng": "103.75562500"
+  },
+  {
+    "id": 2877,
+    "name": "Klinik Kesihatan Mahmoodiah",
+    "route": "HSA-01",
+    "bound_type": 0,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.46256100",
+    "lng": "103.74700600",
+    "distance": 1165.3,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2481,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2878,
+    "name": "Hospital Sultanah Aminah",
+    "route": "HSA-01",
+    "bound_type": 0,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.45745000",
+    "lng": "103.74675000",
+    "distance": 1157.7,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2478,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 37,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2879,
+    "name": "Pusat Islam Negeri Johor",
+    "route": "HSA-01",
+    "bound_type": 0,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.45666191",
+    "lng": "103.74939880",
+    "distance": 341.9,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2479,
+        "distance": 8.9
+      },
+      {
+        "withRoute": "HSA",
+        "stopId": 2480,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 314,
+        "distance": 0
+      }
+    ]
+  }
+]

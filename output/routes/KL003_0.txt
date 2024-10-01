@@ -1,0 +1,343 @@
+[
+  {
+    "id": 2745,
+    "name": "Klinik Kesihatan Kahang",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": null,
+    "lat": "2.21615300",
+    "lng": "103.54092100",
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2744,
+        "distance": 177
+      }
+    ]
+  },
+  {
+    "id": 2746,
+    "name": "SMK Kahang",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "2.22149200",
+    "lng": "103.54797400",
+    "distance": 982.1
+  },
+  {
+    "id": 2658,
+    "name": "Kahang",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "2.27422889",
+    "lng": "103.61571589",
+    "distance": 9626.5
+  },
+  {
+    "id": 2747,
+    "name": "Kampung Pinggir",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": null,
+    "lat": "2.26916200",
+    "lng": "103.60980000",
+    "distance": 864.4
+  },
+  {
+    "id": 2748,
+    "name": "Kampung Sri Lulut",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": null,
+    "lat": "2.26189200",
+    "lng": "103.60269900",
+    "distance": 1151.3
+  },
+  {
+    "id": 2749,
+    "name": "Kampung Peta",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "2.24994600",
+    "lng": "103.58424800",
+    "distance": 2449.7
+  },
+  {
+    "id": 2750,
+    "name": "Kampung Orang Asli Punjut",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "2.24296700",
+    "lng": "103.57636500",
+    "distance": 1169
+  },
+  {
+    "id": 2751,
+    "name": "Kampung Batu 24 Kahang",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "2.23046100",
+    "lng": "103.56039500",
+    "distance": 2250.1
+  },
+  {
+    "id": 2752,
+    "name": "SJK(T) Batu 24, Kahang ",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "2.22766500",
+    "lng": "103.55658800",
+    "distance": 524.2
+  },
+  {
+    "id": 2753,
+    "name": "SMK Kahang (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": null,
+    "lat": "2.22092200",
+    "lng": "103.54785300",
+    "distance": 1224.6
+  },
+  {
+    "id": 2754,
+    "name": "Taman Sri Kahang",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": null,
+    "lat": "2.21369200",
+    "lng": "103.53809500",
+    "distance": 1348.1,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2744,
+        "distance": 238.1
+      }
+    ]
+  },
+  {
+    "id": 2756,
+    "name": "Taman Kahang Baru",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": null,
+    "lat": "2.21206900",
+    "lng": "103.53601000",
+    "distance": 293.3,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2743,
+        "distance": 23.5
+      }
+    ]
+  },
+  {
+    "id": 2757,
+    "name": "Taman Desa Sejahtera",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 28,
+    "station_code": null,
+    "lat": "2.10690500",
+    "lng": "103.40293900",
+    "distance": 21197.9
+  },
+  {
+    "id": 2758,
+    "name": "Taman Perdana (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 29,
+    "station_code": null,
+    "lat": "2.10534100",
+    "lng": "103.39867400",
+    "distance": 543,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2741,
+        "distance": 10.8
+      }
+    ]
+  },
+  {
+    "id": 2759,
+    "name": "Kampung Gajah (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 30,
+    "station_code": null,
+    "lat": "2.10360800",
+    "lng": "103.39602100",
+    "distance": 354.4,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2740,
+        "distance": 84.5
+      }
+    ]
+  },
+  {
+    "id": 2760,
+    "name": "Penjara Kluang (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 31,
+    "station_code": null,
+    "lat": "2.09728600",
+    "lng": "103.38935900",
+    "distance": 1088.4
+  },
+  {
+    "id": 2761,
+    "name": "Taman Perindustrian Matahari",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 32,
+    "station_code": null,
+    "lat": "2.07589600",
+    "lng": "103.37065400",
+    "distance": 3470.6
+  },
+  {
+    "id": 2762,
+    "name": "Taman Puteri (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 33,
+    "station_code": null,
+    "lat": "2.07006100",
+    "lng": "103.36604300",
+    "distance": 857.1,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2737,
+        "distance": 25.4
+      }
+    ]
+  },
+  {
+    "id": 2763,
+    "name": "Kimberly-Clark Products",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 34,
+    "station_code": null,
+    "lat": "2.06656300",
+    "lng": "103.36487200",
+    "distance": 447.8,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2736,
+        "distance": 147.6
+      }
+    ]
+  },
+  {
+    "id": 2764,
+    "name": "Kampung Sembrong",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 35,
+    "station_code": null,
+    "lat": "2.05791400",
+    "lng": "103.36038100",
+    "distance": 1096.6
+  },
+  {
+    "id": 2765,
+    "name": "Kawasan Perindustrian Sembrong",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 36,
+    "station_code": null,
+    "lat": "2.05546000",
+    "lng": "103.35686900",
+    "distance": 475.6
+  },
+  {
+    "id": 2766,
+    "name": "Taman Kasih",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 37,
+    "station_code": null,
+    "lat": "2.05426800",
+    "lng": "103.35492600",
+    "distance": 253.4,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2735,
+        "distance": 177.5
+      }
+    ]
+  },
+  {
+    "id": 2767,
+    "name": "SMK Sultan Abdul Jalil (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 38,
+    "station_code": null,
+    "lat": "2.05065000",
+    "lng": "103.34776400",
+    "distance": 899.1
+  },
+  {
+    "id": 2768,
+    "name": "Taman Ria",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 39,
+    "station_code": null,
+    "lat": "2.04143600",
+    "lng": "103.33912800",
+    "distance": 1403.1
+  },
+  {
+    "id": 2769,
+    "name": "Kampung Paya Kluang (Return)",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 40,
+    "station_code": null,
+    "lat": "2.03906100",
+    "lng": "103.33645100",
+    "distance": 397.8
+  },
+  {
+    "id": 2770,
+    "name": "Taman Aman Kluang",
+    "route": "KL003",
+    "bound_type": 0,
+    "sequence": 41,
+    "station_code": null,
+    "lat": "2.03784300",
+    "lng": "103.33370700",
+    "distance": 337.4
+  }
+]

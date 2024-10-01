@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2421,
+    "name": "Terminal Bas Renggam",
+    "route": "SR002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.88507791",
+    "lng": "103.40245600",
+    "intersections": [
+      {
+        "withRoute": "SR003",
+        "stopId": 1174,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR004",
+        "stopId": 2426,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "name": "Masjid Jamek Layang Layang",
+    "route": "SR002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "SR002",
+    "lat": "1.80944811",
+    "lng": "103.48110020",
+    "distance": 13390.5
+  }
+]

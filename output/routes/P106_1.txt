@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1068,
+    "name": "PPR Sri Stulang,Jalan Sri Stulang",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P102, P103, P106",
+    "lat": "1.49486564",
+    "lng": "103.78768620",
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 583,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 307,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "name": "Taman Sri Bayu (petronas)",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P102,P103,P106, P311",
+    "lat": "1.49715000",
+    "lng": "103.78948000",
+    "distance": 2177.4,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 204,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1172,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1057,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "SMK Permas Jaya 2 (Bus Stop)",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P106",
+    "lat": "1.49422900",
+    "lng": "103.81304100",
+    "distance": 2990.7,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 1102,
+        "distance": 7.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Aeon Permas",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P106",
+    "lat": "1.49604000",
+    "lng": "103.81635000",
+    "distance": 600.9
+  },
+  {
+    "id": 373,
+    "name": "Mon Glori Apartment,Jalan Permas 7",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P106",
+    "lat": "1.49994891",
+    "lng": "103.82199530",
+    "distance": 1059.3,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 371,
+        "distance": 171.5
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 372,
+        "distance": 18.8
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Kampung Plentong Baru,Jalan Masai Lama",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P106, P301",
+    "lat": "1.52103786",
+    "lng": "103.82060110",
+    "distance": 3112,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2452,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Opposite Taman Perindustrian Plentong,Jalan Masai Lama",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P106, P301",
+    "lat": "1.52630159",
+    "lng": "103.81666690",
+    "distance": 772.2,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 968,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Tesco Plentong",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P106,P301",
+    "lat": "1.52077000",
+    "lng": "103.81521000",
+    "distance": 1118.5,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2453,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Giant Hypermart Plentong,Jalan Masai Lama",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P106",
+    "lat": "1.52786956",
+    "lng": "103.81599460",
+    "distance": 1208.7
+  },
+  {
+    "id": 364,
+    "name": "Taman Seroja,Jalan Johor Jaya",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P106",
+    "lat": "1.53102362",
+    "lng": "103.81451820",
+    "distance": 527.4
+  },
+  {
+    "id": 363,
+    "name": "Hua Yee Tiling,Jalan Dedap 1",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P106",
+    "lat": "1.53319660",
+    "lng": "103.80569600",
+    "distance": 1219.8,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 362,
+        "distance": 178.3
+      }
+    ]
+  },
+  {
+    "id": 2607,
+    "name": "Masjid Taman Johor Jaya",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P106",
+    "lat": "1.53821305",
+    "lng": "103.79902790",
+    "distance": 1055.6
+  },
+  {
+    "id": 112,
+    "name": "Pasar Awam Johor Jaya (Bus Stop)",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P106, P112",
+    "lat": "1.54425700",
+    "lng": "103.79949400",
+    "distance": 990.4
+  },
+  {
+    "id": 2608,
+    "name": "Aeon Tebrau",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P106",
+    "lat": "1.55176000",
+    "lng": "103.79659000",
+    "distance": 1140.2,
+    "intersections": [
+      {
+        "withRoute": "P111",
+        "stopId": 6,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2609,
+    "name": "Hospital Sultan Ismail ",
+    "route": "P106",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P106",
+    "lat": "1.54603000",
+    "lng": "103.78914000",
+    "distance": 1452.4,
+    "intersections": [
+      {
+        "withRoute": "P111",
+        "stopId": 36,
+        "distance": 0
+      }
+    ]
+  }
+]

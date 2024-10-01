@@ -1,0 +1,66 @@
+[
+  {
+    "id": 837,
+    "name": "Taman Seri Anggerik,Jalan Muar",
+    "route": "MU003",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "MU003",
+    "lat": "2.04651873",
+    "lng": "102.61335550",
+    "intersections": [
+      {
+        "withRoute": "MU003",
+        "stopId": 774,
+        "distance": 241.2
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "name": "Taman Seri Kasih,Jalan Bentayan",
+    "route": "MU003",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "MU003",
+    "lat": "2.04719780",
+    "lng": "102.60249330",
+    "distance": 1232.3,
+    "intersections": [
+      {
+        "withRoute": "MU003",
+        "stopId": 2399,
+        "distance": 212.5
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "name": "Taman Bakawali (Bus Stop)",
+    "route": "MU003",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "MU003",
+    "lat": "2.04752200",
+    "lng": "102.59659400",
+    "distance": 657.4
+  },
+  {
+    "id": 2483,
+    "name": "Tmn. Maharani, Jln. Bakri(Bus Stop)",
+    "route": "MU003",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "2.04777200",
+    "lng": "102.59078000",
+    "distance": 666.9,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 756,
+        "distance": 0
+      }
+    ]
+  }
+]

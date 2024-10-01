@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1238,
+    "name": "Perhentian bas Dan Teksi Tangkak",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "TK001, TK001A",
+    "lat": "2.26833800",
+    "lng": "102.54118300",
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 1239,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2661,
+        "distance": 5.1
+      }
+    ]
+  },
+  {
+    "id": 2484,
+    "name": "SMK Ledang",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.27090898",
+    "lng": "102.52638670",
+    "distance": 2295.6,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2441,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2486,
+    "name": "Taman Sri Ledang,Jalan Sialang",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.27245107",
+    "lng": "102.52779320",
+    "distance": 277.1,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2445,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK001",
+        "stopId": 2435,
+        "distance": 137.4
+      }
+    ]
+  },
+  {
+    "id": 2487,
+    "name": "Majlis Daerah Tangkak",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.27190000",
+    "lng": "102.52890000",
+    "distance": 137.4,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2445,
+        "distance": 137.4
+      },
+      {
+        "withRoute": "TK001",
+        "stopId": 2435,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2488,
+    "name": "SJKC Chi Meng",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.27250000",
+    "lng": "102.53580000",
+    "distance": 1162.2,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2440,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2489,
+    "name": "Rumah Pangsa (Jalan Ong Siong)",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.27654452",
+    "lng": "102.53773830",
+    "distance": 744.8,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2438,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2490,
+    "name": "SMK Tun Mamat",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.27899200",
+    "lng": "102.54765900",
+    "distance": 1596.6,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2444,
+        "distance": 14.5
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2867,
+        "distance": 14.5
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2837,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2491,
+    "name": "Kolej Komuniti Ledang (Bus Stop)",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.28619400",
+    "lng": "102.55919900",
+    "distance": 1744.2,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2864,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2492,
+    "name": "Sekolah Kebangsaan Paya Mas,Jalan Payamas",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.28421800",
+    "lng": "102.55253500",
+    "distance": 873.5,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2865,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2493,
+    "name": "Kampung Paya Mas,Jalan Payamas",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.28365300",
+    "lng": "102.55039000",
+    "distance": 315,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2866,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2494,
+    "name": "Opposite SMK Tun Mamat",
+    "route": "TK001A",
+    "bound_type": 2,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "2.27904457",
+    "lng": "102.54782430",
+    "distance": 633.8,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2444,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2867,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2837,
+        "distance": 14.5
+      }
+    ]
+  }
+]

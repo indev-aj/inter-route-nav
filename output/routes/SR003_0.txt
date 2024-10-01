@@ -1,0 +1,379 @@
+[
+  {
+    "id": 1174,
+    "name": "Terminal Bas Renggam",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "SR002, SR003, SR004",
+    "lat": "1.88507791",
+    "lng": "103.40245600",
+    "intersections": [
+      {
+        "withRoute": "SR002",
+        "stopId": 2421,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR004",
+        "stopId": 2426,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Kampung Melayu",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "SR003, SR004",
+    "lat": "1.88397538",
+    "lng": "103.40050440",
+    "distance": 323.8,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 1134,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Klinik Kesihatan Renggam",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "SR003, SR004",
+    "lat": "1.88476530",
+    "lng": "103.39599060",
+    "distance": 580.3,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 1035,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "name": "Kompleks Perumahan dan Pengurusan Sime Darby (Tiang 2)",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "SR003",
+    "lat": "1.86775588",
+    "lng": "103.37228570",
+    "distance": 3286.6,
+    "intersections": [
+      {
+        "withRoute": "SR003",
+        "stopId": 626,
+        "distance": 75.4
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "name": "Ladang Tun Dr. Ismail (Tiang 2)",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "SR003",
+    "lat": "1.84804850",
+    "lng": "103.34970630",
+    "distance": 3610.5
+  },
+  {
+    "id": 1133,
+    "name": "Penjara Simpang Renggam (Tiang 2)",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "SR001, SR003",
+    "lat": "1.84213880",
+    "lng": "103.33808540",
+    "distance": 1510.9,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2385,
+        "distance": 197.3
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2386,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1033,
+        "distance": 159.4
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "name": "Taman Rengggam Jaya",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "SR001, SR003",
+    "lat": "1.83798842",
+    "lng": "103.32792980",
+    "distance": 1303.4,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2384,
+        "distance": 182
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2387,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1131,
+        "distance": 182
+      }
+    ]
+  },
+  {
+    "id": 1132,
+    "name": "Kampung Batu 7 Blok 3",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "SR001, SR003",
+    "lat": "1.83756592",
+    "lng": "103.32563090",
+    "distance": 451,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2388,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2391,
+        "distance": 240.5
+      }
+    ]
+  },
+  {
+    "id": 1130,
+    "name": "Taman Purnama (Tiang 2)",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "SR001, SR003",
+    "lat": "1.83739194",
+    "lng": "103.32364070",
+    "distance": 240.5,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2382,
+        "distance": 30.9
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2388,
+        "distance": 240.5
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2391,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2392,
+        "distance": 192.4
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1129,
+        "distance": 30.9
+      }
+    ]
+  },
+  {
+    "id": 1128,
+    "name": "Taman Permata",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "SR001, SR003",
+    "lat": "1.83661183",
+    "lng": "103.32220610",
+    "distance": 192.4,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2382,
+        "distance": 161.5
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2391,
+        "distance": 192.4
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2392,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1129,
+        "distance": 161.5
+      }
+    ]
+  },
+  {
+    "id": 1126,
+    "name": "Simpang Lorong Murni (Tiang 2)",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "SR001, SR003",
+    "lat": "1.83511908",
+    "lng": "103.31984870",
+    "distance": 326.6,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2381,
+        "distance": 42.4
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2393,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2395,
+        "distance": 215
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1127,
+        "distance": 42.4
+      }
+    ]
+  },
+  {
+    "id": 1125,
+    "name": "Taman Pinggir",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "SR001, SR003",
+    "lat": "1.83465673",
+    "lng": "103.31801280",
+    "distance": 215,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2381,
+        "distance": 246
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2393,
+        "distance": 215
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2395,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1127,
+        "distance": 246
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "Kg. Cokro",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "SR001, SR003",
+    "lat": "1.83341328",
+    "lng": "103.31564340",
+    "distance": 304.8,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2396,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2400,
+        "distance": 194.9
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Simpang Jalan Hj Amir",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "SR001, SR003",
+    "lat": "1.83201681",
+    "lng": "103.31460720",
+    "distance": 194.9,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2396,
+        "distance": 194.9
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2400,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "SK Simpang Renggam (Tiang 2)",
+    "route": "SR003",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "SR001, SR003",
+    "lat": "1.82888451",
+    "lng": "103.31127180",
+    "distance": 512.6,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2380,
+        "distance": 30.1
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2401,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1021,
+        "distance": 30.1
+      }
+    ]
+  }
+]

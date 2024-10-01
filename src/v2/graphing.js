@@ -22,7 +22,7 @@ class Graphing {
         XLSX.utils.book_append_sheet(workbook, worksheet, 'Intersections');
 
         // Define the filename and write the file
-        const fileName = 'intersections.xlsx';
+        const fileName = 'output/intersections.xlsx';
         XLSX.writeFile(workbook, fileName);
 
         console.log(`Data saved to ${fileName}`);
@@ -30,7 +30,7 @@ class Graphing {
 
     static saveToJsonFile = (data) => {
         const jsonString = JSON.stringify(data, null, 2);  // Pretty-print the JSON with 2-space indentation
-        const fileName = 'routes_with_intersections.json';  // Define the output filename
+        const fileName = 'output/routes_with_intersections.json';  // Define the output filename
 
         try {
             fs.writeFile(fileName, jsonString, 'utf8');  // Write the JSON data to a file
@@ -42,11 +42,26 @@ class Graphing {
         }
     };
 
+    static saveToFile = (title, data) => {
+        const filename = 'output/' + title + '.txt';
+
+        // Convert the array (or object) to a string
+        const dataString = JSON.stringify(data, null, 2); // Otherwise, convert to JSON string
+
+        fs.writeFile(filename, dataString, (err) => {
+            if (err) {
+                console.error('Error writing to file:', err);
+            } else {
+                // console.log('File written successfully');
+            }
+        });
+    }
+
     // Function to print the graph
-    static printGraph = (graph) => {
+    static printGraph = (graph, log = true) => {
         // Access the internal graph structure (which is a Map)
         const internalGraph = graph.graph;
-        console.log(internalGraph)
+        if (log) console.log(internalGraph)
 
         const graphObject = {};
         internalGraph.forEach((edges, node) => {
@@ -57,7 +72,7 @@ class Graphing {
         const graphString = JSON.stringify(graphObject, null, 2); // Pretty print with 2 spaces indentation
 
         // Write the stringified graph to a file
-        fs.writeFile('graph.txt', graphString, (err) => {
+        fs.writeFile('output/graph.txt', graphString, (err) => {
             if (err) {
                 console.error('Error writing the graph to file:', err);
             } else {
@@ -73,7 +88,7 @@ class Graphing {
             name,
             route,
             bound_type,
-            SEQUENCE,
+            sequence,
             station_code,
             lat,
             lng
@@ -82,7 +97,7 @@ class Graphing {
         ORDER BY
             route,
             bound_type,
-            SEQUENCE;
+            sequence;
         `;
 
         try {
@@ -216,14 +231,9 @@ class Graphing {
             }
         
             const data = await response.json();
-            
-            // Extract distances between Route A and Route B
             const distances = data.distances;
         
-            // Slice the matrix to only include distances between Route A and Route B
-            const relevantDistances = distances.slice(0, locationsA.length).map(row => row.slice(locationsA.length));
-        
-            return relevantDistances;
+            return distances;
         } catch (error) {
             console.error('Error fetching OSRM data:', error);
         }
@@ -236,17 +246,24 @@ class Graphing {
         const locationsA = routeA.map(stop => ({ lat: stop.lat, lng: stop.lng }));
         const locationsB = routeB.map(stop => ({ lat: stop.lat, lng: stop.lng }));
     
-        // Fetch distance matrix between all stops in Route A and Route B
         const distances = await this.calculateDistanceBatches(locationsA, locationsB);
     
-        // Loop through the distance matrix and check if any stop pair is within the threshold
-        for (let i = 0; i < distances.length; i++) {
-            for (let j = 0; j < distances[i].length; j++) {
-                const distance = distances[i][j];
+        // Append within-route distances for Route A
+        for (let i = 0; i < locationsA.length - 1; i++) {
+            const distance = distances[i][i + 1];  // Distance between stops in routeA
+            routeA[i + 1].distance = distance;    // Append distance to the next stop
+        }
 
-                // skip if still contains data for same route
-                const fromRoute = `${routeA[i].route} Bound: ${routeA[i].bound_type}`;
-                const toRoute = `${routeB[j].route} Bound: ${routeB[j].bound_type}`;
+        // Append within-route distances for Route B
+        for (let i = 0; i < locationsB.length - 1; i++) {
+            const distance = distances[locationsA.length + i][locationsA.length + i + 1]; // Distance in routeB
+            routeB[i + 1].distance = distance;  // Append distance to the next stop
+        }
+
+        // Loop through the distance matrix and check if any stop pair is within the distance threshold
+        for (let i = 0; i < locationsA.length; i++) {
+            for (let j = 0; j < locationsB.length; j++) {
+                const distance = distances[i][locationsA.length + j];
                 
                 if (distance !== null && distance <= distanceThreshold) {
 
@@ -296,10 +313,6 @@ class Graphing {
             }
         }
         console.timeEnd('batch');
-
-        // this.saveToJsonFile(data);
-        // this.saveToExcel(allIntersections);
-
         return data;
     }
 
@@ -331,6 +344,7 @@ class Graphing {
                 if (!toStop.intersections) {
                     toStop.intersections = [];
                 }
+
                 // Add the intersection info to the stop in routeB
                 toStop.intersections.push({
                     withRoute: intersection.fromRoute,
@@ -396,40 +410,44 @@ class Graphing {
     //     ]
     // };
 
-    // Initialize the Dijkstra graph
-    // const routeGraph = new Graph();
-
     static createConnectionWIthinRoute = (route) => {
+        let curr;
         try {
             for (let i = 0; i < route.length - 1; i++) {
                 const currentStop = route[i];
                 const nextStop = route[i + 1];
     
-                const nodes = {};
-    
-                // Create node names for each stop (format: routeName_stopId)
-                // Create node for the next stop in sequence
                 const currentNode = `${currentStop.route}_${currentStop.id}`;
                 const nextNode = `${nextStop.route}_${nextStop.id}`;
+
+                curr = currentNode;
     
-                nodes[nextNode] = 1;
+                let existingConnections = this.routeGraph.graph.get(currentNode) || {};
+                let distance = nextStop.distance;
+
+                // force distance cost to be at least 1
+                if (!distance || distance <= 0) distance = 1;
+
+                const neighbors = { ...existingConnections, [nextNode]: distance};
     
-                // Create node for intersection
+                // Add intersections, if any
                 if (currentStop.intersections) {
-                    console.log('intersection found for: ', currentStop.name)
+                    // console.log('Intersection found for: ', currentStop.name);
                     currentStop.intersections.forEach(intersection => {
-                        const fromNode = `${currentStop.route}_${currentStop.id}`;
                         const toNode = `${intersection.withRoute}_${intersection.stopId}`;
-                        const distance = intersection.distance; // Use the distance from the intersection data
-                        
-                        nodes[toNode] = distance;
+                        let distance = intersection.distance; // Use the distance from the intersection data
+    
+                        // force distance cost to be at least 1 
+                        if (distance <= 0) distance = 1;
+                        neighbors[toNode] = distance;
                     });
                 }
-                
-                this.routeGraph.addNode(currentNode, nodes);
+    
+                this.routeGraph.addNode(currentNode, neighbors);
             }
         } catch (error) {
             console.error("Unable to create connection: ", error);
+            console.error("Attempted to create node: ", curr);
         }
     }
 
@@ -437,16 +455,14 @@ class Graphing {
         // Add all routes to the graph
         Object.keys(routes).forEach(routeKey => {
             const route = routes[routeKey];
-        
+            
+            this.saveToFile("routes/" + routeKey, route);
             // Add connections within the same route
             this.createConnectionWIthinRoute(route);
         });
 
-        this.printGraph(this.routeGraph);
+        this.printGraph(this.routeGraph, false);
     }
-
-    // calculateBatches();
-    // drawGraph();
 }
 
 export default Graphing;

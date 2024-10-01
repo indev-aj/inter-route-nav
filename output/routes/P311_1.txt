@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1181,
+    "name": "Terminal Bas And Teksi Pasir Gudang",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P301, P302, P303, P311, P312",
+    "lat": "1.46574321",
+    "lng": "103.90106280",
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2450,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 1110,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 1183,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1184,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Sekolah Agama Taman Rinting, Masai , Lebuh raya Pasir Gudang",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P311",
+    "lat": "1.48420544",
+    "lng": "103.87999790",
+    "distance": 3959.4
+  },
+  {
+    "id": 404,
+    "name": "Lebuhraya Pasir Gudang, berhampiran Jalan Sungai Rinting, Taman RintingLebuhraya Pasir Gudang, berhampiran Jalan Sungai Rinting, Taman Rinting",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P311",
+    "lat": "1.48854159",
+    "lng": "103.87592770",
+    "distance": 658.8
+  },
+  {
+    "id": 406,
+    "name": "Mydin Taman Rinting",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P311",
+    "lat": "1.49085598",
+    "lng": "103.86644380",
+    "distance": 1483.3
+  },
+  {
+    "id": 407,
+    "name": "Opposite SMK Taman Rinting 2,Jalan Rinting",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P311",
+    "lat": "1.48818832",
+    "lng": "103.86439620",
+    "distance": 372.6
+  },
+  {
+    "id": 408,
+    "name": "Sekolah Kebangsaan Taman Rinting 3,Jalan Ketapang",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P311",
+    "lat": "1.48433344",
+    "lng": "103.85925530",
+    "distance": 859.5
+  },
+  {
+    "id": 409,
+    "name": "Flat Ketapang,Jalan Ketapang",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P311",
+    "lat": "1.48624185",
+    "lng": "103.85808710",
+    "distance": 246.6,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 410,
+        "distance": 163.6
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "name": "Bandar Baru Permas Jaya",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P106, P311",
+    "lat": "1.49385505",
+    "lng": "103.81310300",
+    "distance": 6812.1,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 375,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1091,
+    "name": "Taman Sri Stualang,JB East Coast Highway",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P102, P103, P106, P311",
+    "lat": "1.49682995",
+    "lng": "103.78938730",
+    "distance": 2776.7,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 306,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1092,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 1066,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2447,
+    "name": "Taman Iskandar (Bus Stop)",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.49046000",
+    "lng": "103.78590000",
+    "distance": 1367.6,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 180,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1093,
+    "name": "R&amp;F Mall",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P102, P311",
+    "lat": "1.46035062",
+    "lng": "103.76941150",
+    "distance": 5588.8,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 310,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "name": "JB Sentral",
+    "route": "P311",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P101, P102, P311",
+    "lat": "1.46338278",
+    "lng": "103.76490120",
+    "distance": 1192.9,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 1215,
+        "distance": 0
+      },
+      {
+        "withRoute": "P102",
+        "stopId": 1169,
+        "distance": 0
+      }
+    ]
+  }
+]

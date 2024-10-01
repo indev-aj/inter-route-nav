@@ -1,0 +1,48 @@
+[
+  {
+    "id": 343,
+    "name": "Kawasan Perindustrian Kempas,Jalan Kempas",
+    "route": "P113",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P113",
+    "lat": "1.51389700",
+    "lng": "103.73140000"
+  },
+  {
+    "id": 345,
+    "name": "Kempas Denai, Jalan Kempas",
+    "route": "P113",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "P113",
+    "lat": "1.52076304",
+    "lng": "103.72642130",
+    "distance": 940.1,
+    "intersections": [
+      {
+        "withRoute": "P113",
+        "stopId": 68,
+        "distance": 224.9
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Surau AL MUHTADIN, Jalan Kempas",
+    "route": "P113",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P113",
+    "lat": "1.52556564",
+    "lng": "103.72320420",
+    "distance": 640.8,
+    "intersections": [
+      {
+        "withRoute": "P113",
+        "stopId": 347,
+        "distance": 188.6
+      }
+    ]
+  }
+]

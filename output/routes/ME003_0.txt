@@ -1,0 +1,63 @@
+[
+  {
+    "id": 677,
+    "name": "SJK ( C ) Chiao Ching,Jalan Haji Arrifin",
+    "route": "ME003",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "ME003",
+    "lat": "2.65037149",
+    "lng": "103.62599370"
+  },
+  {
+    "id": 2383,
+    "name": "Taman Gemilang,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "2.64715900",
+    "lng": "103.63757600",
+    "distance": 1338.1
+  },
+  {
+    "id": 674,
+    "name": "Kampung Belukar Juling,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "ME003",
+    "lat": "2.64574793",
+    "lng": "103.65674430",
+    "distance": 2148.1
+  },
+  {
+    "id": 671,
+    "name": "SK Teriang,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "ME003",
+    "lat": "2.62791945",
+    "lng": "103.72003650",
+    "distance": 7505.3,
+    "intersections": [
+      {
+        "withRoute": "ME003",
+        "stopId": 670,
+        "distance": 162
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Sekolah Agama Simpang Penyabong",
+    "route": "ME003",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "ME003",
+    "lat": "2.62493707",
+    "lng": "103.74533570",
+    "distance": 3626.2
+  }
+]

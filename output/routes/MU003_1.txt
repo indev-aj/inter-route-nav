@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1074,
+    "name": "Terminal Maharani",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "MU001, MU003",
+    "lat": "2.04669694",
+    "lng": "102.56485480",
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 752,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 2390,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2424,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2427,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2507,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2398,
+    "name": "Terminal Feri Bandar Maharani Bandar Diraja",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.04804211",
+    "lng": "102.56686930",
+    "distance": 272.6,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1058,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 1178,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2407,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2428,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2508,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1140,
+    "name": "Pesta, Jalan Bakri",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "MU001, MU003",
+    "lat": "2.04830000",
+    "lng": "102.58490000",
+    "distance": 2325.4
+  },
+  {
+    "id": 2399,
+    "name": "Masjid Nur Manir Batu 3",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.04726900",
+    "lng": "102.60441200",
+    "distance": 2549.8,
+    "intersections": [
+      {
+        "withRoute": "MU003",
+        "stopId": 834,
+        "distance": 212.5
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "name": "Taman Meranti (Jalan Bentayan)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "MU003",
+    "lat": "2.04710000",
+    "lng": "102.60820000",
+    "distance": 448.4
+  },
+  {
+    "id": 774,
+    "name": "Sekolah Agama Simpang Jeram (Bus Stop)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "MU003",
+    "lat": "2.04792000",
+    "lng": "102.61366300",
+    "distance": 787.3,
+    "intersections": [
+      {
+        "withRoute": "MU003",
+        "stopId": 837,
+        "distance": 241.2
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "name": "Klinik Kesihatan Bakri",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "MU003",
+    "lat": "2.05180000",
+    "lng": "102.64880000",
+    "distance": 4912.2
+  },
+  {
+    "id": 770,
+    "name": "Pasar Awam Bukit Bakri (Jalan Tengah)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "MU003",
+    "lat": "2.04220000",
+    "lng": "102.65670000",
+    "distance": 2189.2
+  },
+  {
+    "id": 771,
+    "name": "MRSM Muar (Jalan Muar)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "MU003",
+    "lat": "2.04190000",
+    "lng": "102.65510000",
+    "distance": 226.5
+  },
+  {
+    "id": 838,
+    "name": "Taman Bakri Indah",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "MU003",
+    "lat": "2.04214548",
+    "lng": "102.65370810",
+    "distance": 157.1
+  },
+  {
+    "id": 839,
+    "name": "Kampung Kenangan Dato Abdul Jaafar,Jalan Muar",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "MU003",
+    "lat": "2.04249474",
+    "lng": "102.65150380",
+    "distance": 248.2
+  },
+  {
+    "id": 775,
+    "name": "Taman Bakri Mulia (Bus Stop)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "MU003",
+    "lat": "2.04280300",
+    "lng": "102.64972100",
+    "distance": 201.4
+  },
+  {
+    "id": 757,
+    "name": "Sekolah Agama Bakri Batu 6 (Tiada Bus Stop)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "MU003",
+    "lat": "2.04311400",
+    "lng": "102.64800500",
+    "distance": 194.1
+  },
+  {
+    "id": 840,
+    "name": "Taman Medan Bakri,Jalan Muar",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "MU003",
+    "lat": "2.04366865",
+    "lng": "102.64466500",
+    "distance": 409.5
+  },
+  {
+    "id": 772,
+    "name": "SK Bakri Batu 5 (Jalan Muar)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "MU003",
+    "lat": "2.04470000",
+    "lng": "102.63900000",
+    "distance": 712.1
+  },
+  {
+    "id": 841,
+    "name": "Kampung Sri Tanjung,Jalan Muar",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "MU003",
+    "lat": "2.04483761",
+    "lng": "102.63718040",
+    "distance": 202.8
+  },
+  {
+    "id": 776,
+    "name": "Taman Fajar (Bus Stop)",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "MU003",
+    "lat": "2.04591300",
+    "lng": "102.62533700",
+    "distance": 1324.4
+  },
+  {
+    "id": 843,
+    "name": "Taman Seri Bakri",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": "MU003",
+    "lat": "2.04592354",
+    "lng": "102.62419450",
+    "distance": 184.7
+  },
+  {
+    "id": 844,
+    "name": "Taman Seri Bakri II",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": "MU003",
+    "lat": "2.04603724",
+    "lng": "102.62270010",
+    "distance": 225.9
+  },
+  {
+    "id": 845,
+    "name": "Taman Seri Jeram 3",
+    "route": "MU003",
+    "bound_type": 1,
+    "sequence": 20,
+    "station_code": "MU003",
+    "lat": "2.04621667",
+    "lng": "102.62044600",
+    "distance": 313.7
+  }
+]

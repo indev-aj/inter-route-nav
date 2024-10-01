@@ -1,0 +1,369 @@
+[
+  {
+    "id": 214,
+    "name": "Terminal Larkin",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P101,P103,P104,P112,P113,P411,P211",
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Dewan Serbaguna JKR Daerah Johor Bahru",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P101, P104, P211, P411",
+    "lat": "1.49168658",
+    "lng": "103.74089400",
+    "distance": 438.5,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2472,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1170,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1088,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1162,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Taman Nong Chik,Jalan Kolam Ayer",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P101",
+    "lat": "1.47222950",
+    "lng": "103.73677320",
+    "distance": 2332.4,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2473,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Tahfiz masjid nong chik",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P101",
+    "lat": "1.46873000",
+    "lng": "103.73679000",
+    "distance": 386.9,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2474,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Sekolah Kebangsaan Nong Chik,Jalan Kolam Ayer -",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P101",
+    "lat": "1.46734971",
+    "lng": "103.73679890",
+    "distance": 152.5,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2474,
+        "distance": 152.5
+      },
+      {
+        "withRoute": "HSA",
+        "stopId": 2475,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Maktab Sultan Abu Bakar (English College)",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P101",
+    "lat": "1.46258180",
+    "lng": "103.73963820",
+    "distance": 667.4,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2476,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Yayasan Warisan Johor",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P101",
+    "lat": "1.46209000",
+    "lng": "103.74076000",
+    "distance": 136.2,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2476,
+        "distance": 136.2
+      },
+      {
+        "withRoute": "HSA",
+        "stopId": 2477,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Hospital Sultanah Aminah",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P101",
+    "lat": "1.45745000",
+    "lng": "103.74675000",
+    "distance": 1143.3,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2478,
+        "distance": 0
+      },
+      {
+        "withRoute": "HSA-01",
+        "stopId": 2878,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Pusat Islam Negeri Johor,Jalan Abu Bakar",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P101",
+    "lat": "1.45666191",
+    "lng": "103.74939880",
+    "distance": 341.9,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2479,
+        "distance": 8.9
+      },
+      {
+        "withRoute": "HSA",
+        "stopId": 2480,
+        "distance": 0
+      },
+      {
+        "withRoute": "HSA-01",
+        "stopId": 2879,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Menara BSN (Bus Stop)",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P101",
+    "lat": "1.45965700",
+    "lng": "103.76208400",
+    "distance": 2183.2
+  },
+  {
+    "id": 235,
+    "name": "Wisma Persekutuan JB (Bus Stop)",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P101",
+    "lat": "1.46078300",
+    "lng": "103.75775500",
+    "distance": 1026.1
+  },
+  {
+    "id": 313,
+    "name": "Wisma Persekutuan,Jalan Ayer Molek",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P101",
+    "lat": "1.46077441",
+    "lng": "103.75775900",
+    "distance": -1
+  },
+  {
+    "id": 312,
+    "name": "MBJB,Jalan Ibrahim",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P101, P102",
+    "lat": "1.45552249",
+    "lng": "103.76171920",
+    "distance": 940.2,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 1096,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1215,
+    "name": "JB Sentral",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P101, P102, P311",
+    "lat": "1.46338278",
+    "lng": "103.76490120",
+    "distance": 1332.4,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 1169,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1095,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Menara MSC Cyberport",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P101",
+    "lat": "1.46218000",
+    "lng": "103.77201000",
+    "distance": 1704.6,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 2448,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Bukit Saujana",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "P101",
+    "lat": "1.47292000",
+    "lng": "103.74886000",
+    "distance": 3740.6
+  },
+  {
+    "id": 319,
+    "name": "Opposite Pangsapuri Sri Bendahari,Jalan Yahya Awal",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "P101",
+    "lat": "1.47516351",
+    "lng": "103.74789930",
+    "distance": 269.6
+  },
+  {
+    "id": 139,
+    "name": "SJK (T) Jalan Yahya Awal (Bus Stop)",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": "P101",
+    "lat": "1.47844000",
+    "lng": "103.74759000",
+    "distance": 365.4
+  },
+  {
+    "id": 318,
+    "name": "Hutan Bandar MBJB",
+    "route": "P101",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": "P101",
+    "lat": "1.48094023",
+    "lng": "103.74737270",
+    "distance": 277.5
+  }
+]

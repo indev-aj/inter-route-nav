@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1217,
+    "name": "Terminal Larkin",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "P101,P103,P104,P112,P113,P411,P211",
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1170,
+    "name": "Dewan Serbaguna JKR Daerah Johor Bahru",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "P101, P104, P211, P411",
+    "lat": "1.49168658",
+    "lng": "103.74089400",
+    "distance": 438.5,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2472,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 298,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1088,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1162,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "SK Bandar UDA 2 (Bus Stop)",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "P104",
+    "lat": "1.49397700",
+    "lng": "103.72103900",
+    "distance": 4348.1,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 337,
+        "distance": 187.3
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 338,
+        "distance": 197.6
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Opposite Taman Padi Malinja,Jalan Padi Mahsuri",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "P104",
+    "lat": "1.49474000",
+    "lng": "103.72012000",
+    "distance": 132.3,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 337,
+        "distance": 147.2
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Bandar Baru UDA,Jalan Padi Mahsuri",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": "P104",
+    "lat": "1.49660801",
+    "lng": "103.71746370",
+    "distance": 492.2
+  },
+  {
+    "id": 334,
+    "name": "Opposite Pangsapuri Titiwangsa,Jalan Padi Mahsuri",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "P104",
+    "lat": "1.49757296",
+    "lng": "103.71253210",
+    "distance": 943.6
+  },
+  {
+    "id": 333,
+    "name": "Bandar Baru UDA,Jalan Skudai Kanan",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "P104",
+    "lat": "1.49623444",
+    "lng": "103.71001420",
+    "distance": 420.6
+  },
+  {
+    "id": 7,
+    "name": "Angsana",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "P104",
+    "lat": "1.49601000",
+    "lng": "103.70766000",
+    "distance": 355.8
+  },
+  {
+    "id": 332,
+    "name": "Klinik Kesihatan Kempas,Jalan Persiaran Tanjung",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": "P104",
+    "lat": "1.50767709",
+    "lng": "103.70785420",
+    "distance": 1470.8,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 74,
+        "distance": -0.6
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Petronas Tmn Cempaka",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": "P104",
+    "lat": "1.51662000",
+    "lng": "103.70133000",
+    "distance": 1308.6,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 329,
+        "distance": 46.4
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Surau Tmn Cempaka",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 11,
+    "station_code": "P104",
+    "lat": "1.51716000",
+    "lng": "103.69941000",
+    "distance": 280.4,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 327,
+        "distance": 231.3
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 329,
+        "distance": 234
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Taman Cempaka,Jalan Persiaran Teratai",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 12,
+    "station_code": "P104",
+    "lat": "1.51554243",
+    "lng": "103.69835880",
+    "distance": 214.2,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 327,
+        "distance": 17.1
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Taman Dahlia,Jalan Persiaran Teratai",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 13,
+    "station_code": "P104",
+    "lat": "1.51224898",
+    "lng": "103.69602240",
+    "distance": 465
+  },
+  {
+    "id": 296,
+    "name": "Kuarters Timbalan Setia Negeri, Taman Dahlia",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 14,
+    "station_code": "P104",
+    "lat": "1.51037145",
+    "lng": "103.69475460",
+    "distance": 269.3
+  },
+  {
+    "id": 295,
+    "name": "Sekolah Kebangsaan Taman Melor,Jalan Persiaran Anggerik",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 15,
+    "station_code": "P104",
+    "lat": "1.50738316",
+    "lng": "103.69459930",
+    "distance": 499.2
+  },
+  {
+    "id": 238,
+    "name": "Taman Dato Penggawa Barat,Jalan Skudai",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 16,
+    "station_code": "P104, P211, P411",
+    "lat": "1.51209784",
+    "lng": "103.68708320",
+    "distance": 1328.3,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 1187,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1039,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Taman Johor, Opposite KipMall",
+    "route": "P104",
+    "bound_type": 2,
+    "sequence": 17,
+    "station_code": "P104, P211, P411",
+    "lat": "1.50889000",
+    "lng": "103.68924000",
+    "distance": 427.3,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 1231,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1230,
+        "distance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "id": 2427,
+    "name": "Terminal Maharani",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.04669694",
+    "lng": "102.56485480",
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 752,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 2390,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 1074,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2424,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2507,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2428,
+    "name": "Terminal Feri Bandar Maharani Bandar Diraja",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.04804211",
+    "lng": "102.56686930",
+    "distance": 272.6,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1058,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 1178,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 2398,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2407,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2508,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "name": "Tmn. Sri Terap (Bus Stop)",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "MU001, MU005",
+    "lat": "2.06722100",
+    "lng": "102.60242400",
+    "distance": 7460.1
+  },
+  {
+    "id": 801,
+    "name": "Kampung Tengah",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "MU005",
+    "lat": "2.06827600",
+    "lng": "102.60970500",
+    "distance": 1033.9
+  },
+  {
+    "id": 747,
+    "name": "Kampung Jeram Tepi",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "MU005",
+    "lat": "2.06184733",
+    "lng": "102.61641220",
+    "distance": 1042.9
+  },
+  {
+    "id": 746,
+    "name": "Surau Naib Kadir",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "MU005",
+    "lat": "2.07655205",
+    "lng": "102.62813190",
+    "distance": 2617.8
+  },
+  {
+    "id": 805,
+    "name": "Klinik Desa Jorak, Bkt Pasir",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "MU005",
+    "lat": "2.12921100",
+    "lng": "102.64570100",
+    "distance": 8274.7
+  },
+  {
+    "id": 804,
+    "name": "Surau Kampung Serpang",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "MU005",
+    "lat": "2.12686400",
+    "lng": "102.64727300",
+    "distance": 335.4
+  },
+  {
+    "id": 744,
+    "name": "Tanah Perkuburan Islam Jorak",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "MU005",
+    "lat": "2.12332668",
+    "lng": "102.64146250",
+    "distance": 772.4
+  },
+  {
+    "id": 745,
+    "name": "Simpang Jalan Raja",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "MU005",
+    "lat": "2.11715168",
+    "lng": "102.63238940",
+    "distance": 1255.9
+  },
+  {
+    "id": 803,
+    "name": "SMK Bukit Pasir",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "MU005",
+    "lat": "2.10648000",
+    "lng": "102.63462400",
+    "distance": 1219
+  },
+  {
+    "id": 1141,
+    "name": "Sekolah Kebangsaan Sri Bukit Pasir",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "MU004, MU005",
+    "lat": "2.09780473",
+    "lng": "102.63630730",
+    "distance": 1114.5,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 788,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "name": "Taman Sri Terap (Tiang 2)",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "MU001, MU005",
+    "lat": "2.06793800",
+    "lng": "102.60447000",
+    "distance": 6639.9,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 802,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1138,
+    "name": "SK Sungai Abong",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "MU001, MU005",
+    "lat": "2.06530000",
+    "lng": "102.60100000",
+    "distance": 604.2,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 751,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1139,
+    "name": "Pusat Perniagaan Kampung Tengah, Jalan Sungai Abong (Bus Stop)",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "MU001, MU005",
+    "lat": "2.06098100",
+    "lng": "102.59915900",
+    "distance": 647.9,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 755,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1167,
+    "name": "Hospital Pakar Sultanah Fatimah",
+    "route": "MU005",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "MU001, MU004, MU005",
+    "lat": "2.05673126",
+    "lng": "102.57423860",
+    "distance": 3033.4,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1168,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 11,
+        "distance": 0
+      }
+    ]
+  }
+]

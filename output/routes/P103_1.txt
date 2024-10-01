@@ -1,0 +1,173 @@
+[
+  {
+    "id": 307,
+    "name": "PPR Sri Stulang,Jalan Sri Stulang",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P102, P103, P106",
+    "lat": "1.49486564",
+    "lng": "103.78768620",
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 583,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 1068,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Midvalley Southkey",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P103,P102",
+    "lat": "1.50064600",
+    "lng": "103.77656400",
+    "distance": 2922.6,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 871,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 2606,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Taman Sentosa (Bus Stop)",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P103",
+    "lat": "1.49540100",
+    "lng": "103.77213700",
+    "distance": 2321.4
+  },
+  {
+    "id": 304,
+    "name": "Opposite Columbia Asia Hospital Tebrau",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P103",
+    "lat": "1.50060510",
+    "lng": "103.76498970",
+    "distance": 2594.4
+  },
+  {
+    "id": 32,
+    "name": "Giant Tmn Suria",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P103",
+    "lat": "1.50415000",
+    "lng": "103.76138000",
+    "distance": 838.5
+  },
+  {
+    "id": 301,
+    "name": "Kampung Melayu Majidee",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P103",
+    "lat": "1.50650935",
+    "lng": "103.75340230",
+    "distance": 1277.4
+  },
+  {
+    "id": 302,
+    "name": "Taman Perbadanan Islam Stulang Baru",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P103",
+    "lat": "1.50369725",
+    "lng": "103.75120060",
+    "distance": 545.5
+  },
+  {
+    "id": 300,
+    "name": "Larkin Jaya, Jalan Cendrawasih",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P103",
+    "lat": "1.50082609",
+    "lng": "103.74211880",
+    "distance": 1373.5,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 299,
+        "distance": 34.4
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2883,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "name": "Terminal Larkin",
+    "route": "P103",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P101,P103,P104,P112,P113,P411,P211",
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "distance": 1154.2,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  }
+]

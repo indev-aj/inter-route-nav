@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1097,
+    "name": "Nissan Mount Austin, Jalan Mutiara Emas Utama",
+    "route": "P111",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "P106, P111",
+    "lat": "1.54587249",
+    "lng": "103.78899020"
+  },
+  {
+    "id": 354,
+    "name": "Opposite Jalan Daya, Taman Setia Indah",
+    "route": "P111",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "P111",
+    "lat": "1.57320329",
+    "lng": "103.75946250",
+    "distance": 6280.5
+  },
+  {
+    "id": 127,
+    "name": "Pusat Perniagaan TD Point (Bus Stop)",
+    "route": "P111",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "P111",
+    "lat": "1.56643100",
+    "lng": "103.75938300",
+    "distance": 1913.5
+  },
+  {
+    "id": 164,
+    "name": "SMK Tmn Daya 3",
+    "route": "P111",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P111",
+    "lat": "1.56494000",
+    "lng": "103.76255000",
+    "distance": 1112.5
+  }
+]

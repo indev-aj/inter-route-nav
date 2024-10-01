@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2468,
+    "name": "Lotus Tebrau",
+    "route": "HSI",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "HSI",
+    "lat": "1.54681700",
+    "lng": "103.79439900"
+  },
+  {
+    "id": 2469,
+    "name": "Hospital Sultan Ismail (Pintu Utama)",
+    "route": "HSI",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "HSI",
+    "lat": "1.54716600",
+    "lng": "103.79081700",
+    "distance": 1431.6
+  },
+  {
+    "id": 2470,
+    "name": "Klinik Kesihatan Sultan Ismail",
+    "route": "HSI",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "HSI",
+    "lat": "1.54823100",
+    "lng": "103.79007800",
+    "distance": 232.6
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1119,
+    "name": "Terminal Bas Kota Masai",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P303, P314",
+    "lat": "1.48180631",
+    "lng": "103.95376850",
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 444,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Jalan Ixora 4, ~ Bandar Bistari Perdana",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P314",
+    "lat": "1.50572638",
+    "lng": "103.95010780",
+    "distance": 5129.2
+  },
+  {
+    "id": 131,
+    "name": "Sekolah Agama Dato' Hj Abdul Rahman Ahmad",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P314",
+    "lat": "1.52232450",
+    "lng": "103.93472350",
+    "distance": 4107.4
+  },
+  {
+    "id": 178,
+    "name": "Taman Desa Rakyat Perdana",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P314,P302",
+    "lat": "1.51377648",
+    "lng": "103.92245690",
+    "distance": 2159.7,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 1156,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Taman Cahaya Masai",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P314",
+    "lat": "1.50711857",
+    "lng": "103.92222980",
+    "distance": 736.7
+  },
+  {
+    "id": 447,
+    "name": "Taman Kota Masai, Jalan Kota Masai",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P314",
+    "lat": "1.49323732",
+    "lng": "103.92301420",
+    "distance": 1642.2
+  },
+  {
+    "id": 446,
+    "name": "Opposite Sekolah Kebangsaan Kota Masai 3,Jalan Kota Masai -",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P314",
+    "lat": "1.49072228",
+    "lng": "103.92689010",
+    "distance": 534.7
+  },
+  {
+    "id": 902,
+    "name": "Tesco Kota Masai",
+    "route": "P314",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P303,P314",
+    "lat": "1.48449351",
+    "lng": "103.93574640",
+    "distance": 1540.8,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 216,
+        "distance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1098,
+    "name": "Taman Perindustrian Plentong,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P106, P301",
+    "lat": "1.52598967",
+    "lng": "103.81708870",
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 367,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2454,
+    "name": "Klinik Desa Plentong,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "1.52120585",
+    "lng": "103.82082030",
+    "distance": 1236.7,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 368,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Taman Plentong Baru,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P301",
+    "lat": "1.52027521",
+    "lng": "103.82471200",
+    "distance": 466.6,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 380,
+        "distance": 170.3
+      },
+      {
+        "withRoute": "P301",
+        "stopId": 378,
+        "distance": 46.1
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Taman Perindustrian Sri Plentong,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P301",
+    "lat": "1.51887411",
+    "lng": "103.82614670",
+    "distance": 222.1
+  },
+  {
+    "id": 383,
+    "name": "Johor Granite Quarrey,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P301",
+    "lat": "1.51061569",
+    "lng": "103.83418880",
+    "distance": 1330
+  },
+  {
+    "id": 385,
+    "name": "Opposite Petron,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P301",
+    "lat": "1.50327949",
+    "lng": "103.85349310",
+    "distance": 2303.1,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 384,
+        "distance": 7.7
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Opposite Taman Perindustrian Kota Putri 1,Jalan Masai LamaOpposite Taman Perindustrian Kota Putri 1,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P301",
+    "lat": "1.49976853",
+    "lng": "103.86340110",
+    "distance": 1199.1,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 387,
+        "distance": 3.8
+      }
+    ]
+  },
+  {
+    "id": 2456,
+    "name": "Jalan Masai Lama, Petronas Bandar Seri Alam 2",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "1.49349782",
+    "lng": "103.87247440",
+    "distance": 1271.3,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1214,
+        "distance": 208.7
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Taman Rinting,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "P301, P312",
+    "lat": "1.49320969",
+    "lng": "103.87432470",
+    "distance": 208.7,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1214,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Opposite Kip Mall,Persiaran Dahlia 2",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "P301, P312",
+    "lat": "1.48202547",
+    "lng": "103.89176870",
+    "distance": 2818.6
+  },
+  {
+    "id": 396,
+    "name": "Taman Bukit Dahlia,Persiaran Dahlia 2",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": "P301, P312",
+    "lat": "1.47816141",
+    "lng": "103.89548650",
+    "distance": 681.7,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 397,
+        "distance": 91.2
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1109,
+        "distance": 91.2
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Opposite Sekolah Menengah Rendah Islam At-Tahfiz -",
+    "route": "P301",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": "P301",
+    "lat": "1.46860905",
+    "lng": "103.89885660",
+    "distance": 1571
+  }
+]

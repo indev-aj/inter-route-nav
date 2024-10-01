@@ -1,0 +1,237 @@
+[
+  {
+    "id": 2657,
+    "name": "Terminal Bas dan Teksi Kluang",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.03617998",
+    "lng": "103.32281295",
+    "intersections": [
+      {
+        "withRoute": "KL001",
+        "stopId": 2495,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "KL002",
+        "stopId": 1001,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "SR004",
+        "stopId": 1002,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 2731,
+    "name": "Affin Bank Kluang",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.03688800",
+    "lng": "103.33196200",
+    "distance": 1896.1
+  },
+  {
+    "id": 2732,
+    "name": "Kampung Paya Kluang",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.03949900",
+    "lng": "103.33657300",
+    "distance": 732.5
+  },
+  {
+    "id": 2733,
+    "name": "SMK Sultan Abdul Jalil ",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.05108200",
+    "lng": "103.34778800",
+    "distance": 1883.7
+  },
+  {
+    "id": 2734,
+    "name": "Taman Makmur",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.05186400",
+    "lng": "103.34950700",
+    "distance": 215
+  },
+  {
+    "id": 2735,
+    "name": "Taman Lambak",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.05377500",
+    "lng": "103.35361100",
+    "distance": 552.9,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2766,
+        "distance": 177.5
+      }
+    ]
+  },
+  {
+    "id": 2736,
+    "name": "Longterm Distribution",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.06701100",
+    "lng": "103.36479500",
+    "distance": 2103.8,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2763,
+        "distance": 147.6
+      }
+    ]
+  },
+  {
+    "id": 2737,
+    "name": "Taman Puteri",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.07036000",
+    "lng": "103.36598000",
+    "distance": 403,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2762,
+        "distance": 25.4
+      }
+    ]
+  },
+  {
+    "id": 2738,
+    "name": "Kampung Melayu 2 Batu 6",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.08380400",
+    "lng": "103.37317800",
+    "distance": 1768.9
+  },
+  {
+    "id": 2739,
+    "name": "Penjara Kluang",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.09829000",
+    "lng": "103.39138100",
+    "distance": 2785.6
+  },
+  {
+    "id": 2740,
+    "name": "Kampung Gajah ",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "2.10378000",
+    "lng": "103.39593800",
+    "distance": 868.3,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2759,
+        "distance": 84.5
+      }
+    ]
+  },
+  {
+    "id": 2741,
+    "name": "Taman Perdana ",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.10550600",
+    "lng": "103.39864600",
+    "distance": 386.3,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2758,
+        "distance": 10.8
+      }
+    ]
+  },
+  {
+    "id": 2742,
+    "name": "Kampung Contoh Kahang",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "2.20676100",
+    "lng": "103.52852900",
+    "distance": 20712.4
+  },
+  {
+    "id": 2743,
+    "name": "Taman Ria Kahang",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "2.21203700",
+    "lng": "103.53576900",
+    "distance": 994.3,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2756,
+        "distance": 23.5
+      }
+    ]
+  },
+  {
+    "id": 2744,
+    "name": "Taman Kahang Muhibah",
+    "route": "KL003",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "2.21509200",
+    "lng": "103.53972500",
+    "distance": 554.9,
+    "intersections": [
+      {
+        "withRoute": "KL003",
+        "stopId": 2745,
+        "distance": 177
+      },
+      {
+        "withRoute": "KL003",
+        "stopId": 2754,
+        "distance": 238.1
+      }
+    ]
+  }
+]

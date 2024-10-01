@@ -1,0 +1,327 @@
+[
+  {
+    "id": 124,
+    "name": "PPR Melana",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P203",
+    "lat": "1.50327600",
+    "lng": "103.67844300"
+  },
+  {
+    "id": 267,
+    "name": "Taman Nusa Bestari 2,Jalan Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P203, P212",
+    "lat": "1.50091546",
+    "lng": "103.65377650",
+    "distance": 3842,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2671,
+        "distance": 0
+      },
+      {
+        "withRoute": "P212",
+        "stopId": 1048,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Taman Nusa Bestari Jaya (Bus Stop)",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P203",
+    "lat": "1.49871200",
+    "lng": "103.65567100",
+    "distance": 945.4,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2680,
+        "distance": 0
+      },
+      {
+        "withRoute": "P212",
+        "stopId": 2682,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Taman Selesa Jaya, Jalan Silat Lincah 6",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P203",
+    "lat": "1.48905081",
+    "lng": "103.63934440",
+    "distance": 3410.3,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2673,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Taman Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P203",
+    "lat": "1.49208034",
+    "lng": "103.64020780",
+    "distance": 366.2,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2674,
+        "distance": 0
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 2675,
+        "distance": 229.2
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Taman Industri Jaya,Jalan Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P203",
+    "lat": "1.49362773",
+    "lng": "103.64157940",
+    "distance": 229.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2674,
+        "distance": 229.1
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 2675,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Taman Jaya Mas,Jalan Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P203",
+    "lat": "1.49575392",
+    "lng": "103.64367630",
+    "distance": 330.7,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2676,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Taman Timur,Jalan Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P203",
+    "lat": "1.49816923",
+    "lng": "103.64684690",
+    "distance": 442.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2677,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Bandar Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P203,P212",
+    "lat": "1.50047400",
+    "lng": "103.65079500",
+    "distance": 507.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2678,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "P212",
+        "stopId": 189,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bandar Selesa Jaya (Tiang 2)",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P203,P212",
+    "lat": "1.50110000",
+    "lng": "103.65428000",
+    "distance": 399.7,
+    "intersections": [
+      {
+        "withRoute": "P212",
+        "stopId": 2681,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Opposite SMK Tun Aminah,Jalan Sutera Pulai 2/1",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P203",
+    "lat": "1.51280189",
+    "lng": "103.65792460",
+    "distance": 2325.4
+  },
+  {
+    "id": 17,
+    "name": "Taman Nusa Bestari Jaya,Jalan Selesa Jaya",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P203,P212",
+    "lat": "1.50068000",
+    "lng": "103.65120000",
+    "distance": 3145.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2678,
+        "distance": 49.7
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Caltex Taman Ungku Tun Aminah",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P203",
+    "lat": "1.51372722",
+    "lng": "103.65693230",
+    "distance": 2443.9
+  },
+  {
+    "id": 923,
+    "name": "Taman Nakhoda,Jalan Tun Aminah",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P203, P203",
+    "lat": "1.51584919",
+    "lng": "103.65720380",
+    "distance": 315.4,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 2599,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1165,
+    "name": "Taman Nakhoda Tabib Wee Hong,Jalan Tun Aminah",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P202, P203",
+    "lat": "1.51787454",
+    "lng": "103.65912320",
+    "distance": 309.5,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 259,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "name": "Terminal Tun Aminah,Jalan Tun Aminah",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P202, P203",
+    "lat": "1.51970634",
+    "lng": "103.66083610",
+    "distance": 278.2,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 261,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Tmn Sutera Utama",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "P203",
+    "lat": "1.51525000",
+    "lng": "103.66747000",
+    "distance": 1071.1
+  },
+  {
+    "id": 239,
+    "name": "Kip Mall",
+    "route": "P203",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "P203, P211, P411",
+    "lat": "1.50810954",
+    "lng": "103.68920150",
+    "distance": 5824.7,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 910,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 911,
+        "distance": 0
+      }
+    ]
+  }
+]

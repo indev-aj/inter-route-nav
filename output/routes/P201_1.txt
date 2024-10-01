@@ -1,0 +1,329 @@
+[
+  {
+    "id": 215,
+    "name": "Terminal Taman U",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P201,P202,P211,P213,P214 ",
+    "lat": "1.53844000",
+    "lng": "103.62847000",
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 901,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1051,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1034,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Aeon Taman Universiti (ke Terminal)",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P201,P211",
+    "lat": "1.54210000",
+    "lng": "103.62989000",
+    "distance": 1066.7,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2598,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 2670,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Taman Pulai Utama,Jalan Perdagangan ",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P201",
+    "lat": "1.54457300",
+    "lng": "103.62492700",
+    "distance": 756.4
+  },
+  {
+    "id": 234,
+    "name": "U Mall, Tmn Pulai Utama",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P201",
+    "lat": "1.54722000",
+    "lng": "103.62244000",
+    "distance": 402.9
+  },
+  {
+    "id": 190,
+    "name": "Taman Pulai Flora,Jalan Pulai ",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P201",
+    "lat": "1.55060400",
+    "lng": "103.62423900",
+    "distance": 521.4
+  },
+  {
+    "id": 225,
+    "name": "Tmn Pulai Perdana",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P201",
+    "lat": "1.56112000",
+    "lng": "103.61677000",
+    "distance": 1852.7
+  },
+  {
+    "id": 55,
+    "name": "Jalan Teratai, Tmn Teratai",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P201",
+    "lat": "1.56777000",
+    "lng": "103.61303000",
+    "distance": 1161.7,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2592,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Jln Palas 5, Tmn Teratai",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P201",
+    "lat": "1.57053000",
+    "lng": "103.61225000",
+    "distance": 321.4,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2593,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Taman Teratai,Jalan Rotan",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P201",
+    "lat": "1.57152000",
+    "lng": "103.61407100",
+    "distance": 296.8,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2594,
+        "distance": 176.2
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Taman Teratai Stop 2,Jalan Rotan",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P201",
+    "lat": "1.57138837",
+    "lng": "103.61708340",
+    "distance": 335.4,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2594,
+        "distance": 159.2
+      },
+      {
+        "withRoute": "P201",
+        "stopId": 2595,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Tmn Sri Pulai",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P201",
+    "lat": "1.56858000",
+    "lng": "103.61893000",
+    "distance": 514.7,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2596,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Taman Sri Pulai (Bus Stop)",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P201",
+    "lat": "1.56359200",
+    "lng": "103.61887000",
+    "distance": 551.7,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 2597,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Opposite Taman Sri Pulai,Jalan Skudai - Pontian",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P201",
+    "lat": "1.56236900",
+    "lng": "103.61769900",
+    "distance": 297.3
+  },
+  {
+    "id": 193,
+    "name": "Taman Pulai Perdana,Jalan Skudai - Pontian",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P201",
+    "lat": "1.56557400",
+    "lng": "103.61174100",
+    "distance": 759.2
+  },
+  {
+    "id": 99,
+    "name": "Opposite Kampung Nesa,Jalan Skudai - Pontian",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P201",
+    "lat": "1.56642700",
+    "lng": "103.60589400",
+    "distance": 668.6
+  },
+  {
+    "id": 44,
+    "name": "Jalan Kangkar Pulai,  berhampiran PETRONAS Kangkar Pulai (Opposite)",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "P201",
+    "lat": "1.55796900",
+    "lng": "103.59496100",
+    "distance": 1650.3,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 45,
+        "distance": -1
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Jalan Kangkar Pulai, Kampung Melayu Kangkar Pulai",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "P201",
+    "lat": "1.55717500",
+    "lng": "103.59353800",
+    "distance": 182.6,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 45,
+        "distance": 183.6
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Flat Kangkar Pulai ",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": "P201",
+    "lat": "1.55338900",
+    "lng": "103.58884700",
+    "distance": 1149.8
+  },
+  {
+    "id": 51,
+    "name": "Jalan Pulai Harmoni 3 Bandar Baru Kangkar Pulai",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": "P201",
+    "lat": "1.55336100",
+    "lng": "103.58584600",
+    "distance": 333.9
+  },
+  {
+    "id": 120,
+    "name": "Persiaran Pulai Indah",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 20,
+    "station_code": "P201",
+    "lat": "1.55160900",
+    "lng": "103.58068500",
+    "distance": 669.9,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 145,
+        "distance": 247.8
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Taman Pulai Indah",
+    "route": "P201",
+    "bound_type": 1,
+    "sequence": 21,
+    "station_code": "P201",
+    "lat": "1.54362500",
+    "lng": "103.58337700",
+    "distance": 1177.4
+  }
+]

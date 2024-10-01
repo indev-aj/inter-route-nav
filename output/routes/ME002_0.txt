@@ -1,0 +1,34 @@
+[
+  {
+    "id": 664,
+    "name": "Kampung Air Papan,Jalan Air Papan",
+    "route": "ME002",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "ME002",
+    "lat": "2.51433486",
+    "lng": "103.83362600"
+  },
+  {
+    "id": 663,
+    "name": "Kampung Tenglu Laut,Jalan Makam",
+    "route": "ME002",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "ME002",
+    "lat": "2.49332921",
+    "lng": "103.81727800",
+    "distance": 3472.7
+  },
+  {
+    "id": 651,
+    "name": "Medan Niaga Seri Tanjung",
+    "route": "ME002",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "ME002",
+    "lat": "2.43941000",
+    "lng": "103.83750000",
+    "distance": 6645.8
+  }
+]

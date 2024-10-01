@@ -1,0 +1,52 @@
+[
+  {
+    "id": 577,
+    "name": "Rumah Rakyat Gunung Lambak, Jalan Kota Tinggi - Kluang",
+    "route": "KL002",
+    "bound_type": 0,
+    "sequence": 6,
+    "station_code": "KL002",
+    "lat": "2.01306145",
+    "lng": "103.33809200"
+  },
+  {
+    "id": 580,
+    "name": "Kampung Gunung Lambak 2",
+    "route": "KL002",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": "KL002",
+    "lat": "2.02570014",
+    "lng": "103.33068580",
+    "distance": 1978.3
+  },
+  {
+    "id": 1014,
+    "name": "Perpustakaan Awam Kluang,Jalan Hashim",
+    "route": "KL002",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "KL001, KL002",
+    "lat": "2.02768079",
+    "lng": "103.31704910",
+    "distance": 2364.9,
+    "intersections": [
+      {
+        "withRoute": "KL001",
+        "stopId": 581,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2496,
+    "name": "Sekolah Agama Bandar Kluang",
+    "route": "KL002",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.03239168",
+    "lng": "103.31702620",
+    "distance": 657.3
+  }
+]

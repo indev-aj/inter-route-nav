@@ -1,0 +1,313 @@
+[
+  {
+    "id": 862,
+    "name": "Econsave Senai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P402, P403",
+    "lat": "1.61091906",
+    "lng": "103.65629430",
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 220,
+        "distance": 173.2
+      },
+      {
+        "withRoute": "P402",
+        "stopId": 21,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 905,
+        "distance": 173.2
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "name": "Taman Sri Senai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P402,P411,P403",
+    "lat": "1.61441613",
+    "lng": "103.65852610",
+    "distance": 581.6,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 1222,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Kawasan Perindustrian Senai 3&4",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P403",
+    "lat": "1.62602110",
+    "lng": "103.65636670",
+    "distance": 1498
+  },
+  {
+    "id": 134,
+    "name": "Senai International Airport",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P403",
+    "lat": "1.63576944",
+    "lng": "103.66579440",
+    "distance": 1828.7
+  },
+  {
+    "id": 65,
+    "name": "Kawasan Perindustrian Senai 1 & 2",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P403",
+    "lat": "1.62816737",
+    "lng": "103.65689140",
+    "distance": 1545.5
+  },
+  {
+    "id": 887,
+    "name": "Taman Bintang",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P402, P403",
+    "lat": "1.61549737",
+    "lng": "103.65884950",
+    "distance": 1445,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 171,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1149,
+    "name": "Taman Bintang Utama",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P402, P403",
+    "lat": "1.60916309",
+    "lng": "103.65682790",
+    "distance": 776.9,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 172,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "name": "RHB Bank Senai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59985814",
+    "lng": "103.64492680",
+    "distance": 1872.6,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 128,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1012,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "name": "Sekolah Kebangsaan Senai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59657098",
+    "lng": "103.64554890",
+    "distance": 524,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 133,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 878,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 865,
+    "name": "Kampung Jaya Sepakat",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59091010",
+    "lng": "103.64797750",
+    "distance": 687.9,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 60,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 866,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Kampung Sepakat Baru",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P403, P411",
+    "lat": "1.58175836",
+    "lng": "103.65439660",
+    "distance": 1366.7,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 867,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Kampung Sepakat Baru, Skudai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P403, P411",
+    "lat": "1.57101757",
+    "lng": "103.66091630",
+    "distance": 1449,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 914,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Gerbang Bandaraya Iskandar Puteri",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P403, P411",
+    "lat": "1.56501600",
+    "lng": "103.66078490",
+    "distance": 711.5,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 913,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Loji Rawatan Air Sultan Ismail, Skudai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P403, P412",
+    "lat": "1.55420482",
+    "lng": "103.65900020",
+    "distance": 1217.9,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 2603,
+        "distance": 0
+      },
+      {
+        "withRoute": "P412",
+        "stopId": 915,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "name": "Taman Jaya,Jalan Skudai",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.54442403",
+    "lng": "103.65786660",
+    "distance": 1125.9,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 1094,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1180,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 930,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "Nature Flora Garden Centre",
+    "route": "P403",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "P202, P214, P403,P411",
+    "lat": "1.53581494",
+    "lng": "103.66469530",
+    "distance": 1235.6,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 939,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1229,
+        "distance": 0
+      }
+    ]
+  }
+]

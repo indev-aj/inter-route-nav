@@ -1,0 +1,294 @@
+[
+  {
+    "id": 2450,
+    "name": "Terminal Bas And Teksi Pasir Gudang",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.46574321",
+    "lng": "103.90106280",
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 1110,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 1183,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1181,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1184,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2451,
+    "name": "Honda,Jalan Bandar",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.47070187",
+    "lng": "103.90588690",
+    "distance": 934.9,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 2457,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 2465,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1116,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Taman Dahlia Indah,Persiaran Dahlia 2",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P301, P312",
+    "lat": "1.47810308",
+    "lng": "103.89521490",
+    "distance": 3044.4,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 396,
+        "distance": 91.2
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1109,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "name": "KIP Mall Masai",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P301, P312",
+    "lat": "1.48153042",
+    "lng": "103.89167690",
+    "distance": 607.4,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1107,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Taman Masai,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P301, P312",
+    "lat": "1.48813417",
+    "lng": "103.88159380",
+    "distance": 1627.1,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1153,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Masjid Muhajirin Pasir Gudang",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P301, P312",
+    "lat": "1.49043914",
+    "lng": "103.88086500",
+    "distance": 274.6,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1154,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Opp SMK Dato' Penggawa Timur",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P301, P312",
+    "lat": "1.49246230",
+    "lng": "103.87814760",
+    "distance": 397.6,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1104,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Taman Perindustrian Kota Putri 1,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P301",
+    "lat": "1.49964245",
+    "lng": "103.86330430",
+    "distance": 1916.9,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 386,
+        "distance": 3.8
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Petron,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P301",
+    "lat": "1.50317649",
+    "lng": "103.85336720",
+    "distance": 1203,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 385,
+        "distance": 7.7
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Opposite Taman Perindustrian Sri Plentong,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P301",
+    "lat": "1.51638821",
+    "lng": "103.82745390",
+    "distance": 3299.5
+  },
+  {
+    "id": 380,
+    "name": "Pusat Majodi,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P301",
+    "lat": "1.51938699",
+    "lng": "103.82534640",
+    "distance": 718.4,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 379,
+        "distance": 170.3
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Taman Ria,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P301",
+    "lat": "1.52033863",
+    "lng": "103.82424970",
+    "distance": 401.1,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 379,
+        "distance": 46.1
+      }
+    ]
+  },
+  {
+    "id": 2452,
+    "name": "Kampung Plentong Baru,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "1.52103786",
+    "lng": "103.82060110",
+    "distance": 422.6,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 369,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "name": "Opposite Taman Perindustrian Plentong,Jalan Masai Lama",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P106, P301",
+    "lat": "1.52630159",
+    "lng": "103.81666690",
+    "distance": 772.2,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 366,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2453,
+    "name": "Tesco Plentong",
+    "route": "P301",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "1.52077000",
+    "lng": "103.81521000",
+    "distance": 1118.5,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 218,
+        "distance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": 2369,
+    "name": "Terminal Bas And Teksi Bandar Penawar",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.55490527",
+    "lng": "104.22837170",
+    "intersections": [
+      {
+        "withRoute": "PE003",
+        "stopId": 525,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 1148,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE005",
+        "stopId": 1003,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Kolej Komuniti Bandar Penawar",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "PE001, PE004",
+    "lat": "1.56341300",
+    "lng": "104.21986100",
+    "distance": 2127.2,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 1120,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 1004,
+        "distance": 175.6
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Kolej Profesional MARA",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "PE001, PE004",
+    "lat": "1.56501200",
+    "lng": "104.22008100",
+    "distance": 175.6,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 1120,
+        "distance": 175.6
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 1004,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Sek Men. Sains Kota Tinggi (SSKT)",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "PE001",
+    "lat": "1.56699100",
+    "lng": "104.22536400",
+    "distance": 979.4
+  },
+  {
+    "id": 493,
+    "name": "SMKA Bandar Penawar",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "PE001",
+    "lat": "1.56536600",
+    "lng": "104.22686700",
+    "distance": 245.9
+  },
+  {
+    "id": 494,
+    "name": "SMK Bandar Penawar",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "PE001",
+    "lat": "1.56394000",
+    "lng": "104.22900900",
+    "distance": 287.4
+  },
+  {
+    "id": 495,
+    "name": "Pantai Desaru",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "PE001",
+    "lat": "1.54622900",
+    "lng": "104.26101500",
+    "distance": 4704.2
+  },
+  {
+    "id": 496,
+    "name": "Desaru Coast",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "PE001",
+    "lat": "1.53636200",
+    "lng": "104.26328800",
+    "distance": 2518.1
+  },
+  {
+    "id": 497,
+    "name": "Kolej Delima INSTEDT",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "PE001, PE005",
+    "lat": "1.55303400",
+    "lng": "104.23989600",
+    "distance": 4129.5,
+    "intersections": [
+      {
+        "withRoute": "PE005",
+        "stopId": 1121,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Majid As-Syifa Bandar Penawar",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "PE001, PE005",
+    "lat": "1.55360600",
+    "lng": "104.23661500",
+    "distance": 377.7,
+    "intersections": [
+      {
+        "withRoute": "PE005",
+        "stopId": 1122,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Klinik Kesihatan Bandar Penawar",
+    "route": "PE001",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "PE001, PE005",
+    "lat": "1.55326700",
+    "lng": "104.23310400",
+    "distance": 399.3,
+    "intersections": [
+      {
+        "withRoute": "PE005",
+        "stopId": 1123,
+        "distance": 0
+      }
+    ]
+  }
+]

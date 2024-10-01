@@ -1,0 +1,502 @@
+[
+  {
+    "id": 2424,
+    "name": "Terminal Maharani",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.04669694",
+    "lng": "102.56485480",
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 752,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 2390,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 1074,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2427,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2507,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2407,
+    "name": "Terminal Feri Bandar Maharani Bandar Diraja",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.04804211",
+    "lng": "102.56686930",
+    "distance": 272.6,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1058,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 1178,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 2398,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2428,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2508,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "name": "Taman Putera Indah",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "MU004",
+    "lat": "2.06956346",
+    "lng": "102.57751380",
+    "distance": 2762.7,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 797,
+        "distance": 121.5
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "name": "Taman Seri Gemilang,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "MU004",
+    "lat": "2.07359807",
+    "lng": "102.57854260",
+    "distance": 460.4,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 780,
+        "distance": 241.7
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 810,
+        "distance": 47.5
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "name": "SMK Tun Perak",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "MU004",
+    "lat": "2.07509726",
+    "lng": "102.57886770",
+    "distance": 190.4,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 780,
+        "distance": 115
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 810,
+        "distance": 179.7
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Taman Ria Permai,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "MU004",
+    "lat": "2.07776736",
+    "lng": "102.57958370",
+    "distance": 331.3,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 798,
+        "distance": 106.8
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 780,
+        "distance": 239.8
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "name": "Kampung Simpang Baba",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "MU004",
+    "lat": "2.08657361",
+    "lng": "102.59706640",
+    "distance": 2797.2
+  },
+  {
+    "id": 813,
+    "name": "Taman Desa Jaya,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "MU004",
+    "lat": "2.08590866",
+    "lng": "102.60418420",
+    "distance": 793.9,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 783,
+        "distance": 44.1
+      }
+    ]
+  },
+  {
+    "id": 814,
+    "name": "Sungai Terap KM 7,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "MU004",
+    "lat": "2.08589168",
+    "lng": "102.60571230",
+    "distance": 171.5,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 783,
+        "distance": 127.5
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "name": "Taman Pasir Raya,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "MU004",
+    "lat": "2.09130818",
+    "lng": "102.61987990",
+    "distance": 1692.6
+  },
+  {
+    "id": 786,
+    "name": "Sekolah Kebangsaan Sungai Raya (Tiang 2)",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "MU004",
+    "lat": "2.09354390",
+    "lng": "102.62522550",
+    "distance": 644.2,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 785,
+        "distance": 29.2
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "name": "Bukit Pasir",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "MU004",
+    "lat": "2.09658329",
+    "lng": "102.63284550",
+    "distance": 911.8,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 818,
+        "distance": 18.2
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "name": "Public Bank Bukit Pasir",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "MU004",
+    "lat": "2.09971206",
+    "lng": "102.64055420",
+    "distance": 925.3,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 819,
+        "distance": 180.3
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "name": "Bukit Pasir (Bus Stop)",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "MU004",
+    "lat": "2.10022700",
+    "lng": "102.64185900",
+    "distance": 155.5
+  },
+  {
+    "id": 826,
+    "name": "Taman Pagoh Jaya 3,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "MU004",
+    "lat": "2.12995569",
+    "lng": "102.71183070",
+    "distance": 8677.7,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 825,
+        "distance": 124.4
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Taman Pagoh Jaya",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "MU004",
+    "lat": "2.13120490",
+    "lng": "102.71501650",
+    "distance": 389.2,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 791,
+        "distance": 193.2
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "name": "IKTBN Pagoh,Jalan Muar - Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "MU004",
+    "lat": "2.13331200",
+    "lng": "102.72081020",
+    "distance": 2755.6
+  },
+  {
+    "id": 829,
+    "name": "Opposite Kawasan Perindustrian Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": "MU004",
+    "lat": "2.13287403",
+    "lng": "102.72470370",
+    "distance": 600.2
+  },
+  {
+    "id": 831,
+    "name": "Opposite Exit to Tol Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": "MU004",
+    "lat": "2.13203644",
+    "lng": "102.72749940",
+    "distance": 329.7
+  },
+  {
+    "id": 792,
+    "name": "UTHM Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 20,
+    "station_code": "MU004",
+    "lat": "2.15235782",
+    "lng": "102.72602600",
+    "distance": 3209,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2548,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2417,
+    "name": "UTHM Pagoh II",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "2.15214600",
+    "lng": "102.72676100",
+    "distance": 796.5,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2548,
+        "distance": 214.9
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2540,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2418,
+    "name": "UTHM Pagoh III",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "2.14683700",
+    "lng": "102.72975700",
+    "distance": 675.2,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2541,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "name": "Agro Bazar R&amp;R Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 23,
+    "station_code": "MU004",
+    "lat": "2.13691722",
+    "lng": "102.73883450",
+    "distance": 2049.2,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2547,
+        "distance": 231.7
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2542,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Sekolah Agama Pekan Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 24,
+    "station_code": "MU004",
+    "lat": "2.14573359",
+    "lng": "102.76759870",
+    "distance": 3457.2,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2543,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "name": "Masjid Pekan Pagoh",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 25,
+    "station_code": "MU004",
+    "lat": "2.14831004",
+    "lng": "102.77064580",
+    "distance": 442.8,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 795,
+        "distance": 86.6
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2546,
+        "distance": 86.6
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2544,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "name": "SMK Sultan Alauddin Riayat Shah 1",
+    "route": "MU004",
+    "bound_type": 1,
+    "sequence": 26,
+    "station_code": "MU004",
+    "lat": "2.15257038",
+    "lng": "102.77649350",
+    "distance": 807.6,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2545,
+        "distance": 0
+      }
+    ]
+  }
+]

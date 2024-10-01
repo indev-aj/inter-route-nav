@@ -1,0 +1,141 @@
+[
+  {
+    "id": 213,
+    "name": "Terminal Kulai",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P401, P411, P412",
+    "lat": "1.66248514",
+    "lng": "103.59890950",
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 896,
+        "distance": 0
+      },
+      {
+        "withRoute": "P412",
+        "stopId": 897,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Taman Kulai,Jalan Lengkongan",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P401, P412",
+    "lat": "1.65730714",
+    "lng": "103.59714500",
+    "distance": 687.4,
+    "intersections": [
+      {
+        "withRoute": "P412",
+        "stopId": 1157,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aeon Kulai",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P401",
+    "lat": "1.64039259",
+    "lng": "103.61900770",
+    "distance": 5166.2
+  },
+  {
+    "id": 97,
+    "name": "Opposite IOI Mall Kulai",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P401",
+    "lat": "1.64781459",
+    "lng": "103.62545640",
+    "distance": 1108.7
+  },
+  {
+    "id": 14,
+    "name": "Bandar Putra,Jalan Putra 1",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P401",
+    "lat": "1.65145612",
+    "lng": "103.62197700",
+    "distance": 793.2
+  },
+  {
+    "id": 12,
+    "name": "Bandar Putra 2,Jalan Putra 1",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P401",
+    "lat": "1.65705285",
+    "lng": "103.62412070",
+    "distance": 802.2
+  },
+  {
+    "id": 10,
+    "name": "Bandar Baru Kulai,Jalan Putra 1",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P401",
+    "lat": "1.65900681",
+    "lng": "103.62728450",
+    "distance": 519.5
+  },
+  {
+    "id": 13,
+    "name": "Bandar Putra,Jalan Merak Utama",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P401",
+    "lat": "1.66424298",
+    "lng": "103.63376570",
+    "distance": 1374.2
+  },
+  {
+    "id": 48,
+    "name": "Jalan Merak Utama",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P401",
+    "lat": "1.66412700",
+    "lng": "103.63629980",
+    "distance": 281.7
+  },
+  {
+    "id": 110,
+    "name": "Palm Villa,Jalan Putra 3",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P401",
+    "lat": "1.66279645",
+    "lng": "103.63813950",
+    "distance": 820.5
+  },
+  {
+    "id": 109,
+    "name": "Palm Villa Residences,Lebuh Putra Utama",
+    "route": "P401",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P401",
+    "lat": "1.65590474",
+    "lng": "103.63019960",
+    "distance": 1704.1
+  }
+]

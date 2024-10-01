@@ -1,0 +1,175 @@
+[
+  {
+    "id": 25,
+    "name": "Flat Taman Impian Emas",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P214",
+    "lat": "1.53410600",
+    "lng": "103.67203100",
+    "intersections": [
+      {
+        "withRoute": "P112",
+        "stopId": 2895,
+        "distance": 194.1
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 26,
+        "distance": 191
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "SK Taman Impian Emas",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "P214",
+    "lat": "1.53872800",
+    "lng": "103.68293700",
+    "distance": 1823.5,
+    "intersections": [
+      {
+        "withRoute": "P112",
+        "stopId": 2893,
+        "distance": 108.4
+      },
+      {
+        "withRoute": "P112",
+        "stopId": 2894,
+        "distance": 234.7
+      }
+    ]
+  },
+  {
+    "id": 1180,
+    "name": "Taman Jaya,Jalan Skudai",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.54442403",
+    "lng": "103.65786660",
+    "distance": 4721.9,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 1094,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 929,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 930,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "name": "Nature Flora Garden Centre",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P202, P214, P403,P411",
+    "lat": "1.53581494",
+    "lng": "103.66469530",
+    "distance": 1235.6,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 1024,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1229,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Soo AhKew Undertaker",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "P214",
+    "lat": "1.52657432",
+    "lng": "103.65730710",
+    "distance": 1994.5
+  },
+  {
+    "id": 173,
+    "name": "Taman Bukit Gemilang",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P214",
+    "lat": "1.52657100",
+    "lng": "103.65319200",
+    "distance": 632.2
+  },
+  {
+    "id": 1037,
+    "name": "Mutiara Rini",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P213,P214",
+    "lat": "1.51508000",
+    "lng": "103.63311000",
+    "distance": 3441
+  },
+  {
+    "id": 918,
+    "name": "Book Talk Mutiara Rini",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P202, P213, P214",
+    "lat": "1.52187925",
+    "lng": "103.63689430",
+    "distance": 1292
+  },
+  {
+    "id": 882,
+    "name": "SK Tmn Universiti 4",
+    "route": "P214",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P202,P213,P214",
+    "lat": "1.53440000",
+    "lng": "103.62709000",
+    "distance": 1891.3,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 149,
+        "distance": 0
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 29,
+        "distance": 184.4
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 150,
+        "distance": 4
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1161,
+        "distance": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 2709,
+    "name": "Klinik Desa Kukup Laut",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": null,
+    "lat": "1.32801200",
+    "lng": "103.44648000"
+  },
+  {
+    "id": 2710,
+    "name": "SJK (C) Pei Chiao",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": null,
+    "lat": "1.33433800",
+    "lng": "103.45474300",
+    "distance": 1174
+  },
+  {
+    "id": 2721,
+    "name": "Kampung Sungai Durian ( Return)",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "1.32407100",
+    "lng": "103.46556800",
+    "distance": 1788.8,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2704,
+        "distance": 2.1
+      }
+    ]
+  },
+  {
+    "id": 2722,
+    "name": "Serkat (Return)",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "1.30266800",
+    "lng": "103.48953600",
+    "distance": 3660.5,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2705,
+        "distance": -1.2
+      }
+    ]
+  },
+  {
+    "id": 2723,
+    "name": "Tanjung Piai (Return)",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "1.26896200",
+    "lng": "103.50929900",
+    "distance": 5134.5,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2706,
+        "distance": 2.2
+      }
+    ]
+  },
+  {
+    "id": 2724,
+    "name": "Kg Sungai Kuali (Return)",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "1.31564400",
+    "lng": "103.47221300",
+    "distance": 7593.7,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2707,
+        "distance": 1.8
+      }
+    ]
+  },
+  {
+    "id": 2711,
+    "name": "Masjid Jamek Bandar Permas",
+    "route": "PN003",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": null,
+    "lat": "1.33566100",
+    "lng": "103.45693100",
+    "distance": 2927.8
+  }
+]

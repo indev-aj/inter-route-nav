@@ -1,0 +1,315 @@
+[
+  {
+    "id": 119,
+    "name": "Perling Mall",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "P212",
+    "lat": "1.49627500",
+    "lng": "103.68234300"
+  },
+  {
+    "id": 166,
+    "name": "Persiaran Perling 1, Tmn Perling",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "P212",
+    "lat": "1.49484800",
+    "lng": "103.68439200",
+    "distance": 374.3
+  },
+  {
+    "id": 39,
+    "name": "Masjid Al-Hidayah Taman Perling",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "P212",
+    "lat": "1.48950900",
+    "lng": "103.68653600",
+    "distance": 794.9
+  },
+  {
+    "id": 121,
+    "name": "Poliklinik Penawar, Taman Perling",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "P212",
+    "lat": "1.48208800",
+    "lng": "103.68544300",
+    "distance": 893.5
+  },
+  {
+    "id": 118,
+    "name": "Surau Raudhatul Indah, Taman Bukit Indah",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": "P212",
+    "lat": "1.47566100",
+    "lng": "103.66571200",
+    "distance": 3068.3
+  },
+  {
+    "id": 1079,
+    "name": "Persiaran Indah, Tmn Bkt Indah",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "P203, P212",
+    "lat": "1.47730300",
+    "lng": "103.65083900",
+    "distance": 2501.7
+  },
+  {
+    "id": 255,
+    "name": "Petronas Persiaran Indah Utama",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "P212",
+    "lat": "1.48422000",
+    "lng": "103.64861000",
+    "distance": 853.9
+  },
+  {
+    "id": 1077,
+    "name": "Persiaran Indah Utama, Tmn Bkt Indah",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "P202, P212",
+    "lat": "1.48812000",
+    "lng": "103.65642000",
+    "distance": 1060.7
+  },
+  {
+    "id": 1048,
+    "name": "Taman Nusa Bestari 2,Jalan Selesa Jaya",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": "P203,P212",
+    "lat": "1.50091500",
+    "lng": "103.65377700",
+    "distance": 2802.4,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2671,
+        "distance": 0
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 267,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1144,
+    "name": "SMK Damai Jaya (Bus Stop)",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": "P203,P212",
+    "lat": "1.50452800",
+    "lng": "103.64191100",
+    "distance": 1654.5
+  },
+  {
+    "id": 861,
+    "name": "Hutan Bandar MBIP",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 11,
+    "station_code": "P203,P212",
+    "lat": "1.51173804",
+    "lng": "103.63423970",
+    "distance": 1172.7
+  },
+  {
+    "id": 117,
+    "name": "Opposite Hutan Bandar MBIP",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 12,
+    "station_code": "P212",
+    "lat": "1.51190866",
+    "lng": "103.63459520",
+    "distance": 205.4,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 254,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Bandar Selesa Jaya",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 13,
+    "station_code": "P212",
+    "lat": "1.50047400",
+    "lng": "103.65079500",
+    "distance": 2445.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2678,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 15,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2681,
+    "name": "Bandar Selesa Jaya (Tiang 2)",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "1.50110000",
+    "lng": "103.65428000",
+    "distance": 399.7,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 16,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2682,
+    "name": "Taman Nusa Bestari Jaya (Bus Stop)",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "1.49871200",
+    "lng": "103.65567100",
+    "distance": 419.5,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 2680,
+        "distance": 0
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 187,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2683,
+    "name": "Persiaran Indah Utama (Bus Stop)",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 16,
+    "station_code": null,
+    "lat": "1.48775900",
+    "lng": "103.66118500",
+    "distance": 1873.7
+  },
+  {
+    "id": 2684,
+    "name": "Taman Bukit Indah 2",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "1.47754000",
+    "lng": "103.65216900",
+    "distance": 2607.8
+  },
+  {
+    "id": 2685,
+    "name": "Aeon Bukit Indah",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "1.48106100",
+    "lng": "103.65691500",
+    "distance": 761.8
+  },
+  {
+    "id": 2686,
+    "name": "Opposite Surau Raudhatul Indah",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 19,
+    "station_code": null,
+    "lat": "1.47573900",
+    "lng": "103.66592800",
+    "distance": 1729.3
+  },
+  {
+    "id": 2687,
+    "name": "Taman Perling, Jalan Sungai Danga",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 20,
+    "station_code": null,
+    "lat": "1.47310500",
+    "lng": "103.67204500",
+    "distance": 947.2
+  },
+  {
+    "id": 2688,
+    "name": "Perling Heights Apartment",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "1.47403100",
+    "lng": "103.67852100",
+    "distance": 817
+  },
+  {
+    "id": 2689,
+    "name": "Eco-Shop @ Perling ",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "1.48218900",
+    "lng": "103.68525100",
+    "distance": 1176.3
+  },
+  {
+    "id": 2690,
+    "name": "Kampung Sungai Perling",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "1.48758900",
+    "lng": "103.68664800",
+    "distance": 661.2
+  },
+  {
+    "id": 2691,
+    "name": "SK Taman Perling",
+    "route": "P212",
+    "bound_type": 2,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "1.49451900",
+    "lng": "103.68435100",
+    "distance": 840.3
+  }
+]

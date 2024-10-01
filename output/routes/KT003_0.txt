@@ -1,0 +1,178 @@
+[
+  {
+    "id": 2793,
+    "name": "GIATMARA TG. SEDILI",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "KT003",
+    "lat": "1.92540500",
+    "lng": "104.10607700"
+  },
+  {
+    "id": 2794,
+    "name": "Kampung Teluk Jeri",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "KT003",
+    "lat": "1.92513500",
+    "lng": "104.09424000",
+    "distance": 1497.1,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2788,
+        "distance": 14.4
+      }
+    ]
+  },
+  {
+    "id": 2795,
+    "name": "Kampung Sentosa (Ke Kota Tinggi)",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "KT003",
+    "lat": "1.92309000",
+    "lng": "104.08867300",
+    "distance": 712.4,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2787,
+        "distance": 32.9
+      }
+    ]
+  },
+  {
+    "id": 2796,
+    "name": "Kampung Singapura",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "KT003",
+    "lat": "1.91701100",
+    "lng": "104.07951400",
+    "distance": 1268.9,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2786,
+        "distance": 21
+      }
+    ]
+  },
+  {
+    "id": 2797,
+    "name": "Sekolah Agama Kg. Gembut (Ke kota Tinggi)",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "KT003",
+    "lat": "1.90082700",
+    "lng": "104.06125600",
+    "distance": 2747.9,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2785,
+        "distance": 81.1
+      }
+    ]
+  },
+  {
+    "id": 2798,
+    "name": "SK Gembut (Ke Kota Tinggi)",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "KT003",
+    "lat": "1.89926300",
+    "lng": "104.05888000",
+    "distance": 315.5,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2784,
+        "distance": 34.2
+      }
+    ]
+  },
+  {
+    "id": 2799,
+    "name": "Kampung Sayang (Ke Kota Tinggi)",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "KT003",
+    "lat": "1.88108200",
+    "lng": "104.04335700",
+    "distance": 3076.1,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2783,
+        "distance": 126.3
+      }
+    ]
+  },
+  {
+    "id": 2800,
+    "name": "SK Mawai",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "KT003",
+    "lat": "1.85698900",
+    "lng": "103.98687000",
+    "distance": 8023,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2782,
+        "distance": 126.7
+      }
+    ]
+  },
+  {
+    "id": 2801,
+    "name": "Kg Mawai Baharu (Ke Kota Tinggi )",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "KT003",
+    "lat": "1.85096900",
+    "lng": "103.97462100",
+    "distance": 1601.4
+  },
+  {
+    "id": 2802,
+    "name": "Kampung Mawai (Ke Kota Tinggi )",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "KT003",
+    "lat": "1.85005300",
+    "lng": "103.96713200",
+    "distance": 932.7,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2780,
+        "distance": 118.5
+      }
+    ]
+  },
+  {
+    "id": 2804,
+    "name": "Simpang Mawai",
+    "route": "KT003",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": "KT003",
+    "lat": "1.84272000",
+    "lng": "103.95907800",
+    "distance": 1485.6
+  }
+]

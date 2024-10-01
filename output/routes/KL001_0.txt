@@ -1,0 +1,121 @@
+[
+  {
+    "id": 589,
+    "name": "Taman Desa Kluang, Jalan Batu Pahat",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": "KL001",
+    "lat": "2.01434361",
+    "lng": "103.28767030"
+  },
+  {
+    "id": 590,
+    "name": "Taman Berlian Biru,Jalan Batu Pahat",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "KL001",
+    "lat": "2.01633233",
+    "lng": "103.29456810",
+    "distance": 997.1
+  },
+  {
+    "id": 591,
+    "name": "Taman Intan,Jalan Batu Pahat",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "KL001",
+    "lat": "2.01758270",
+    "lng": "103.29784730",
+    "distance": 391.1
+  },
+  {
+    "id": 592,
+    "name": "Laman Niaga Taman Intan, Kluang",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "KL001",
+    "lat": "2.01718145",
+    "lng": "103.30053680",
+    "distance": 936.3
+  },
+  {
+    "id": 593,
+    "name": "Sekolah Kebangsaan Seri Intan",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "KL001",
+    "lat": "2.01163377",
+    "lng": "103.30392370",
+    "distance": 722.5
+  },
+  {
+    "id": 594,
+    "name": "Taman Muhibbah",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "KL001",
+    "lat": "2.00463210",
+    "lng": "103.31932710",
+    "distance": 2651.2
+  },
+  {
+    "id": 595,
+    "name": "Klinik Kesihatan Mengkibol",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "KL001, SR004",
+    "lat": "2.00722671",
+    "lng": "103.32237220",
+    "distance": 596.4,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 1017,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 596,
+    "name": "Taman Sunrise, Mengkibol",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "KL001, SR004",
+    "lat": "2.01074388",
+    "lng": "103.32159630",
+    "distance": 445.2,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 1186,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "name": "Perpustakaan Awam Kluang,Jalan Hashim",
+    "route": "KL001",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "KL001, KL002",
+    "lat": "2.02768079",
+    "lng": "103.31704910",
+    "distance": 2059.7,
+    "intersections": [
+      {
+        "withRoute": "KL002",
+        "stopId": 1014,
+        "distance": 0
+      }
+    ]
+  }
+]

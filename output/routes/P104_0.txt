@@ -1,0 +1,195 @@
+[
+  {
+    "id": 175,
+    "name": "Taman Dahlia (Bus Stop)",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P104",
+    "lat": "1.51267700",
+    "lng": "103.69609200"
+  },
+  {
+    "id": 327,
+    "name": "Anjung Selera Cempaka,Jalan Persiaran Teratai",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P104",
+    "lat": "1.51553111",
+    "lng": "103.69810080",
+    "distance": 740.3,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 167,
+        "distance": 231.3
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 328,
+        "distance": 17.1
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Flat Taman Cempaka,Jalan Persiaran Tanjung",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P104",
+    "lat": "1.51702066",
+    "lng": "103.70109790",
+    "distance": 480.7,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 122,
+        "distance": 46.4
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 167,
+        "distance": 234
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Taman Kemas,Jalan Persiaran Tanjung",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P104",
+    "lat": "1.51181856",
+    "lng": "103.70702220",
+    "distance": 885.3
+  },
+  {
+    "id": 331,
+    "name": "Makmal Kesihatan Awam Johor Bahru,Jalan Persiaran Tanjung",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P104",
+    "lat": "1.51044871",
+    "lng": "103.70770360",
+    "distance": 165.8
+  },
+  {
+    "id": 74,
+    "name": "Klinik Kesihatan Kempas (Bus Stop)",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P104",
+    "lat": "1.50768600",
+    "lng": "103.70780400",
+    "distance": 1429.4,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 332,
+        "distance": -0.6
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "name": "SMK Bandar Baru UDA,Jalan Padi Mahsuri",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "P104",
+    "lat": "1.49677772",
+    "lng": "103.71758590",
+    "distance": 2745.6
+  },
+  {
+    "id": 337,
+    "name": "Taman Padi Malinja,Jalan Padi Mahsuri",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "P104",
+    "lat": "1.49504900",
+    "lng": "103.71998850",
+    "distance": 350.3,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 144,
+        "distance": 187.3
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 143,
+        "distance": 147.2
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Komplek Perkidmatan Veterinar,Jalan Padi Mahsuri",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": "P104",
+    "lat": "1.49308891",
+    "lng": "103.72259590",
+    "distance": 384.8,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 144,
+        "distance": 197.6
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "name": "R&R Boutique Hotel,Jalan Padi Murni",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": "P104",
+    "lat": "1.48814899",
+    "lng": "103.72261990",
+    "distance": 722.5
+  },
+  {
+    "id": 1235,
+    "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 28,
+    "station_code": "P211, P411,P104",
+    "lat": "1.48705339",
+    "lng": "103.72440130",
+    "distance": 3639.6,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 292,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 950,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak (Susur 6)",
+    "route": "P104",
+    "bound_type": 0,
+    "sequence": 29,
+    "station_code": "P104",
+    "lat": "1.48812720",
+    "lng": "103.72569050",
+    "distance": 1235.4
+  }
+]

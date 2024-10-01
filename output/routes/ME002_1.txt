@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1135,
+    "name": "Terminal Bas Dan Teksi Bandar Mersing",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "ME001, ME002",
+    "lat": "2.43091681",
+    "lng": "103.83292280",
+    "intersections": [
+      {
+        "withRoute": "ME001",
+        "stopId": 656,
+        "distance": 0
+      },
+      {
+        "withRoute": "ME004",
+        "stopId": 2653,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "name": "Timotel Hotel,Jalan Endau Mersing",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "ME002",
+    "lat": "2.43299567",
+    "lng": "103.83449490",
+    "distance": 559.2,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2805,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "name": "Sekolah Rendah Agama Bersepadu Mersing, Jalan Makam",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "ME002",
+    "lat": "2.44939702",
+    "lng": "103.83201850",
+    "distance": 2006.6
+  },
+  {
+    "id": 650,
+    "name": "SMK Mersing",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "ME002",
+    "lat": "2.45407200",
+    "lng": "103.83030700",
+    "distance": 583.5
+  },
+  {
+    "id": 649,
+    "name": "Kampung Tenglu Laut",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "ME002",
+    "lat": "2.48717470",
+    "lng": "103.81737910",
+    "distance": 4091.1
+  },
+  {
+    "id": 648,
+    "name": "Rumah Komuniti Kampung Air Papan",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "ME002",
+    "lat": "2.50735149",
+    "lng": "103.82731390",
+    "distance": 2876
+  },
+  {
+    "id": 665,
+    "name": "Pantai Air Papan",
+    "route": "ME002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "ME002",
+    "lat": "2.51616020",
+    "lng": "103.83433170",
+    "distance": 1617.1
+  }
+]

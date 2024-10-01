@@ -1,0 +1,158 @@
+[
+  {
+    "id": 2322,
+    "name": "Dewan Raya Pekan Buloh Kasap",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "SE002",
+    "lat": "2.55387134",
+    "lng": "102.76480710",
+    "intersections": [
+      {
+        "withRoute": "SE002",
+        "stopId": 2316,
+        "distance": 86.9
+      }
+    ]
+  },
+  {
+    "id": 2353,
+    "name": "Taman Wijaya",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.54962020",
+    "lng": "102.77087300",
+    "distance": 828
+  },
+  {
+    "id": 2354,
+    "name": "SMK Buloh Kasap",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "2.54692042",
+    "lng": "102.77841140",
+    "distance": 980.5,
+    "intersections": [
+      {
+        "withRoute": "SE002",
+        "stopId": 2351,
+        "distance": 121.8
+      }
+    ]
+  },
+  {
+    "id": 2355,
+    "name": "Balai Polis Buloh Kasap",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "2.54751970",
+    "lng": "102.78166310",
+    "distance": 379.4
+  },
+  {
+    "id": 2356,
+    "name": "Commercial Taman Segamat Jaya",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "2.54791324",
+    "lng": "102.78452180",
+    "distance": 355.2
+  },
+  {
+    "id": 2357,
+    "name": "Taman Segamat Jaya",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": null,
+    "lat": "2.54829942",
+    "lng": "102.78673230",
+    "distance": 248.7
+  },
+  {
+    "id": 2358,
+    "name": "Pasar Borong Yayasan",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "2.54753551",
+    "lng": "102.78967850",
+    "distance": 337.3
+  },
+  {
+    "id": 2359,
+    "name": "Kampung Rasau",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "2.54515268",
+    "lng": "102.79734560",
+    "distance": 960.6
+  },
+  {
+    "id": 2315,
+    "name": "Jalan Buloh Kasap (Pekan Jabi)",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "SE002",
+    "lat": "2.53850000",
+    "lng": "102.80280000",
+    "distance": 1097.9
+  },
+  {
+    "id": 2360,
+    "name": "Taman Fong Jang Park",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": null,
+    "lat": "2.52968894",
+    "lng": "102.80660800",
+    "distance": 1179.7
+  },
+  {
+    "id": 2313,
+    "name": "Jalan Pemuda",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "SE002",
+    "lat": "2.52380000",
+    "lng": "102.81260000",
+    "distance": 1717.4
+  },
+  {
+    "id": 2312,
+    "name": "Surau Kg. Gubah",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "SE002",
+    "lat": "2.51930000",
+    "lng": "102.81730000",
+    "distance": 862.1
+  },
+  {
+    "id": 2311,
+    "name": "Kipmart Segamat",
+    "route": "SE002",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "SE002",
+    "lat": "2.51120000",
+    "lng": "102.82310000",
+    "distance": 1961.3
+  }
+]

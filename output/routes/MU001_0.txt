@@ -1,0 +1,71 @@
+[
+  {
+    "id": 755,
+    "name": "Pusat Perniagaan Kampung Tengah, Jalan Sungai Abong (Bus Stop)",
+    "route": "MU001",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "MU001, MU005",
+    "lat": "2.06098100",
+    "lng": "102.59915900",
+    "intersections": [
+      {
+        "withRoute": "MU005",
+        "stopId": 1139,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "name": "SK Bakri Bt. 2",
+    "route": "MU001",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "MU001",
+    "lat": "2.04940000",
+    "lng": "102.59410000",
+    "distance": 1797.5
+  },
+  {
+    "id": 756,
+    "name": "Tmn. Maharani, Jln. Bakri(Bus Stop)",
+    "route": "MU001",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "MU001, MU003",
+    "lat": "2.04777200",
+    "lng": "102.59078000",
+    "distance": 552.1,
+    "intersections": [
+      {
+        "withRoute": "MU003",
+        "stopId": 2483,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1168,
+    "name": "Hospital Pakar Sultanah Fatimah",
+    "route": "MU001",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "MU001, MU004, MU005",
+    "lat": "2.05673126",
+    "lng": "102.57423860",
+    "distance": 3622.3,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 11,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 1167,
+        "distance": 0
+      }
+    ]
+  }
+]

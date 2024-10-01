@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1105,
+    "name": "Terminal Bas Dan Teksi Masai",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P301, P312",
+    "lat": "1.48695936",
+    "lng": "103.88560540"
+  },
+  {
+    "id": 1153,
+    "name": "Taman Masai,Jalan Masai Lama",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P301, P312",
+    "lat": "1.48813417",
+    "lng": "103.88159380",
+    "distance": 587.3,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 392,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1154,
+    "name": "Masjid Muhajirin Pasir Gudang",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P301, P312",
+    "lat": "1.49043914",
+    "lng": "103.88086500",
+    "distance": 274.6,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 391,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "name": "Opp SMK Dato' Penggawa Timur",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P301, P312",
+    "lat": "1.49246230",
+    "lng": "103.87814760",
+    "distance": 397.6,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 390,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1214,
+    "name": "Taman Rinting,Jalan Masai Lama",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P301, P312",
+    "lat": "1.49320969",
+    "lng": "103.87432470",
+    "distance": 433,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2456,
+        "distance": 208.7
+      },
+      {
+        "withRoute": "P301",
+        "stopId": 389,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Regency Specialist Hospital",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P312",
+    "lat": "1.49696030",
+    "lng": "103.87185900",
+    "distance": 1297.1
+  },
+  {
+    "id": 413,
+    "name": "Surau Sautul Iman, Taman Flora Heights",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P312",
+    "lat": "1.51047194",
+    "lng": "103.89811440",
+    "distance": 5144.1
+  },
+  {
+    "id": 52,
+    "name": "Jalan Riang ~ Tmn Nusa Damai",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P312",
+    "lat": "1.50501000",
+    "lng": "103.90285000",
+    "distance": 1235.8
+  },
+  {
+    "id": 414,
+    "name": "Taman Nusa Damai, Persiaran damai",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P312",
+    "lat": "1.49558353",
+    "lng": "103.90885460",
+    "distance": 1529.6
+  },
+  {
+    "id": 987,
+    "name": "Taman Cendana",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P302, P312",
+    "lat": "1.48788484",
+    "lng": "103.91365500",
+    "distance": 1641,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 415,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 2458,
+        "distance": 207.8
+      }
+    ]
+  },
+  {
+    "id": 1113,
+    "name": "Taman Cendana Blok 52,53,Jalan Cendana",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P302, P312",
+    "lat": "1.48782987",
+    "lng": "103.91081390",
+    "distance": 315.7,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 417,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 2458,
+        "distance": 107.9
+      }
+    ]
+  },
+  {
+    "id": 1114,
+    "name": "Taman Cendana Blok 4,5,6,Jalan Cendana",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P302, P312",
+    "lat": "1.48786570",
+    "lng": "103.90582310",
+    "distance": 586.1,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 419,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 418,
+        "distance": 118.1
+      }
+    ]
+  },
+  {
+    "id": 1115,
+    "name": "Sekolah Kebangsaan Taman Cendana,Jalan Mesjid",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P302, P312",
+    "lat": "1.48640874",
+    "lng": "103.90494780",
+    "distance": 262.7,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 420,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "name": "KLINIK WAQAF AN-NUR PASIR GUDANG",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P312",
+    "lat": "1.47662197",
+    "lng": "103.90240430",
+    "distance": 1153
+  },
+  {
+    "id": 1152,
+    "name": "Sekolah Menengah Kebangsaan Pasir Gudang,Jalan Bandar",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P302, P303, P311, P312",
+    "lat": "1.47033247",
+    "lng": "103.90601420",
+    "distance": 1116.4,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 423,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1118,
+    "name": "Perumahan Jati 2,Jalan Jati",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "P303, P312",
+    "lat": "1.46453871",
+    "lng": "103.91224320",
+    "distance": 1975.3,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 425,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 426,
+        "distance": 192.5
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 424,
+        "distance": 17.9
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "name": "SMK Pasir Gudang 3,Jalan Jati",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "P303, P312",
+    "lat": "1.46316357",
+    "lng": "103.91330690",
+    "distance": 192.5,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 425,
+        "distance": 192.5
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 426,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 424,
+        "distance": 210.5
+      }
+    ]
+  },
+  {
+    "id": 1117,
+    "name": "Perjiranan 8 Taman Air Biru,Jalan Jati",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": "P303, P312",
+    "lat": "1.46453956",
+    "lng": "103.91199500",
+    "distance": 210.5,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 425,
+        "distance": 17.9
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 426,
+        "distance": 210.5
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 424,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "Klinik Kesihatan Pasir Gudang",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": "P303,P312",
+    "lat": "1.46413000",
+    "lng": "103.90683000",
+    "distance": 778.2,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 75,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1184,
+    "name": "Terminal Bas And Teksi Pasir Gudang",
+    "route": "P312",
+    "bound_type": 1,
+    "sequence": 20,
+    "station_code": "P301, P302, P303, P311, P312",
+    "lat": "1.46574321",
+    "lng": "103.90106280",
+    "distance": 1302.1,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2450,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 1110,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 1183,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1181,
+        "distance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "id": 901,
+    "name": "Terminal Taman U",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P201,P202,P211,P213,P214 ",
+    "lat": "1.53844000",
+    "lng": "103.62847000",
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 215,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1051,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1034,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "SK Tmn Universiti 4 (tiang 2)",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P202,P213,P214",
+    "lat": "1.53429000",
+    "lng": "103.62717000",
+    "distance": 654.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 149,
+        "distance": 4
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 29,
+        "distance": 188.4
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 882,
+        "distance": 4
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1161,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Opposite SMK Mutiara Rini,Persiaran Utama",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P202, P213, P214",
+    "lat": "1.52458153",
+    "lng": "103.63511700",
+    "distance": 1520.1,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 917,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Sekolah Agama Mutiara Rini,Persiaran Utama",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P202, P213, P214",
+    "lat": "1.52092171",
+    "lng": "103.63826170",
+    "distance": 621,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 921,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Opposite Hutan Bandar MBIP",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P202, P212",
+    "lat": "1.51190866",
+    "lng": "103.63459520",
+    "distance": 1411.9,
+    "intersections": [
+      {
+        "withRoute": "P212",
+        "stopId": 117,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Taman Skudai Baru,Jalan Hang Jebat",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P202",
+    "lat": "1.51015418",
+    "lng": "103.64215290",
+    "distance": 1179.9
+  },
+  {
+    "id": 57,
+    "name": "Jalan Tun Fatimah, Tmn Ungku Tun Aminah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P202",
+    "lat": "1.51664000",
+    "lng": "103.65417000",
+    "distance": 1909.6
+  },
+  {
+    "id": 2599,
+    "name": "Taman Nakhoda,Jalan Tun Aminah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.51584900",
+    "lng": "103.65720400",
+    "distance": 481.2,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 923,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Taman Nakhoda Tabib Wee Hong,Jalan Tun Aminah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P202, P203",
+    "lat": "1.51787454",
+    "lng": "103.65912320",
+    "distance": 309.5,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 1165,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Terminal Tun Aminah,Jalan Tun Aminah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P202, P203",
+    "lat": "1.51970634",
+    "lng": "103.66083610",
+    "distance": 278.2,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 1049,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Jalan Tun Aminah, Tmn Ungku Tun Aminah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P202",
+    "lat": "1.52248000",
+    "lng": "103.66344000",
+    "distance": 422.1
+  },
+  {
+    "id": 263,
+    "name": "Floor Depot Taman Tun Ungku Aminah,Jalan Tun Aminah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P202",
+    "lat": "1.52425563",
+    "lng": "103.66506540",
+    "distance": 266.9
+  },
+  {
+    "id": 2600,
+    "name": "Opposite Best Vission Motors, Jalan Skudai - Gelang Patah",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "1.52958600",
+    "lng": "103.66516000",
+    "distance": 738.5,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 1237,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2601,
+    "name": "Taman Skudai, Skudai (Bus Stop)",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "1.53500500",
+    "lng": "103.66476000",
+    "distance": 919.5,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 2610,
+        "distance": 218.2
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 938,
+        "distance": 218.2
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 937,
+        "distance": 218.2
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 218.2
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "name": "SJK(C) Pu Sze, Jalan Skudai",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53644904",
+    "lng": "103.66345730",
+    "distance": 218.2,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 2610,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 938,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 937,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53962067",
+    "lng": "103.66054310",
+    "distance": 478,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 1171,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1188,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 933,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 934,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Shell Taman Sri Putri (Bus Stop)",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "P202, P403",
+    "lat": "1.54485700",
+    "lng": "103.65730300",
+    "distance": 684.7,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 2611,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 1224,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 2604,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2602,
+    "name": "SMK Skudai (Bus Stop)",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "1.54645300",
+    "lng": "103.65407000",
+    "distance": 713.9
+  },
+  {
+    "id": 86,
+    "name": "Masjid Abidin, Tmn Sri Skudai (Bus Stop)",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": "P202",
+    "lat": "1.54306200",
+    "lng": "103.65076300",
+    "distance": 525.3
+  },
+  {
+    "id": 244,
+    "name": "Taman Sri Skudai,Jalan Skudai - Pontian",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 20,
+    "station_code": "P202",
+    "lat": "1.54958807",
+    "lng": "103.65182080",
+    "distance": 996.8
+  },
+  {
+    "id": 179,
+    "name": "Taman Desa Skudai (Bus Stop)",
+    "route": "P202",
+    "bound_type": 1,
+    "sequence": 21,
+    "station_code": "P202",
+    "lat": "1.54453000",
+    "lng": "103.64399000",
+    "distance": 1543.9
+  }
+]

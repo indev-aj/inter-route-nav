@@ -1,0 +1,272 @@
+[
+  {
+    "id": 444,
+    "name": "Terminal Bas Kota Masai",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "P303, P314",
+    "lat": "1.48180631",
+    "lng": "103.95376850",
+    "intersections": [
+      {
+        "withRoute": "P314",
+        "stopId": 1119,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "name": "SMK Kota Masai 2,Jalan Tembikai Utama",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "P303",
+    "lat": "1.47936957",
+    "lng": "103.95571980",
+    "distance": 482.2
+  },
+  {
+    "id": 440,
+    "name": "Jalan Delima Taman Kota Masai,Jalan Nenas Utama",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "P303",
+    "lat": "1.47409345",
+    "lng": "103.95517580",
+    "distance": 631.2,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 441,
+        "distance": 144
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Taman Kota Masai, Jalan Nenas Utama",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "P303",
+    "lat": "1.48125605",
+    "lng": "103.94822050",
+    "distance": 1254.5,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 437,
+        "distance": 132.7
+      }
+    ]
+  },
+  {
+    "id": 2464,
+    "name": "Persiaran Damai Simpang Sejahtera",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.48219600",
+    "lng": "103.94821200",
+    "distance": 338
+  },
+  {
+    "id": 146,
+    "name": "SK Kota Masai 3",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "P303",
+    "lat": "1.48929000",
+    "lng": "103.92827000",
+    "distance": 3117
+  },
+  {
+    "id": 436,
+    "name": "Balai Masjid Al-Munawwarah,Jalan Ciku Utama 2",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "P303",
+    "lat": "1.48699112",
+    "lng": "103.92977310",
+    "distance": 519.7
+  },
+  {
+    "id": 435,
+    "name": "Taman Canggung,Jalan Canggung",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "P303",
+    "lat": "1.47593181",
+    "lng": "103.93373920",
+    "distance": 2013.6
+  },
+  {
+    "id": 434,
+    "name": "Sekolah Kebangsaan Pasir Puteh,Jalan Pasir Putih",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": "P303",
+    "lat": "1.47329867",
+    "lng": "103.93702510",
+    "distance": 593.8
+  },
+  {
+    "id": 433,
+    "name": "SMK Tanjung Puteri Resort,Jalan Siakap",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": "P303",
+    "lat": "1.45776001",
+    "lng": "103.93643970",
+    "distance": 2494.2
+  },
+  {
+    "id": 432,
+    "name": "Kampung Tanjung Langsat",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 11,
+    "station_code": "P303",
+    "lat": "1.46548166",
+    "lng": "104.00127010",
+    "distance": 8597.5
+  },
+  {
+    "id": 431,
+    "name": "Taman Pasir Emas,Jalan Pekeliling",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 12,
+    "station_code": "P303",
+    "lat": "1.44476488",
+    "lng": "103.92997560",
+    "distance": 8972.9
+  },
+  {
+    "id": 221,
+    "name": "Tmn Air Biru",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 13,
+    "station_code": "P303",
+    "lat": "1.45543000",
+    "lng": "103.91704000",
+    "distance": 2647.2,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 429,
+        "distance": 70.8
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Perjiranan 8 Taman Air Biru Blok 27,Jalan Jati",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 14,
+    "station_code": "P303",
+    "lat": "1.46032011",
+    "lng": "103.91298360",
+    "distance": 1025.1
+  },
+  {
+    "id": 424,
+    "name": "Perjiranan 8 Taman Air Biru,Jalan Jati",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 15,
+    "station_code": "P303, P312",
+    "lat": "1.46453956",
+    "lng": "103.91199500",
+    "distance": 552.3,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 425,
+        "distance": 17.9
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 426,
+        "distance": 210.5
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1118,
+        "distance": 17.9
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 999,
+        "distance": 210.5
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1117,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Klinik Kesihatan Pasir Gudang",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 16,
+    "station_code": "P303,P312",
+    "lat": "1.46413000",
+    "lng": "103.90683000",
+    "distance": 778.2,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1016,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1183,
+    "name": "Terminal Bas And Teksi Pasir Gudang",
+    "route": "P303",
+    "bound_type": 2,
+    "sequence": 17,
+    "station_code": "P301, P302, P303, P311, P312",
+    "lat": "1.46574321",
+    "lng": "103.90106280",
+    "distance": 1302.1,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2450,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 1110,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1181,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1184,
+        "distance": 0
+      }
+    ]
+  }
+]

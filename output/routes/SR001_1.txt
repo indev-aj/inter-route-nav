@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2420,
+    "name": "Perhentian Bas dan Teksi Simpang Renggam",
+    "route": "SR001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.82568869",
+    "lng": "103.30996060",
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2414,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 2422,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Wisma Peladang,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "SR001",
+    "lat": "1.82267543",
+    "lng": "103.31479480",
+    "distance": 1256.3,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2402,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2415,
+    "name": "Kampung Sahari,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.82042296",
+    "lng": "103.31684080",
+    "distance": 339.5,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2403,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Opposite Sekolah Kebangsaan Dato Onn Jaafar,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "SR001",
+    "lat": "1.81460103",
+    "lng": "103.32118330",
+    "distance": 812.9,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2404,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2405,
+        "distance": 217
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Opposite SMK Simpang Rengam,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "SR001",
+    "lat": "1.81286509",
+    "lng": "103.32209270",
+    "distance": 217,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2405,
+        "distance": 0
+      }
+    ]
+  }
+]

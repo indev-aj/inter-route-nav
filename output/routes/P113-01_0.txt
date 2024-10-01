@@ -1,0 +1,189 @@
+[
+  {
+    "id": 2880,
+    "name": "Terminal Larkin",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2901,
+    "name": "Mutiara Motors Larkin",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.49572400",
+    "lng": "103.73903300",
+    "distance": 682
+  },
+  {
+    "id": 2882,
+    "name": "SMK St Joseph",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.49705700",
+    "lng": "103.74093000",
+    "distance": 321.8
+  },
+  {
+    "id": 2902,
+    "name": "Flat Larkin Blok G",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.49830500",
+    "lng": "103.74558900",
+    "distance": 731.9
+  },
+  {
+    "id": 2883,
+    "name": "Larkin Jaya, Jalan Cendrawasih",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.50082600",
+    "lng": "103.74211900",
+    "distance": 673,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 299,
+        "distance": 34.4
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 300,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2884,
+    "name": "Percetakan Nasional Malaysia Berhad",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.50485305",
+    "lng": "103.73375572",
+    "distance": 1970.8,
+    "intersections": [
+      {
+        "withRoute": "P113",
+        "stopId": 1220,
+        "distance": 106.1
+      }
+    ]
+  },
+  {
+    "id": 2885,
+    "name": "Jabatan Pertanian",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "1.50414711",
+    "lng": "103.73043419",
+    "distance": 414
+  },
+  {
+    "id": 2903,
+    "name": "IKM Johor Bahru",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.50146500",
+    "lng": "103.72851700",
+    "distance": 387.3
+  },
+  {
+    "id": 2886,
+    "name": "SMK Tasek Utara 2",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "1.49874200",
+    "lng": "103.72634200",
+    "distance": 489.6
+  },
+  {
+    "id": 2887,
+    "name": "SMK Tasek Utara",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.49436622",
+    "lng": "103.72927683",
+    "distance": 971.1
+  },
+  {
+    "id": 2888,
+    "name": "Jabatan Pendidikan Negeri Johor",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "1.49165698",
+    "lng": "103.72764007",
+    "distance": 499.6
+  },
+  {
+    "id": 2889,
+    "name": "Sekolah Tun Fatima",
+    "route": "P113-01",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "1.49095753",
+    "lng": "103.73403576",
+    "distance": 1136.4
+  }
+]

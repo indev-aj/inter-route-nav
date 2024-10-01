@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "start": "src/server.js",
-    "dev": "nodemon src/server.js",
-    "graph": "nodemon src/v2/runner.js"
+    "graph": "nodemon src/v2/runner.js",
+    "dev": "nodemon --inspect src/v2/runner.js",
+    "clear": "rm output/* output/routes/*"
   },
   "author": "",
   "license": "ISC",

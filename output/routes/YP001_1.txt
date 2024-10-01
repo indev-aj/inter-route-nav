@@ -1,0 +1,185 @@
+[
+  {
+    "id": 731,
+    "name": "Perhentian Bas dan Teksi Yong Peng",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "YP001",
+    "lat": "2.01280000",
+    "lng": "103.07090000",
+    "intersections": [
+      {
+        "withRoute": "YP002",
+        "stopId": 2663,
+        "distance": 124.4
+      }
+    ]
+  },
+  {
+    "id": 2868,
+    "name": "Taman Sri Wangi",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.00536800",
+    "lng": "103.07713000",
+    "distance": 1401.8
+  },
+  {
+    "id": 2869,
+    "name": "SK Taman Sri Kota",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.01633900",
+    "lng": "103.07339400",
+    "distance": 2086.9
+  },
+  {
+    "id": 732,
+    "name": "SMK Yong Peng (Jalan Ann Low Yean)",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "YP001",
+    "lat": "2.01978200",
+    "lng": "103.06140500",
+    "distance": 1795.9
+  },
+  {
+    "id": 739,
+    "name": "Taman Sri Aman (Tiada Bus Stop)",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "YP001",
+    "lat": "2.01883900",
+    "lng": "103.06724600",
+    "distance": 736.9
+  },
+  {
+    "id": 741,
+    "name": "Taman Belian",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "YP001",
+    "lat": "2.02268400",
+    "lng": "103.05628000",
+    "distance": 1641.4,
+    "intersections": [
+      {
+        "withRoute": "YP002",
+        "stopId": 2835,
+        "distance": 115.8
+      },
+      {
+        "withRoute": "YP002",
+        "stopId": 2833,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "name": "Klinik Kesihatan Yong Peng",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "YP001",
+    "lat": "2.03056163",
+    "lng": "103.05610800",
+    "distance": 929.4,
+    "intersections": [
+      {
+        "withRoute": "YP002",
+        "stopId": 2834,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "name": "Taman Timur (Bus Stop)",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "YP001",
+    "lat": "2.02184800",
+    "lng": "103.05662100",
+    "distance": 1038.1,
+    "intersections": [
+      {
+        "withRoute": "YP002",
+        "stopId": 2835,
+        "distance": 0
+      },
+      {
+        "withRoute": "YP002",
+        "stopId": 2833,
+        "distance": 115.8
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Opposite Kampung Parit Awang",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "YP001",
+    "lat": "2.00851100",
+    "lng": "103.05553300",
+    "distance": 1850.8,
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 735,
+        "distance": 16
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "name": "Ming Ang express bus stop",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "YP001",
+    "lat": "2.00694400",
+    "lng": "103.05124600",
+    "distance": 516.1
+  },
+  {
+    "id": 736,
+    "name": "Taman Bahagia (Jalan Yong Peng)",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "YP001",
+    "lat": "2.00722700",
+    "lng": "103.05285400",
+    "distance": 222.5
+  },
+  {
+    "id": 743,
+    "name": "SMK Dato Seth,Jalan Yong Peng",
+    "route": "YP001",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "YP001",
+    "lat": "2.00790800",
+    "lng": "103.05490600",
+    "distance": 261.4,
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 735,
+        "distance": 99.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "id": 1236,
+    "name": "Terminal Larkin",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P101,P103,P104,P112,P113,P411,P211",
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1088,
+    "name": "Dewan Serbaguna JKR Daerah Johor Bahru",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P101, P104, P211, P411",
+    "lat": "1.49168658",
+    "lng": "103.74089400",
+    "distance": 438.5,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2472,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 298,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1170,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1162,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Shell Taman Tasek, Jalan Tun Abdul Razak",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P211, P411",
+    "lat": "1.48843259",
+    "lng": "103.72762510",
+    "distance": 2292,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 1087,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Taman Tasek,Jalan Tun Abdul Razak",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "P211, P411,P104",
+    "lat": "1.48674195",
+    "lng": "103.72431420",
+    "distance": 430.9,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 1041,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Jalan Skudai, Kampung Pasir",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "P211, P411",
+    "lat": "1.49659144",
+    "lng": "103.70129620",
+    "distance": 3069.2,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 1083,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Sekolah Kebangsaan Kampung Pasir",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": "P211, P411",
+    "lat": "1.49889941",
+    "lng": "103.69807130",
+    "distance": 467.7,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 945,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Pusat Hemodialisis MAINJ",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": "P211, P411",
+    "lat": "1.50084396",
+    "lng": "103.69534150",
+    "distance": 372.2,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 944,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 910,
+    "name": "Kip Mall",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 28,
+    "station_code": "P203, P211, P411",
+    "lat": "1.50810954",
+    "lng": "103.68920150",
+    "distance": 1204.3,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 239,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 911,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Opposite Paradigm Mall JB",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 29,
+    "station_code": "P211, P411",
+    "lat": "1.51617398",
+    "lng": "103.68367730",
+    "distance": 1089.1,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 1076,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "name": "McDonald's Taman Sutera DT",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 30,
+    "station_code": "P211, P411",
+    "lat": "1.52296560",
+    "lng": "103.67897050",
+    "distance": 1059.5,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 1081,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Sjk(c) Kuo Kuang (ke kulai)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 31,
+    "station_code": "P211,P411",
+    "lat": "1.52790000",
+    "lng": "103.67057000",
+    "distance": 1145.5,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 1160,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Taman Skudai, Skudai (Bus Stop) ~ Jalan Bertingkat Skudai arah JB (Bus Stop)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 32,
+    "station_code": "P211,P403,P411",
+    "lat": "1.53497600",
+    "lng": "103.66480500",
+    "distance": 2056.8,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 938,
+        "distance": 223.7
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 1225,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 937,
+        "distance": 223.7
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1233,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 223.7
+      }
+    ]
+  },
+  {
+    "id": 2610,
+    "name": "SJK(C) Pu Sze, Jalan Skudai",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 33,
+    "station_code": null,
+    "lat": "1.53644904",
+    "lng": "103.66345730",
+    "distance": 223.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 2601,
+        "distance": 218.2
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 281,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 938,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 937,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1171,
+    "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 34,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53962067",
+    "lng": "103.66054310",
+    "distance": 478,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 280,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1188,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 933,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 934,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2611,
+    "name": "Shell Taman Sri Putri (Bus Stop)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 35,
+    "station_code": null,
+    "lat": "1.54485700",
+    "lng": "103.65730300",
+    "distance": 684.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 136,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 1224,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 2604,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "name": "FABU Bus Stop (UTM Center Point)( Ke Tmn U)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 36,
+    "station_code": "P201,P211",
+    "lat": "1.55968083",
+    "lng": "103.63475830",
+    "distance": 4935.5,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 246,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2666,
+    "name": "Pusat Geokejuteraan Tropika,Lingkaran Ilmu (Balik)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 37,
+    "station_code": null,
+    "lat": "1.56271660",
+    "lng": "103.63644880",
+    "distance": 400,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 247,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2667,
+    "name": "Pusat Teknologi Maklumat Dan Komunikasi,Lingkaran Ilmu (Balik)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 38,
+    "station_code": null,
+    "lat": "1.56270052",
+    "lng": "103.63916000",
+    "distance": 309.5,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 248,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2668,
+    "name": "Fakulti Kejuteraan Elektrik,Lingkaran Ilmu (Balik)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 39,
+    "station_code": null,
+    "lat": "1.56032590",
+    "lng": "103.64161330",
+    "distance": 429.4,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 249,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2669,
+    "name": "Fakulti Kejuruteraan Elektrikal, UTM (Balik)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 40,
+    "station_code": null,
+    "lat": "1.55800737",
+    "lng": "103.64022620",
+    "distance": 338.7,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 250,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2670,
+    "name": "Aeon Taman Universiti (ke Terminal)",
+    "route": "P211",
+    "bound_type": 0,
+    "sequence": 41,
+    "station_code": null,
+    "lat": "1.54210000",
+    "lng": "103.62989000",
+    "distance": 2508.4,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 4,
+        "distance": 0
+      },
+      {
+        "withRoute": "P201",
+        "stopId": 2598,
+        "distance": 0
+      }
+    ]
+  }
+]

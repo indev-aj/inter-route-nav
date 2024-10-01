@@ -1,0 +1,309 @@
+[
+  {
+    "id": 2655,
+    "name": "Terminal Bas Pontian",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.47948611",
+    "lng": "103.38836158",
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 556,
+        "distance": 159.1
+      },
+      {
+        "withRoute": "PN001-1",
+        "stopId": 2851,
+        "distance": 159.1
+      }
+    ]
+  },
+  {
+    "id": 2692,
+    "name": "Pasar Awam Pontian",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.47710200",
+    "lng": "103.39355800",
+    "distance": 952.7,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2730,
+        "distance": 179.4
+      }
+    ]
+  },
+  {
+    "id": 2693,
+    "name": "SJK (C) Bin Chong",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.47365800",
+    "lng": "103.39540600",
+    "distance": 462.4,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2729,
+        "distance": 88.1
+      }
+    ]
+  },
+  {
+    "id": 2694,
+    "name": "Kampung Terjun Rimba",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.46845200",
+    "lng": "103.39818200",
+    "distance": 653.3,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2728,
+        "distance": 54.6
+      }
+    ]
+  },
+  {
+    "id": 2695,
+    "name": "SEKOLAH AGAMA KG RIMBA TERJUN",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.46433200",
+    "lng": "103.40034200",
+    "distance": 514.9,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2727,
+        "distance": 121.4
+      }
+    ]
+  },
+  {
+    "id": 2696,
+    "name": "Klinik Desa Rimba Terjun",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.45555800",
+    "lng": "103.40426900",
+    "distance": 1067.2,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2726,
+        "distance": 102.5
+      }
+    ]
+  },
+  {
+    "id": 2697,
+    "name": "Taman Rambah",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "1.44403200",
+    "lng": "103.40995700",
+    "distance": 1431.9
+  },
+  {
+    "id": 2698,
+    "name": "Kolej Matrikulasi Kejuruteraan Johor ",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.44212200",
+    "lng": "103.41101600",
+    "distance": 241.8,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2720,
+        "distance": 59.8
+      }
+    ]
+  },
+  {
+    "id": 2699,
+    "name": "Klinik Desa Telok Kerang",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "1.41257600",
+    "lng": "103.42602900",
+    "distance": 3673.4,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2716,
+        "distance": 82.7
+      }
+    ]
+  },
+  {
+    "id": 2700,
+    "name": "SJK (C) Siu Woon ",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.38713600",
+    "lng": "103.43947200",
+    "distance": 3190.4,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2715,
+        "distance": 46.3
+      }
+    ]
+  },
+  {
+    "id": 2701,
+    "name": "Klinik Kesihatan Penerok",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "1.37919700",
+    "lng": "103.44302800",
+    "distance": 963,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2714,
+        "distance": 209.1
+      }
+    ]
+  },
+  {
+    "id": 2702,
+    "name": "SMK Sri Kukup",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "1.34291000",
+    "lng": "103.46126300",
+    "distance": 4533.2,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2713,
+        "distance": 48.2
+      }
+    ]
+  },
+  {
+    "id": 2703,
+    "name": "Taman Laksamana",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "1.34074200",
+    "lng": "103.46112200",
+    "distance": 564
+  },
+  {
+    "id": 2704,
+    "name": "Kampung Sungai Durian",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "1.32410600",
+    "lng": "103.46557500",
+    "distance": 2482.3,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2721,
+        "distance": 2.1
+      }
+    ]
+  },
+  {
+    "id": 2705,
+    "name": "Serkat",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "1.30271200",
+    "lng": "103.48954000",
+    "distance": 3661.4,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2722,
+        "distance": -1.2
+      }
+    ]
+  },
+  {
+    "id": 2706,
+    "name": "Tanjung Piai",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": null,
+    "lat": "1.26893000",
+    "lng": "103.50930100",
+    "distance": 5137.9,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2723,
+        "distance": 2.2
+      }
+    ]
+  },
+  {
+    "id": 2707,
+    "name": "Kampung Sungai Kuali",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "1.31562500",
+    "lng": "103.47221200",
+    "distance": 7594.1,
+    "intersections": [
+      {
+        "withRoute": "PN003",
+        "stopId": 2724,
+        "distance": 1.8
+      }
+    ]
+  },
+  {
+    "id": 2708,
+    "name": "Terminal Bas Kukup",
+    "route": "PN003",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "1.32569300",
+    "lng": "103.44424700",
+    "distance": 4546.6
+  }
+]

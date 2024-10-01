@@ -1,0 +1,332 @@
+[
+  {
+    "id": 2851,
+    "name": "Terminal Pengangkutan Awam Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "PN001-1",
+    "lat": "1.47947716",
+    "lng": "103.38872220",
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 556,
+        "distance": 0
+      },
+      {
+        "withRoute": "PN003",
+        "stopId": 2655,
+        "distance": 159.1
+      }
+    ]
+  },
+  {
+    "id": 2852,
+    "name": "Perabot &amp; Elektrik Yong Bee",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "PN001-1",
+    "lat": "1.48152247",
+    "lng": "103.40033580",
+    "distance": 1435.5,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 557,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2853,
+    "name": "Kampung Kenanga,Jalan Skudai - Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "PN001-1",
+    "lat": "1.48165952",
+    "lng": "103.40154150",
+    "distance": 1047.4,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 558,
+        "distance": 0
+      },
+      {
+        "withRoute": "PN001",
+        "stopId": 559,
+        "distance": 134.4
+      }
+    ]
+  },
+  {
+    "id": 2854,
+    "name": "Kampung Kubor,Jalan Skudai - Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "PN001-1",
+    "lat": "1.48200267",
+    "lng": "103.40270200",
+    "distance": 2090.1,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 559,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2855,
+    "name": "JKR Daerah Pontian, Jalan Skudai - Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": "PN001-1",
+    "lat": "1.48236512",
+    "lng": "103.40316040",
+    "distance": 1639.2,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 560,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2843,
+    "name": "Sek. Men. Maahad Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "PN001-1",
+    "lat": "1.48854000",
+    "lng": "103.40289000",
+    "distance": 884.5,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 544,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2844,
+    "name": "SMK Dato' Penggawa Barat",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "PN001-1",
+    "lat": "1.49243899",
+    "lng": "103.40453830",
+    "distance": 607.9,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 545,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2845,
+    "name": "Kompleks Penghulu Parit Selangor ~ Kompleks Penghulu Mukim Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "PN001-1",
+    "lat": "1.51962790",
+    "lng": "103.44430060",
+    "distance": 5826.1,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 546,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2846,
+    "name": "Sekolah Agama Parit Selangor",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": "PN001-1",
+    "lat": "1.52508811",
+    "lng": "103.44238860",
+    "distance": 640.3,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 547,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2847,
+    "name": "SK Parit Kudus",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": "PN001-1",
+    "lat": "1.52740216",
+    "lng": "103.42617230",
+    "distance": 3783.2,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 548,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2848,
+    "name": "Taman Warisan",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 11,
+    "station_code": "PN001-1",
+    "lat": "1.51482000",
+    "lng": "103.41563000",
+    "distance": 1888.6,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 549,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2849,
+    "name": "Sekolah Agama Parit Semerah",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 12,
+    "station_code": "PN001-1",
+    "lat": "1.49745399",
+    "lng": "103.38915960",
+    "distance": 3543.4,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 550,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2856,
+    "name": "Opposite SK Tengku Mahmood Iskandar 1,Jalan Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 13,
+    "station_code": "PN001-1",
+    "lat": "1.49386512",
+    "lng": "103.38679840",
+    "distance": 610.4,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 561,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2857,
+    "name": "SK Tengku Mahmood Iskandar (1),Jalan Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 14,
+    "station_code": "PN001-1",
+    "lat": "1.49376254",
+    "lng": "103.38659500",
+    "distance": 428.1,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 562,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2850,
+    "name": "Sk Bandar Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 15,
+    "station_code": "PN001-1",
+    "lat": "1.49190208",
+    "lng": "103.38758770",
+    "distance": 1382.4,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 561,
+        "distance": 233.8
+      },
+      {
+        "withRoute": "PN001",
+        "stopId": 551,
+        "distance": 0
+      },
+      {
+        "withRoute": "PN001",
+        "stopId": 563,
+        "distance": 196.5
+      }
+    ]
+  },
+  {
+    "id": 2858,
+    "name": "Masjid Jamek Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 16,
+    "station_code": "PN001-1",
+    "lat": "1.49141617",
+    "lng": "103.38737760",
+    "distance": 710.7,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 563,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2859,
+    "name": "Telekom Malaysia,Jalan Pontian",
+    "route": "PN001-1",
+    "bound_type": 2,
+    "sequence": 17,
+    "station_code": "PN001-1",
+    "lat": "1.49126362",
+    "lng": "103.38767620",
+    "distance": 266.4,
+    "intersections": [
+      {
+        "withRoute": "PN001",
+        "stopId": 551,
+        "distance": 69.9
+      },
+      {
+        "withRoute": "PN001",
+        "stopId": 564,
+        "distance": 0
+      }
+    ]
+  }
+]

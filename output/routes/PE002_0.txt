@@ -1,0 +1,59 @@
+[
+  {
+    "id": 528,
+    "name": "Kampung Baharu,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "PE002",
+    "lat": "1.37382567",
+    "lng": "104.27372750"
+  },
+  {
+    "id": 531,
+    "name": "SJK ( C ) Peay Min,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "PE002",
+    "lat": "1.37216247",
+    "lng": "104.24709070",
+    "distance": 3945.8
+  },
+  {
+    "id": 2372,
+    "name": "Opp SK Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "1.36814200",
+    "lng": "104.23954500",
+    "distance": 984,
+    "intersections": [
+      {
+        "withRoute": "PE002",
+        "stopId": 534,
+        "distance": 35.6
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Klinik Kesihatan Sg. Rengit",
+    "route": "PE002",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "PE002, PE003",
+    "lat": "1.35010414",
+    "lng": "104.22375450",
+    "distance": 2704.6,
+    "intersections": [
+      {
+        "withRoute": "PE003",
+        "stopId": 1124,
+        "distance": 0
+      }
+    ]
+  }
+]

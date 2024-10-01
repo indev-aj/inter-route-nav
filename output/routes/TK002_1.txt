@@ -1,0 +1,624 @@
+[
+  {
+    "id": 2507,
+    "name": "Terminal Maharani",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.04669694",
+    "lng": "102.56485480",
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 752,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 2390,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 1074,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2424,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2427,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2508,
+    "name": "Terminal Feri Bandar Maharani Bandar Diraja",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.04804211",
+    "lng": "102.56686930",
+    "distance": 272.6,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1058,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU002",
+        "stopId": 1178,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 2398,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2407,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2428,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2509,
+    "name": "ST,Jalan KesangTK",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.05535488",
+    "lng": "102.56192250",
+    "distance": 1438.7
+  },
+  {
+    "id": 2511,
+    "name": "Jalan Kesang",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.05899086",
+    "lng": "102.55898010",
+    "distance": 582.4
+  },
+  {
+    "id": 2512,
+    "name": "Taman Kenangan Tun Syed Nasir,Jalan Kesang",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.06576233",
+    "lng": "102.55525380",
+    "distance": 877.8
+  },
+  {
+    "id": 2513,
+    "name": "SMK Parit Bunga",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.07463886",
+    "lng": "102.55041310",
+    "distance": 1119.6
+  },
+  {
+    "id": 2514,
+    "name": "Sekolah Kebangsaan Rawang",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.10963290",
+    "lng": "102.55395590",
+    "distance": 3932
+  },
+  {
+    "id": 2515,
+    "name": "Taman Cerah Indah",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.11357203",
+    "lng": "102.55476800",
+    "distance": 444.8,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2584,
+        "distance": 11.6
+      }
+    ]
+  },
+  {
+    "id": 2516,
+    "name": "SK Rawang, Sg. Mati (*pinda)",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.12181968",
+    "lng": "102.55613950",
+    "distance": 940.4
+  },
+  {
+    "id": 2517,
+    "name": "Sungai Sedok",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.12564731",
+    "lng": "102.55689070",
+    "distance": 448.4,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2583,
+        "distance": 106.6
+      }
+    ]
+  },
+  {
+    "id": 2518,
+    "name": "Taman Muhibbah",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "2.13386145",
+    "lng": "102.55835280",
+    "distance": 922.8,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2581,
+        "distance": 56.3
+      }
+    ]
+  },
+  {
+    "id": 2519,
+    "name": "Taman Bestari,Jalan Muar",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.14284466",
+    "lng": "102.56134930",
+    "distance": 1062.4,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2580,
+        "distance": 97.9
+      }
+    ]
+  },
+  {
+    "id": 2520,
+    "name": "Balai Polis Sungai Mati, Bukit Gambir",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "2.14652050",
+    "lng": "102.56351940",
+    "distance": 608.7,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2578,
+        "distance": 100.9
+      }
+    ]
+  },
+  {
+    "id": 2521,
+    "name": "Sek Men (Persendirian) Pei Hwa,Bukit Gambir",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "2.14892336",
+    "lng": "102.56496250",
+    "distance": 310.9,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2578,
+        "distance": 210
+      }
+    ]
+  },
+  {
+    "id": 2522,
+    "name": "SMK tunku Mahmud Iskandar (Tiang 2)",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "2.15597182",
+    "lng": "102.57274340",
+    "distance": 1204.4,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2577,
+        "distance": 229.9
+      }
+    ]
+  },
+  {
+    "id": 2523,
+    "name": "Pasar Awam Serom,Bukit Gambir",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": null,
+    "lat": "2.15916879",
+    "lng": "102.57879450",
+    "distance": 760.4,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2575,
+        "distance": 205.3
+      }
+    ]
+  },
+  {
+    "id": 2524,
+    "name": "Taman KSM Serom 4",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": null,
+    "lat": "2.16602845",
+    "lng": "102.58805300",
+    "distance": 1284.4,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2572,
+        "distance": 47.4
+      }
+    ]
+  },
+  {
+    "id": 2525,
+    "name": "Kampung Serom Hilir 5",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "2.17026045",
+    "lng": "102.59332600",
+    "distance": 750.3,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2569,
+        "distance": 34.5
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2570,
+        "distance": 61.1
+      }
+    ]
+  },
+  {
+    "id": 2526,
+    "name": "Unit Selenggara Jalan JKR Daerah Tangkak",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 19,
+    "station_code": null,
+    "lat": "2.18402625",
+    "lng": "102.61175890",
+    "distance": 2554.3
+  },
+  {
+    "id": 2527,
+    "name": "Kampung Parit Pulai",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 20,
+    "station_code": null,
+    "lat": "2.18727409",
+    "lng": "102.61708840",
+    "distance": 692.8,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2566,
+        "distance": 52.7
+      }
+    ]
+  },
+  {
+    "id": 2528,
+    "name": "Taman Cahaya",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "2.18895889",
+    "lng": "102.61980830",
+    "distance": 355.5
+  },
+  {
+    "id": 2529,
+    "name": "Taman Wira",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "2.20530202",
+    "lng": "102.64639640",
+    "distance": 3483.7
+  },
+  {
+    "id": 2530,
+    "name": "Kampung Parit Rabu",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "2.20670115",
+    "lng": "102.64777980",
+    "distance": 218,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2559,
+        "distance": 155.5
+      }
+    ]
+  },
+  {
+    "id": 2531,
+    "name": "OPP Dewan Serbaguna Bukit Gambir",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "2.20755756",
+    "lng": "102.64854720",
+    "distance": 127.5,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2559,
+        "distance": 27.9
+      }
+    ]
+  },
+  {
+    "id": 2532,
+    "name": "Pasar FAMA Bukit Gambir",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 25,
+    "station_code": null,
+    "lat": "2.21459063",
+    "lng": "102.65703910",
+    "distance": 1249.6,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2557,
+        "distance": 165.5
+      }
+    ]
+  },
+  {
+    "id": 2533,
+    "name": "Taman Sri Jaya",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 26,
+    "station_code": null,
+    "lat": "2.21711235",
+    "lng": "102.66129830",
+    "distance": 555.1,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2556,
+        "distance": 191.6
+      }
+    ]
+  },
+  {
+    "id": 2534,
+    "name": "SMK Bukit Gambir (Tiang 2)",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 27,
+    "station_code": null,
+    "lat": "2.21869416",
+    "lng": "102.66495230",
+    "distance": 442.5,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2555,
+        "distance": 46.8
+      }
+    ]
+  },
+  {
+    "id": 2535,
+    "name": "Kawasan Perindustrian Gresik",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 28,
+    "station_code": null,
+    "lat": "2.21393818",
+    "lng": "102.70142840",
+    "distance": 5038.6
+  },
+  {
+    "id": 2536,
+    "name": "Surau Kampung Panchor",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 29,
+    "station_code": null,
+    "lat": "2.19474407",
+    "lng": "102.70911060",
+    "distance": 3111.2
+  },
+  {
+    "id": 2537,
+    "name": "Kampung Melayu Baru Panchor",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 30,
+    "station_code": null,
+    "lat": "2.17207325",
+    "lng": "102.70891310",
+    "distance": 2744
+  },
+  {
+    "id": 2538,
+    "name": "Kampung Jawa Panchor",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 31,
+    "station_code": null,
+    "lat": "2.17218774",
+    "lng": "102.71420100",
+    "distance": 591.7
+  },
+  {
+    "id": 2539,
+    "name": "Sekolah Kebangsaan Kota Raja",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 32,
+    "station_code": null,
+    "lat": "2.17122482",
+    "lng": "102.71577940",
+    "distance": 216.9
+  },
+  {
+    "id": 2540,
+    "name": "UTHM Pagoh I",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 33,
+    "station_code": null,
+    "lat": "2.15214600",
+    "lng": "102.72676100",
+    "distance": 2438.3,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 2417,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2541,
+    "name": "UTHM Pagoh II",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 34,
+    "station_code": null,
+    "lat": "2.14683700",
+    "lng": "102.72975700",
+    "distance": 675.2,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 2418,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2542,
+    "name": "Agro Bazar R&amp;R Pagoh",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 35,
+    "station_code": null,
+    "lat": "2.13691722",
+    "lng": "102.73883450",
+    "distance": 2049.2,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 842,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2543,
+    "name": "Sekolah Agama Pekan Pagoh",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 36,
+    "station_code": null,
+    "lat": "2.14573359",
+    "lng": "102.76759870",
+    "distance": 3457.2,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 794,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2544,
+    "name": "Masjid Pekan Pagoh",
+    "route": "TK002",
+    "bound_type": 1,
+    "sequence": 37,
+    "station_code": null,
+    "lat": "2.14831004",
+    "lng": "102.77064580",
+    "distance": 442.8,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 795,
+        "distance": 86.6
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 833,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2546,
+        "distance": 86.6
+      }
+    ]
+  }
+]

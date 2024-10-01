@@ -1,0 +1,107 @@
+[
+  {
+    "id": 489,
+    "name": "Taman Sri Saujana,Persiaran Sri Saujana",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "KT002",
+    "lat": "1.67297037",
+    "lng": "103.85345540"
+  },
+  {
+    "id": 488,
+    "name": "Ladang Tai Tak,Jalan Kota Tinggi",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "KT002",
+    "lat": "1.68599867",
+    "lng": "103.86421400",
+    "distance": 2399.8
+  },
+  {
+    "id": 486,
+    "name": "Kuil Sri Maha Mariamman Devasthanam,Jalan Kota Tinggi",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "KT002",
+    "lat": "1.69155788",
+    "lng": "103.86948320",
+    "distance": 863.3
+  },
+  {
+    "id": 484,
+    "name": "Kawasan Perindustrian Jalan Johor",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "KT002",
+    "lat": "1.70090914",
+    "lng": "103.87941020",
+    "distance": 1798.5
+  },
+  {
+    "id": 483,
+    "name": "Gereja Bethany,Jalan Johor",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "KT002",
+    "lat": "1.71100786",
+    "lng": "103.88038050",
+    "distance": 1157.3
+  },
+  {
+    "id": 481,
+    "name": "Taman Kota Intan,Jalan Johor",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "KT002",
+    "lat": "1.71748255",
+    "lng": "103.88419610",
+    "distance": 895.5
+  },
+  {
+    "id": 472,
+    "name": "Jalan Johor Kota Tinggi",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "KT002",
+    "lat": "1.71913000",
+    "lng": "103.89006000",
+    "distance": 681.8
+  },
+  {
+    "id": 478,
+    "name": "Opposite Econsave,Jalan Johor",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "KT002",
+    "lat": "1.71950674",
+    "lng": "103.89347260",
+    "distance": 382.1
+  },
+  {
+    "id": 470,
+    "name": "SMK Tun Habab",
+    "route": "KT002",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "KT002",
+    "lat": "1.72159450",
+    "lng": "103.89712650",
+    "distance": 495.7,
+    "intersections": [
+      {
+        "withRoute": "KT002",
+        "stopId": 469,
+        "distance": 84.5
+      }
+    ]
+  }
+]

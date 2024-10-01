@@ -1,0 +1,46 @@
+[
+  {
+    "id": 735,
+    "name": "Kg Parit Awang (Jalan Yong Peng)",
+    "route": "YP001",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "YP001",
+    "lat": "2.00840000",
+    "lng": "103.05570000",
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 734,
+        "distance": 16
+      },
+      {
+        "withRoute": "YP001",
+        "stopId": 743,
+        "distance": 99.9
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Kg Jalan Lama (Jalan Yong Peng)",
+    "route": "YP001",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "YP001",
+    "lat": "2.01020000",
+    "lng": "103.05780000",
+    "distance": 306.7
+  },
+  {
+    "id": 737,
+    "name": "Maybank Yong Peng",
+    "route": "YP001",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "YP001",
+    "lat": "2.01070000",
+    "lng": "103.06720000",
+    "distance": 1118.6
+  }
+]

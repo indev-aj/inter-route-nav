@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1002,
+    "name": "Terminal Bas dan Teksi Kluang",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "KL001, KL002, SR004",
+    "lat": "2.03617833",
+    "lng": "103.32281360",
+    "intersections": [
+      {
+        "withRoute": "KL001",
+        "stopId": 2495,
+        "distance": 0
+      },
+      {
+        "withRoute": "KL002",
+        "stopId": 1001,
+        "distance": 0
+      },
+      {
+        "withRoute": "KL003",
+        "stopId": 2657,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Persimpangan Jalan Kluang - Renggam dan Jalan Hashim",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "SR004",
+    "lat": "2.02773386",
+    "lng": "103.31804350",
+    "distance": 1528
+  },
+  {
+    "id": 644,
+    "name": "Kolej Vokasional Kluang (Tiang 2)",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "SR004",
+    "lat": "2.00159269",
+    "lng": "103.32386630",
+    "distance": 2986.6,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 645,
+        "distance": 46.4
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "name": "SMK Jalan Mengkibol Kluang (Tiang 2)",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "SR004",
+    "lat": "1.99784699",
+    "lng": "103.32472120",
+    "distance": 425.1,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 643,
+        "distance": 39.1
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Warung D'Bostam",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "SR004",
+    "lat": "1.94186015",
+    "lng": "103.35298660",
+    "distance": 7493.1,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 640,
+        "distance": 5.1
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Opposite Bukit Benut",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "SR004",
+    "lat": "1.93825343",
+    "lng": "103.35580870",
+    "distance": 509.2,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 637,
+        "distance": 40.4
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Kampung Baru Sungai Sayong Kluang (Tiang 2)",
+    "route": "SR004",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "SR004",
+    "lat": "1.92264694",
+    "lng": "103.37185970",
+    "distance": 2542.8,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 635,
+        "distance": 28.8
+      }
+    ]
+  }
+]

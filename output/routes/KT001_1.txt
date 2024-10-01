@@ -1,0 +1,84 @@
+[
+  {
+    "id": 2325,
+    "name": "Terminal Tun Sri Lanang, Kota Tinggi",
+    "route": "KT001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.72931073",
+    "lng": "103.90193978",
+    "intersections": [
+      {
+        "withRoute": "KT002",
+        "stopId": 2327,
+        "distance": 0
+      },
+      {
+        "withRoute": "KT003",
+        "stopId": 2660,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 476,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Hospital Kota Tinggi",
+    "route": "KT001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "KT001",
+    "lat": "1.73606000",
+    "lng": "103.89962000",
+    "distance": 1282.3
+  },
+  {
+    "id": 467,
+    "name": "Taman Kota Jaya",
+    "route": "KT001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "KT001",
+    "lat": "1.73710000",
+    "lng": "103.89069000",
+    "distance": 1319.3
+  },
+  {
+    "id": 474,
+    "name": "SMK Taman Kota Jaya",
+    "route": "KT001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "KT001",
+    "lat": "1.74290257",
+    "lng": "103.89009360",
+    "distance": 747.1
+  },
+  {
+    "id": 475,
+    "name": "SK Laksamana Kota Tinggi",
+    "route": "KT001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "KT001",
+    "lat": "1.74328327",
+    "lng": "103.90516190",
+    "distance": 2139.8
+  },
+  {
+    "id": 468,
+    "name": "Kipmart Kota Tinggi",
+    "route": "KT001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "KT001",
+    "lat": "1.73374000",
+    "lng": "103.90568000",
+    "distance": 1419.2
+  }
+]

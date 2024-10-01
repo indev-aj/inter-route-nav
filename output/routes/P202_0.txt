@@ -1,0 +1,57 @@
+[
+  {
+    "id": 149,
+    "name": "SK Tmn Universiti 4",
+    "route": "P202",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P202,P213,P214",
+    "lat": "1.53440000",
+    "lng": "103.62709000",
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 150,
+        "distance": 4
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 882,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1161,
+        "distance": 4
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Gerai Jalan Kebangsaan, Taman Universiti ",
+    "route": "P202",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P202,P213",
+    "lat": "1.53567500",
+    "lng": "103.62815900",
+    "distance": 184.4,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 150,
+        "distance": 188.4
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 882,
+        "distance": 184.4
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1161,
+        "distance": 188.4
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 2495,
+    "name": "Terminal Bas dan Teksi Kluang",
+    "route": "KL001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.03617833",
+    "lng": "103.32281360",
+    "intersections": [
+      {
+        "withRoute": "KL002",
+        "stopId": 1001,
+        "distance": 0
+      },
+      {
+        "withRoute": "KL003",
+        "stopId": 2657,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "SR004",
+        "stopId": 1002,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 584,
+    "name": "Taman Sri Kluang,Jalan Dato Ibrahim Majid",
+    "route": "KL001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "KL001",
+    "lat": "2.02878014",
+    "lng": "103.30164380",
+    "distance": 3894.2
+  },
+  {
+    "id": 585,
+    "name": "Taman Permata,Jalan Berlian 1",
+    "route": "KL001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "KL001",
+    "lat": "2.02165786",
+    "lng": "103.29412710",
+    "distance": 2006.6
+  },
+  {
+    "id": 586,
+    "name": "Taman Kluang Barat,Jalan Revertex",
+    "route": "KL001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "KL001",
+    "lat": "2.01371580",
+    "lng": "103.29671120",
+    "distance": 951.9
+  },
+  {
+    "id": 587,
+    "name": "Taman Kluang Barat,Jalan Yule Catto",
+    "route": "KL001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "KL001",
+    "lat": "2.01168014",
+    "lng": "103.29295370",
+    "distance": 681
+  },
+  {
+    "id": 588,
+    "name": "Taman Desa,Jalan 1",
+    "route": "KL001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "KL001",
+    "lat": "2.01016736",
+    "lng": "103.28503910",
+    "distance": 1056
+  }
+]

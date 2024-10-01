@@ -1,0 +1,79 @@
+[
+  {
+    "id": 2345,
+    "name": "Terminal Segamat",
+    "route": "SE003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.50835468",
+    "lng": "102.81295710",
+    "intersections": [
+      {
+        "withRoute": "SE001",
+        "stopId": 2368,
+        "distance": 0
+      },
+      {
+        "withRoute": "SE002",
+        "stopId": 2361,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2318,
+    "name": "Wisma Jakel (Bus Stop)",
+    "route": "SE003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "SE003",
+    "lat": "2.51023600",
+    "lng": "102.81518700",
+    "distance": 676.2
+  },
+  {
+    "id": 2321,
+    "name": "Taman Bendahara",
+    "route": "SE003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "SE003",
+    "lat": "2.50136800",
+    "lng": "102.81158400",
+    "distance": 1396.5
+  },
+  {
+    "id": 2339,
+    "name": "Opposite Sekolah Kebangsaan Gemerah",
+    "route": "SE003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.49005348",
+    "lng": "102.79711350",
+    "distance": 2467.5
+  },
+  {
+    "id": 2340,
+    "name": "Sweet Flower Nursery",
+    "route": "SE003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.48864581",
+    "lng": "102.74341520",
+    "distance": 7228.5
+  },
+  {
+    "id": 2320,
+    "name": "UiTM Segamat",
+    "route": "SE003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "SE003",
+    "lat": "2.48752800",
+    "lng": "102.73056800",
+    "distance": 2584.3
+  }
+]

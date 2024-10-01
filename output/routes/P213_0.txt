@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2872,
+    "name": "Taman Nusa Perintis",
+    "route": "P213",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "1.45071200",
+    "lng": "103.59380300"
+  },
+  {
+    "id": 2873,
+    "name": "Terminal Gelang Patah",
+    "route": "P213",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "1.44679300",
+    "lng": "103.58957400",
+    "distance": 1471.6,
+    "intersections": [
+      {
+        "withRoute": "P213",
+        "stopId": 211,
+        "distance": 111.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": 795,
+    "name": "Masjid Jamek Pekan Pagoh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": "MU004",
+    "lat": "2.14783822",
+    "lng": "102.77031450",
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 833,
+        "distance": 86.6
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2546,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2544,
+        "distance": 86.6
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "name": "Seri Pekembar",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 28,
+    "station_code": "MU004",
+    "lat": "2.13588207",
+    "lng": "102.73786460",
+    "distance": 3988.6,
+    "intersections": [
+      {
+        "withRoute": "TK002",
+        "stopId": 2547,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "name": "Exit to Tol Pagoh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 29,
+    "station_code": "MU004",
+    "lat": "2.13180030",
+    "lng": "102.72864280",
+    "distance": 1136
+  },
+  {
+    "id": 830,
+    "name": "Kawasan Perindustrian Pagoh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 30,
+    "station_code": "MU004",
+    "lat": "2.13243286",
+    "lng": "102.72462800",
+    "distance": 458.4
+  },
+  {
+    "id": 827,
+    "name": "Opposite IKTBN Pagoh,Jalan Muar - Pagoh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 31,
+    "station_code": "MU004",
+    "lat": "2.13288969",
+    "lng": "102.71982530",
+    "distance": 622
+  },
+  {
+    "id": 791,
+    "name": "Taman Pagoh Jaya (Tiang 2)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 32,
+    "station_code": "MU004",
+    "lat": "2.13111067",
+    "lng": "102.71557390",
+    "distance": 530.1,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 790,
+        "distance": 193.2
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "name": "Pusat Perniagaan Pagoh Permai,Jalan Muar",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 33,
+    "station_code": "MU004",
+    "lat": "2.12972704",
+    "lng": "102.71091130",
+    "distance": 645.2,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 826,
+        "distance": 124.4
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "name": "Ladang Pagoh,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 34,
+    "station_code": "MU004",
+    "lat": "2.11898492",
+    "lng": "102.68387080",
+    "distance": 3431.9
+  },
+  {
+    "id": 821,
+    "name": "Kampung Paya Panjang,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 35,
+    "station_code": "MU004",
+    "lat": "2.10661059",
+    "lng": "102.65780190",
+    "distance": 3245.3
+  },
+  {
+    "id": 789,
+    "name": "Kuaters JKR Muar, Bukit Pasir",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 36,
+    "station_code": "MU004",
+    "lat": "2.10781001",
+    "lng": "102.66062260",
+    "distance": 340.7
+  },
+  {
+    "id": 822,
+    "name": "Balai Raya Paya Panjang,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 37,
+    "station_code": "MU004",
+    "lat": "2.10705382",
+    "lng": "102.65886920",
+    "distance": 233.4
+  },
+  {
+    "id": 2425,
+    "name": "Kampung Paya Panjang,Jalan Muar - Labis II",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 38,
+    "station_code": null,
+    "lat": "2.10661059",
+    "lng": "102.65780190",
+    "distance": 132.1
+  },
+  {
+    "id": 819,
+    "name": "Dataran Bukit Pasir,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 39,
+    "station_code": "MU004",
+    "lat": "2.09894270",
+    "lng": "102.63912230",
+    "distance": 2324.5,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 820,
+        "distance": 180.3
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Sekolah Kebangsaan Sri Bukit Pasir",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 40,
+    "station_code": "MU004, MU005",
+    "lat": "2.09780473",
+    "lng": "102.63630730",
+    "distance": 337.2,
+    "intersections": [
+      {
+        "withRoute": "MU005",
+        "stopId": 1141,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "name": "Sekolah Agama Sungai Raya",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 41,
+    "station_code": "MU004",
+    "lat": "2.09648232",
+    "lng": "102.63301290",
+    "distance": 414.5,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 787,
+        "distance": 18.2
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "name": "Kampung Bukit Pasir,Jalan Muar - Labis",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 42,
+    "station_code": "MU004",
+    "lat": "2.09552663",
+    "lng": "102.63072960",
+    "distance": 281.3
+  },
+  {
+    "id": 785,
+    "name": "Sekolah Kebangsaan Sungai Raya (Tiang 1)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 43,
+    "station_code": "MU004",
+    "lat": "2.09323570",
+    "lng": "102.62506910",
+    "distance": 709.8,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 786,
+        "distance": 29.2
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Klinik desa Sungai Terap",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 44,
+    "station_code": "MU004",
+    "lat": "2.08865699",
+    "lng": "102.61398060",
+    "distance": 1333.5
+  },
+  {
+    "id": 815,
+    "name": "Sungai Terap KM 8,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 45,
+    "station_code": "MU004",
+    "lat": "2.08736411",
+    "lng": "102.61087170",
+    "distance": 374.3
+  },
+  {
+    "id": 783,
+    "name": "Simpang Jalan Naib Piee",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 46,
+    "station_code": "MU004",
+    "lat": "2.08567668",
+    "lng": "102.60455850",
+    "distance": 727.3,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 813,
+        "distance": 44.1
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 814,
+        "distance": 127.5
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "name": "Taman Temiang Baru (Bus Stop)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 47,
+    "station_code": "MU004",
+    "lat": "2.08649300",
+    "lng": "102.58766900",
+    "distance": 1907.1
+  },
+  {
+    "id": 812,
+    "name": "Temiang Pagoh,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 48,
+    "station_code": "MU004",
+    "lat": "2.08767178",
+    "lng": "102.58523650",
+    "distance": 320.8
+  },
+  {
+    "id": 781,
+    "name": "Kampung Temiang ubah ke (Hospital Pakar Sultanah Fatimah, Muar)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 49,
+    "station_code": "MU004",
+    "lat": "2.08648763",
+    "lng": "102.58209780",
+    "distance": 406.6
+  },
+  {
+    "id": 798,
+    "name": "Taman Ria (Bus Stop)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 50,
+    "station_code": "MU004",
+    "lat": "2.07848100",
+    "lng": "102.57991200",
+    "distance": 971.7,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 811,
+        "distance": 106.8
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "name": "SMK Tun Perak ( Tiang 2)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 51,
+    "station_code": "MU004",
+    "lat": "2.07567738",
+    "lng": "102.57921600",
+    "distance": 335.7,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 809,
+        "distance": 241.7
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 779,
+        "distance": 115
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 811,
+        "distance": 239.8
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Taman Suria,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 52,
+    "station_code": "MU004",
+    "lat": "2.07385122",
+    "lng": "102.57877820",
+    "distance": 230.9,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 809,
+        "distance": 47.5
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 779,
+        "distance": 179.7
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "name": "Tmn. Putra Indah (Bus Stop)",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 53,
+    "station_code": "MU004",
+    "lat": "2.07058700",
+    "lng": "102.57795500",
+    "distance": 386.3,
+    "intersections": [
+      {
+        "withRoute": "MU004",
+        "stopId": 778,
+        "distance": 121.5
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "name": "Taman Mas Jaya,Jalan Salleh",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 54,
+    "station_code": "MU004",
+    "lat": "2.06700257",
+    "lng": "102.57707280",
+    "distance": 408.2
+  },
+  {
+    "id": 1164,
+    "name": "Sekolah Kebangsaan Parit Setongkat",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 55,
+    "station_code": "MU001, MU004",
+    "lat": "2.06332406",
+    "lng": "102.57611090",
+    "distance": 420.7
+  },
+  {
+    "id": 11,
+    "name": "Hospital Pakar Sultanah Fatimah",
+    "route": "MU004",
+    "bound_type": 0,
+    "sequence": 56,
+    "station_code": "MU001, MU004, MU005",
+    "lat": "2.05673126",
+    "lng": "102.57423860",
+    "distance": 758,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1168,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 1167,
+        "distance": 0
+      }
+    ]
+  }
+]

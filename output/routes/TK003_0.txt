@@ -1,0 +1,153 @@
+[
+  {
+    "id": 2860,
+    "name": "SMK Sagil (Ke Tangkak)",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.30143600",
+    "lng": "102.60774400",
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2841,
+        "distance": 27.2
+      }
+    ]
+  },
+  {
+    "id": 2861,
+    "name": "Institut Latihan Perindustrian Ledang (Ke Tangkak))",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.30014400",
+    "lng": "102.60204600",
+    "distance": 684.8,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2840,
+        "distance": 67.3
+      }
+    ]
+  },
+  {
+    "id": 2862,
+    "name": "Bandar Baru Tangkak",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.29387300",
+    "lng": "102.57790600",
+    "distance": 3070.6
+  },
+  {
+    "id": 2863,
+    "name": "SMK Tangkak ",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.28801700",
+    "lng": "102.56150300",
+    "distance": 2441.2,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2838,
+        "distance": 126.9
+      }
+    ]
+  },
+  {
+    "id": 2864,
+    "name": "Kolej Komuniti Ledang",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "2.28619400",
+    "lng": "102.55919900",
+    "distance": 348.8,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2491,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2865,
+    "name": "Sekolah Kebangsaan Paya Mas",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.28421800",
+    "lng": "102.55253500",
+    "distance": 873.5,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2492,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2866,
+    "name": "Kampung Paya Mas",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "2.28365300",
+    "lng": "102.55039000",
+    "distance": 315,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2493,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2867,
+    "name": "SMK Tun Mamat (Ke Tangkak)",
+    "route": "TK003",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "2.27904500",
+    "lng": "102.54782400",
+    "distance": 633.8,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2444,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2490,
+        "distance": 14.5
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2494,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2837,
+        "distance": 14.5
+      }
+    ]
+  }
+]

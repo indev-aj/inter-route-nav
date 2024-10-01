@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2368,
+    "name": "Terminal Segamat",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.50835468",
+    "lng": "102.81295710",
+    "intersections": [
+      {
+        "withRoute": "SE002",
+        "stopId": 2361,
+        "distance": 0
+      },
+      {
+        "withRoute": "SE003",
+        "stopId": 2345,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2303,
+    "name": "Medan Selera Kenawar",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "SE001",
+    "lat": "2.49770000",
+    "lng": "102.83080000",
+    "distance": 3008.9
+  },
+  {
+    "id": 2307,
+    "name": "SMK Paduka Tuan (Bus Stop)",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "SE001",
+    "lat": "2.49168100",
+    "lng": "102.84256300",
+    "distance": 1467.9
+  },
+  {
+    "id": 2309,
+    "name": "Bandar Segamat Baru",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "SE001",
+    "lat": "2.49104000",
+    "lng": "102.85170000",
+    "distance": 1242.2
+  },
+  {
+    "id": 2304,
+    "name": "SMK Agama Segamat",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "SE001",
+    "lat": "2.49610000",
+    "lng": "102.85670000",
+    "distance": 1037
+  },
+  {
+    "id": 2363,
+    "name": "SK Segamat Baru",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.50037263",
+    "lng": "102.84949250",
+    "distance": 1379.7
+  },
+  {
+    "id": 2305,
+    "name": "SMK Bandar Putra",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "SE001",
+    "lat": "2.50000000",
+    "lng": "102.86300000",
+    "distance": 1728.2
+  },
+  {
+    "id": 2308,
+    "name": "Hospital Segamat (Bus Stop)",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "SE001",
+    "lat": "2.49156200",
+    "lng": "102.86003600",
+    "distance": 1425.2
+  },
+  {
+    "id": 2364,
+    "name": "Bukit Siput",
+    "route": "SE001",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.48567720",
+    "lng": "102.84774360",
+    "distance": 1799.2
+  }
+]

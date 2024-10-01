@@ -1,0 +1,148 @@
+[
+  {
+    "id": 583,
+    "name": "PPR Sri Stulang,Jalan Sri Stulang",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P102, P103, P106",
+    "lat": "1.49486564",
+    "lng": "103.78768620",
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 307,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 1068,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Taman Iskandar (Bus Stop)",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P102",
+    "lat": "1.49046000",
+    "lng": "103.78590000",
+    "distance": 863.4,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 2447,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Flat Stulang Laut",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P102",
+    "lat": "1.47118000",
+    "lng": "103.78119000",
+    "distance": 2532.8
+  },
+  {
+    "id": 308,
+    "name": "Opposite De' Stulang,Jalan Ibrahim Sultan",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P102",
+    "lat": "1.46922921",
+    "lng": "103.78157220",
+    "distance": 282.5,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 233,
+        "distance": 21.1
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "KFC Stulang Laut",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P102",
+    "lat": "1.46705000",
+    "lng": "103.77893000",
+    "distance": 380.8,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 309,
+        "distance": 67.4
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "name": "R&F Mall",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P102, P311",
+    "lat": "1.46035062",
+    "lng": "103.76941150",
+    "distance": 2229.7,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 1093,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "name": "MBJB,Jalan Ibrahim",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P101, P102",
+    "lat": "1.45552249",
+    "lng": "103.76171920",
+    "distance": 2033.8,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 312,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1169,
+    "name": "JB Sentral",
+    "route": "P102",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P101, P102, P311",
+    "lat": "1.46338278",
+    "lng": "103.76490120",
+    "distance": 1332.4,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 1215,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1095,
+        "distance": 0
+      }
+    ]
+  }
+]

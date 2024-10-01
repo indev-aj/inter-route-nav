@@ -1,0 +1,120 @@
+[
+  {
+    "id": 525,
+    "name": "Terminal Bas And Teksi Bandar Penawar",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "PE001, PE003, PE004, PE005",
+    "lat": "1.55490527",
+    "lng": "104.22837170",
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 2369,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 1148,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE005",
+        "stopId": 1003,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Bukit Pelali,Jalan Kota Tinggi - Pengerang",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "PE003",
+    "lat": "1.39841494",
+    "lng": "104.21311430",
+    "distance": 22767.9
+  },
+  {
+    "id": 539,
+    "name": "Kampung Bukit Gelugur",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "PE003",
+    "lat": "1.39201122",
+    "lng": "104.21756720",
+    "distance": 1949.3
+  },
+  {
+    "id": 503,
+    "name": "Kampung Bkt Raja",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "PE003",
+    "lat": "1.37037411",
+    "lng": "104.22573860",
+    "distance": 2560.3
+  },
+  {
+    "id": 538,
+    "name": "Kampung Changi,Jalan Kota Tinggi - Pengerang",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": "PE003",
+    "lat": "1.36132549",
+    "lng": "104.22854830",
+    "distance": 1048.8
+  },
+  {
+    "id": 541,
+    "name": "KFC Sungai Rengit",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "PE002, PE003",
+    "lat": "1.35368524",
+    "lng": "104.22702430",
+    "distance": 1014,
+    "intersections": [
+      {
+        "withRoute": "PE002",
+        "stopId": 536,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "name": "Klinik Kesihatan Sg. Rengit",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "PE002, PE003",
+    "lat": "1.35010414",
+    "lng": "104.22375450",
+    "distance": 558.6,
+    "intersections": [
+      {
+        "withRoute": "PE002",
+        "stopId": 502,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "Perhentian Bas Sungai Rengit,Jalan Teluk Ramunia",
+    "route": "PE003",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "PE002, PE003",
+    "lat": "1.35010955",
+    "lng": "104.22223040",
+    "distance": 325.4
+  }
+]

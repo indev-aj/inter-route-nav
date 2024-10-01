@@ -1,0 +1,269 @@
+[
+  {
+    "id": 2471,
+    "name": "Terminal Larkin",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2472,
+    "name": "Dewan Serbaguna JKR Daerah Johor Bahru",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.49168658",
+    "lng": "103.74089400",
+    "distance": 438.5,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 298,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1170,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1088,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1162,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2473,
+    "name": "Taman Nong Chik,Jalan Kolam Ayer",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.47222950",
+    "lng": "103.73677320",
+    "distance": 2332.4,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 317,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2474,
+    "name": "Tahfiz masjid nong chik",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.46873000",
+    "lng": "103.73679000",
+    "distance": 386.9,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 168,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 316,
+        "distance": 152.5
+      }
+    ]
+  },
+  {
+    "id": 2475,
+    "name": "Sekolah Kebangsaan Nong Chik,Jalan Kolam Ayer -",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.46734971",
+    "lng": "103.73679890",
+    "distance": 152.5,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 316,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2476,
+    "name": "Maktab Sultan Abu Bakar (English College)",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.46258180",
+    "lng": "103.73963820",
+    "distance": 667.4,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 315,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 236,
+        "distance": 136.2
+      }
+    ]
+  },
+  {
+    "id": 2477,
+    "name": "Yayasan Warisan Johor",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "1.46209000",
+    "lng": "103.74076000",
+    "distance": 136.2,
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 236,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2478,
+    "name": "Hospital Sultanah Aminah",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.45745000",
+    "lng": "103.74675000",
+    "distance": 1143.3,
+    "intersections": [
+      {
+        "withRoute": "HSA-01",
+        "stopId": 2878,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 37,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2479,
+    "name": "Maahad Johor",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "1.45669000",
+    "lng": "103.74932000",
+    "distance": 333,
+    "intersections": [
+      {
+        "withRoute": "HSA-01",
+        "stopId": 2879,
+        "distance": 8.9
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 314,
+        "distance": 8.9
+      }
+    ]
+  },
+  {
+    "id": 2480,
+    "name": "Pusat Islam Negeri Johor,Jalan Abu Bakar",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.45666191",
+    "lng": "103.74939880",
+    "distance": 8.9,
+    "intersections": [
+      {
+        "withRoute": "HSA-01",
+        "stopId": 2879,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 314,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2481,
+    "name": "Klinik Kesihatan Mahmoodiah",
+    "route": "HSA",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "1.46256100",
+    "lng": "103.74700600",
+    "distance": 1657.8,
+    "intersections": [
+      {
+        "withRoute": "HSA-01",
+        "stopId": 2877,
+        "distance": 0
+      }
+    ]
+  }
+]

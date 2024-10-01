@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1001,
+    "name": "Terminal Bas dan Teksi Kluang",
+    "route": "KL002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "KL001, KL002, SR004",
+    "lat": "2.03617833",
+    "lng": "103.32281360",
+    "intersections": [
+      {
+        "withRoute": "KL001",
+        "stopId": 2495,
+        "distance": 0
+      },
+      {
+        "withRoute": "KL003",
+        "stopId": 2657,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "SR004",
+        "stopId": 1002,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "name": "Sekolah Agama Gunung Lambak,Jalan Mersing",
+    "route": "KL002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "KL002",
+    "lat": "2.03434883",
+    "lng": "103.32843920",
+    "distance": 1394.8
+  },
+  {
+    "id": 576,
+    "name": "Taman Majupadu,Jalan Kampung Masjid",
+    "route": "KL002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "KL002",
+    "lat": "2.03162312",
+    "lng": "103.33822050",
+    "distance": 1648
+  },
+  {
+    "id": 579,
+    "name": "SMK Jalan Kota Tinggi,Kluang",
+    "route": "KL002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "KL002",
+    "lat": "2.00824446",
+    "lng": "103.34859660",
+    "distance": 4476.1
+  },
+  {
+    "id": 578,
+    "name": "Hospital Enche Besar Hajjah Khalsam,Kluang",
+    "route": "KL002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "KL002",
+    "lat": "2.00793404",
+    "lng": "103.34837140",
+    "distance": 545.7
+  }
+]

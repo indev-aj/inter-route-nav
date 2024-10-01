@@ -1,0 +1,181 @@
+[
+  {
+    "id": 362,
+    "name": "Sekolah Kebangsaan Taman Johor Jaya,Jalan Dedap 1",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P106",
+    "lat": "1.53408191",
+    "lng": "103.80435210",
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 363,
+        "distance": 178.3
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Taman Perindustrian Plentong,Jalan Masai Lama",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "P106, P301",
+    "lat": "1.52598967",
+    "lng": "103.81708870",
+    "distance": 2384.6,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 1098,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Klinik Desa Plentong,Jalan Masai Lama",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P106, P311",
+    "lat": "1.52120585",
+    "lng": "103.82082030",
+    "distance": 1236.7,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2454,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Jalan Permas Utara (Bus Stop)",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P106",
+    "lat": "1.51469600",
+    "lng": "103.81824600",
+    "distance": 1206.5
+  },
+  {
+    "id": 370,
+    "name": "Desa Permas Jaya,Jalan Permas Utara",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P106",
+    "lat": "1.50372320",
+    "lng": "103.81766420",
+    "distance": 1222.2
+  },
+  {
+    "id": 371,
+    "name": "Sekolah Kebangsaan Taman Permas Jaya 3,Jalan Permas 7",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P106",
+    "lat": "1.50013431",
+    "lng": "103.82045500",
+    "distance": 870.8,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 373,
+        "distance": 171.5
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Pan Vista,Jalan Permas 7",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P106",
+    "lat": "1.50012961",
+    "lng": "103.82216710",
+    "distance": 190.3,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 373,
+        "distance": 18.8
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Masjid Bandar Permas Jaya,Jalan Permas 7",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P106",
+    "lat": "1.50013466",
+    "lng": "103.82587710",
+    "distance": 634.3
+  },
+  {
+    "id": 375,
+    "name": "Bandar Baru Permas Jaya",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "P106, P311",
+    "lat": "1.49385505",
+    "lng": "103.81310300",
+    "distance": 2270.2,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 1101,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "name": "Taman Sri Stualang,JB East Coast Highway",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "P102, P103, P106, P311",
+    "lat": "1.49682995",
+    "lng": "103.78938730",
+    "distance": 2776.7,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 306,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1092,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1091,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2605,
+    "name": "PPR Sri Stulang P106",
+    "route": "P106",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": "P106",
+    "lat": "1.49516000",
+    "lng": "103.78809000",
+    "distance": 1140.5
+  }
+]

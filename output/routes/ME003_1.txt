@@ -1,0 +1,143 @@
+[
+  {
+    "id": 2378,
+    "name": "Jeti Penyabong",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.64797200",
+    "lng": "103.74906000"
+  },
+  {
+    "id": 666,
+    "name": "Simpang Tanjung Resang,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "ME003",
+    "lat": "2.63779649",
+    "lng": "103.75181760",
+    "distance": 1278
+  },
+  {
+    "id": 667,
+    "name": "Kampung Baru Tanjung Penyabong,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "ME003",
+    "lat": "2.62768115",
+    "lng": "103.74732440",
+    "distance": 1254.2
+  },
+  {
+    "id": 668,
+    "name": "Jalan Teriang Tengah Kampung Sungai Bebuta,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "ME003",
+    "lat": "2.62341861",
+    "lng": "103.72987750",
+    "distance": 2799.7
+  },
+  {
+    "id": 669,
+    "name": "Kampung Sungai Bebuta,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "ME003",
+    "lat": "2.62442071",
+    "lng": "103.72768350",
+    "distance": 268
+  },
+  {
+    "id": 670,
+    "name": "Klinik Desa Kampung Teriang,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "ME003",
+    "lat": "2.62721349",
+    "lng": "103.72131930",
+    "distance": 772.3,
+    "intersections": [
+      {
+        "withRoute": "ME003",
+        "stopId": 671,
+        "distance": 162
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "name": "Masjid Kampung Sungai Mengkuang,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "ME003",
+    "lat": "2.64303975",
+    "lng": "103.68787440",
+    "distance": 4171.4
+  },
+  {
+    "id": 673,
+    "name": "Kampung Sungai Mengkuang,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "ME003",
+    "lat": "2.64297191",
+    "lng": "103.68198450",
+    "distance": 677.1
+  },
+  {
+    "id": 675,
+    "name": "SMK Ungku Husin,Jalan Penyabong - Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "ME003",
+    "lat": "2.64853717",
+    "lng": "103.63161150",
+    "distance": 8489.7
+  },
+  {
+    "id": 679,
+    "name": "Sekolah Kebangsaan Bandar Endau,Jalan Endau - Mersing",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "ME003",
+    "lat": "2.65089754",
+    "lng": "103.62407320",
+    "distance": 993.1,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2817,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Terminal Bus Endau",
+    "route": "ME003",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "ME003",
+    "lat": "2.65360543",
+    "lng": "103.61875360",
+    "distance": 803.5,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2818,
+        "distance": 0
+      }
+    ]
+  }
+]

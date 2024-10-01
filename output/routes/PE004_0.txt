@@ -1,0 +1,116 @@
+[
+  {
+    "id": 476,
+    "name": "Terminal Tun Sri Lanang, Kota Tinggi",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "KT001, KT002, PE004",
+    "lat": "1.72931073",
+    "lng": "103.90193978",
+    "intersections": [
+      {
+        "withRoute": "KT001",
+        "stopId": 2325,
+        "distance": 0
+      },
+      {
+        "withRoute": "KT002",
+        "stopId": 2327,
+        "distance": 0
+      },
+      {
+        "withRoute": "KT003",
+        "stopId": 2660,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Air Tawar 3,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "PE004",
+    "lat": "1.70144614",
+    "lng": "103.97598000",
+    "distance": 11241.3
+  },
+  {
+    "id": 517,
+    "name": "Balai Polis Air Tawar 2,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "PE004",
+    "lat": "1.67155974",
+    "lng": "104.02043220",
+    "distance": 6405.2
+  },
+  {
+    "id": 509,
+    "name": "Felda Air Tawar 1 (tiang 2)",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "PE004",
+    "lat": "1.62211000",
+    "lng": "104.05397100",
+    "distance": 6803.9,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 508,
+        "distance": 87.7
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Felda Air Tawar 5 (Tiang 2)",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "PE004",
+    "lat": "1.60643807",
+    "lng": "104.09031970",
+    "distance": 5258.1,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 506,
+        "distance": 37
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Bandar Mas",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "PE004",
+    "lat": "1.60277100",
+    "lng": "104.13894700",
+    "distance": 5438.9,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 505,
+        "distance": 70.9
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Hentian Penawar Kejora,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "PE004",
+    "lat": "1.58311987",
+    "lng": "104.19853210",
+    "distance": 7050.9
+  }
+]

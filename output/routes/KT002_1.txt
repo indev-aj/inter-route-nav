@@ -1,0 +1,135 @@
+[
+  {
+    "id": 2327,
+    "name": "Terminal Tun Sri Lanang, Kota Tinggi",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "KT002",
+    "lat": "1.72931073",
+    "lng": "103.90193978",
+    "intersections": [
+      {
+        "withRoute": "KT001",
+        "stopId": 2325,
+        "distance": 0
+      },
+      {
+        "withRoute": "KT003",
+        "stopId": 2660,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 476,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Padang Awam MDKT",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "KT002",
+    "lat": "1.72399812",
+    "lng": "103.89875260",
+    "distance": 1000.4
+  },
+  {
+    "id": 469,
+    "name": "Opposite SMK Tun Habab",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "KT002",
+    "lat": "1.72155696",
+    "lng": "103.89735150",
+    "distance": 331.1,
+    "intersections": [
+      {
+        "withRoute": "KT002",
+        "stopId": 470,
+        "distance": 84.5
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Jalan Johor (Tmn Daiman Jaya)",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "KT002",
+    "lat": "1.71922000",
+    "lng": "103.89342000",
+    "distance": 894.6
+  },
+  {
+    "id": 479,
+    "name": "Taman Sri Lalang",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "KT002",
+    "lat": "1.71888104",
+    "lng": "103.89010760",
+    "distance": 370.6
+  },
+  {
+    "id": 480,
+    "name": "Taman Daiman Jaya,Jalan Johor",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "KT002",
+    "lat": "1.71739153",
+    "lng": "103.88468950",
+    "distance": 641.3
+  },
+  {
+    "id": 482,
+    "name": "Kulim Training Centre,Jalan Johor",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "KT002",
+    "lat": "1.71092613",
+    "lng": "103.88071190",
+    "distance": 936.6
+  },
+  {
+    "id": 485,
+    "name": "Opposite Kawasan Perindustrian Jalan Johor",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "KT002",
+    "lat": "1.70037443",
+    "lng": "103.87962610",
+    "distance": 1214.1
+  },
+  {
+    "id": 487,
+    "name": "Opposite Ladang Tai Tak,Jalan Kota Tinggi",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "KT002",
+    "lat": "1.68580242",
+    "lng": "103.86445910",
+    "distance": 2663
+  },
+  {
+    "id": 473,
+    "name": "Persiaran Sri Saujana (Simpang SS8)",
+    "route": "KT002",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "KT002",
+    "lat": "1.66825193",
+    "lng": "103.85396390",
+    "distance": 3775.3
+  }
+]

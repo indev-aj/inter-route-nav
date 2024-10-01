@@ -1,0 +1,117 @@
+[
+  {
+    "id": 574,
+    "name": "Taman Perindustrian Pekan Nenas 1,Jalan Skudai - Pontian",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "PN002",
+    "lat": "1.49714616",
+    "lng": "103.52229920"
+  },
+  {
+    "id": 573,
+    "name": "Pekan Nenas Batu 26,Jalan Skudai - Pontian",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "PN002",
+    "lat": "1.49883688",
+    "lng": "103.51806300",
+    "distance": 547.3
+  },
+  {
+    "id": 572,
+    "name": "Maybank Pekan Nanas",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "PN002",
+    "lat": "1.50213428",
+    "lng": "103.51723730",
+    "distance": 402.2
+  },
+  {
+    "id": 570,
+    "name": "Opposite Sekolah Agama Pekan Nenas",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "PN002",
+    "lat": "1.51240861",
+    "lng": "103.51201000",
+    "distance": 1563,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 569,
+        "distance": 21.7
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "name": "SMK Dato Mohd. Yunos Sulaiman",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "PN002",
+    "lat": "1.51944856",
+    "lng": "103.51379700",
+    "distance": 836.4,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 567,
+        "distance": 23.9
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Klinik Kesihatan Pekan Nenas",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "PN002",
+    "lat": "1.52177000",
+    "lng": "103.51451000",
+    "distance": 272.4,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 567,
+        "distance": 248.5
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "name": "Jalan Sawah, Taman Damai",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "PN002",
+    "lat": "1.52247268",
+    "lng": "103.51465820",
+    "distance": 79.4
+  },
+  {
+    "id": 553,
+    "name": "Sk Kampung Sawah",
+    "route": "PN002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "PN002",
+    "lat": "1.54324593",
+    "lng": "103.49380060",
+    "distance": 3571.2,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 565,
+        "distance": 90.3
+      }
+    ]
+  }
+]

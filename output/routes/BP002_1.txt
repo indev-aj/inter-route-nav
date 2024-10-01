@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1137,
+    "name": "Terminal Bas Express Batu Pahat",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "BP001, BP002",
+    "lat": "1.85336979",
+    "lng": "102.92666980",
+    "intersections": [
+      {
+        "withRoute": "BP001",
+        "stopId": 727,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2626,
+    "name": "MASJID JAMEK SULTAN ISMAIL",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.85578300",
+    "lng": "102.94732600",
+    "distance": 3200.5
+  },
+  {
+    "id": 2627,
+    "name": "PANTAI HOSPITAL BATU PAHAT",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.86001900",
+    "lng": "102.95021000",
+    "distance": 598.7
+  },
+  {
+    "id": 2628,
+    "name": "BP MALL",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.86362800",
+    "lng": "102.96312600",
+    "distance": 1559.7
+  },
+  {
+    "id": 2629,
+    "name": "JALAN KLUANG",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.86613300",
+    "lng": "102.97177200",
+    "distance": 1011.2
+  },
+  {
+    "id": 2630,
+    "name": "PARIT HAJI MOHAMAD NOR",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.86867500",
+    "lng": "102.97873300",
+    "distance": 961.5
+  },
+  {
+    "id": 2631,
+    "name": "COWBOY BATU PAHAT",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "1.87040500",
+    "lng": "102.98447500",
+    "distance": 682.5
+  },
+  {
+    "id": 2632,
+    "name": "TAMAN MUTIARA",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.86060600",
+    "lng": "103.00413400",
+    "distance": 2604.5
+  },
+  {
+    "id": 2633,
+    "name": "PARIT SENGKUANG",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "1.85504500",
+    "lng": "103.02024700",
+    "distance": 1951.2
+  },
+  {
+    "id": 2634,
+    "name": "SRI GADING",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.85389400",
+    "lng": "103.02937600",
+    "distance": 1024.3
+  },
+  {
+    "id": 2635,
+    "name": "SMK SRI GADING",
+    "route": "BP002",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "1.85093900",
+    "lng": "103.05129200",
+    "distance": 2459.9
+  }
+]

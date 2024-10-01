@@ -1,0 +1,112 @@
+[
+  {
+    "id": 656,
+    "name": "Terminal Bas Dan Teksi Bandar Mersing",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "ME001, ME002",
+    "lat": "2.43091681",
+    "lng": "103.83292280",
+    "intersections": [
+      {
+        "withRoute": "ME002",
+        "stopId": 1135,
+        "distance": 0
+      },
+      {
+        "withRoute": "ME004",
+        "stopId": 2653,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "name": "MeTIC",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "ME001",
+    "lat": "2.43262016",
+    "lng": "103.83803810",
+    "distance": 785.9
+  },
+  {
+    "id": 654,
+    "name": "Plaza D'jeti",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "ME001",
+    "lat": "2.43404602",
+    "lng": "103.83946760",
+    "distance": 220
+  },
+  {
+    "id": 653,
+    "name": "Hospital Mersing",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "ME001",
+    "lat": "2.42951819",
+    "lng": "103.84513230",
+    "distance": 1104.1
+  },
+  {
+    "id": 657,
+    "name": "Kampung Telok Iskandar,Jalan Sekakap",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "ME001",
+    "lat": "2.41047254",
+    "lng": "103.86093780",
+    "distance": 3826.4
+  },
+  {
+    "id": 658,
+    "name": "Taman Pantai,Jalan Sri Pantai",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "ME001",
+    "lat": "2.39390382",
+    "lng": "103.86136050",
+    "distance": 2520.8
+  },
+  {
+    "id": 659,
+    "name": "Sekolah Kebangsaaan Anjung Batu,Jalan Jemaluang",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "ME001",
+    "lat": "2.41311503",
+    "lng": "103.84479880",
+    "distance": 3471.9
+  },
+  {
+    "id": 660,
+    "name": "Taman Wawasan, Mersing",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "ME001",
+    "lat": "2.41525536",
+    "lng": "103.84219060",
+    "distance": 374.4
+  },
+  {
+    "id": 652,
+    "name": "Politeknik Mersing",
+    "route": "ME001",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "ME001",
+    "lat": "2.41744000",
+    "lng": "103.82971000",
+    "distance": 1715.3
+  }
+]

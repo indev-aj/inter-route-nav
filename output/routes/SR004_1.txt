@@ -1,0 +1,197 @@
+[
+  {
+    "id": 2426,
+    "name": "Terminal Bas Renggam",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.88507791",
+    "lng": "103.40245600",
+    "intersections": [
+      {
+        "withRoute": "SR002",
+        "stopId": 2421,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1174,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1134,
+    "name": "Kampung Melayu",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "SR003, SR004",
+    "lat": "1.88397538",
+    "lng": "103.40050440",
+    "distance": 323.8,
+    "intersections": [
+      {
+        "withRoute": "SR003",
+        "stopId": 629,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "name": "Klinik Kesihatan Renggam",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "SR003, SR004",
+    "lat": "1.88476530",
+    "lng": "103.39599060",
+    "distance": 580.3,
+    "intersections": [
+      {
+        "withRoute": "SR003",
+        "stopId": 628,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "name": "Kampung Baru Sungai Sayong Kluang",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "SR004",
+    "lat": "1.92236338",
+    "lng": "103.37186040",
+    "distance": 5630.8,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 636,
+        "distance": 28.8
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Bukit Benut",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "SR004",
+    "lat": "1.93786306",
+    "lng": "103.35586980",
+    "distance": 2497.8,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 638,
+        "distance": 40.4
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Opposite Warung D'Bostam",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "SR004",
+    "lat": "1.94178970",
+    "lng": "103.35276370",
+    "distance": 554.6,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 639,
+        "distance": 5.1
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Kampung Mengkibol",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "SR004",
+    "lat": "1.97443996",
+    "lng": "103.33379360",
+    "distance": 4683.5
+  },
+  {
+    "id": 643,
+    "name": "SMK Jalan Mengkibol Kluang",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "SR004",
+    "lat": "1.99810367",
+    "lng": "103.32446700",
+    "distance": 2843.7,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 642,
+        "distance": 39.1
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Kolej Vokasional Kluang",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "SR004",
+    "lat": "2.00195331",
+    "lng": "103.32357420",
+    "distance": 453,
+    "intersections": [
+      {
+        "withRoute": "SR004",
+        "stopId": 644,
+        "distance": 46.4
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "Klinik Kesihatan Mengkibol",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "KL001, SR004",
+    "lat": "2.00722671",
+    "lng": "103.32237220",
+    "distance": 598.1,
+    "intersections": [
+      {
+        "withRoute": "KL001",
+        "stopId": 595,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1186,
+    "name": "Taman Sunrise, Mengkibol",
+    "route": "SR004",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "KL001, SR004",
+    "lat": "2.01074388",
+    "lng": "103.32159630",
+    "distance": 445.2,
+    "intersections": [
+      {
+        "withRoute": "KL001",
+        "stopId": 596,
+        "distance": 0
+      }
+    ]
+  }
+]

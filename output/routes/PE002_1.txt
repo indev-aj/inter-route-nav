@@ -1,0 +1,139 @@
+[
+  {
+    "id": 516,
+    "name": "Perhentian Bas Sungai Rengit,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "PE002",
+    "lat": "1.67492513",
+    "lng": "104.01904000",
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 515,
+        "distance": 249.3
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "name": "KFC Sungai Rengit",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "PE002, PE003",
+    "lat": "1.35368524",
+    "lng": "104.22702430",
+    "distance": 52716.6,
+    "intersections": [
+      {
+        "withRoute": "PE003",
+        "stopId": 541,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Kampung Changi,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "PE002",
+    "lat": "1.36236820",
+    "lng": "104.23385790",
+    "distance": 1260.4
+  },
+  {
+    "id": 534,
+    "name": "SK Teluk Ramunia,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "PE002",
+    "lat": "1.36848390",
+    "lng": "104.23963780",
+    "distance": 939.7,
+    "intersections": [
+      {
+        "withRoute": "PE002",
+        "stopId": 2372,
+        "distance": 35.6
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Taman Ramunia Jaya,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "PE002",
+    "lat": "1.37089915",
+    "lng": "104.24259720",
+    "distance": 423.1
+  },
+  {
+    "id": 532,
+    "name": "Kampung Simon,Jalan Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "PE002",
+    "lat": "1.37149560",
+    "lng": "104.24369650",
+    "distance": 139.5
+  },
+  {
+    "id": 530,
+    "name": "Masjid Teluk Ramunia",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "PE002",
+    "lat": "1.36923982",
+    "lng": "104.25225970",
+    "distance": 1098.1
+  },
+  {
+    "id": 529,
+    "name": "Kampung Dato Ghani Othman,Jalan Teluk Rumania",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "PE002",
+    "lat": "1.36877099",
+    "lng": "104.26557530",
+    "distance": 1908.8
+  },
+  {
+    "id": 500,
+    "name": "Kg. Tg. Sepang",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "PE002",
+    "lat": "1.38168000",
+    "lng": "104.27594700",
+    "distance": 2633.7
+  },
+  {
+    "id": 2371,
+    "name": "Bayu Damai",
+    "route": "PE002",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.38728400",
+    "lng": "104.27141100",
+    "distance": 1829.3,
+    "intersections": [
+      {
+        "withRoute": "PE005",
+        "stopId": 2370,
+        "distance": 0
+      }
+    ]
+  }
+]

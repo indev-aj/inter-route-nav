@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1110,
+    "name": "Terminal Bas And Teksi Pasir Gudang",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P301, P302, P303, P311, P312",
+    "lat": "1.46574321",
+    "lng": "103.90106280",
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2450,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 1183,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1181,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1184,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2457,
+    "name": "Honda,Jalan Bandar",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.47070187",
+    "lng": "103.90588690",
+    "distance": 934.9,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2451,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 2465,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1116,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Tmn Bukit Dahlia",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P302",
+    "lat": "1.48123000",
+    "lng": "103.89811000",
+    "distance": 3313.7
+  },
+  {
+    "id": 418,
+    "name": "Taman Cendana Blok 10,11,12,Jalan Cendana",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P302",
+    "lat": "1.48848071",
+    "lng": "103.90670640",
+    "distance": 1735.8,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 419,
+        "distance": 118.1
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1114,
+        "distance": 118.1
+      }
+    ]
+  },
+  {
+    "id": 2458,
+    "name": "Taman Cendana Blok 34,35,36,Jalan Cendana",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.48789110",
+    "lng": "103.91178900",
+    "distance": 575.9,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 415,
+        "distance": 207.8
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 417,
+        "distance": 107.9
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 987,
+        "distance": 207.8
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1113,
+        "distance": 107.9
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Jalan Persiaran Scientex, Tmn Scientex",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P302",
+    "lat": "1.49625000",
+    "lng": "103.91294000",
+    "distance": 1797.3,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 449,
+        "distance": 181.9
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Zon Pelanduk Taman Scientex,Jalan Persiaran Scientex",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P302",
+    "lat": "1.50987923",
+    "lng": "103.91632290",
+    "distance": 1650
+  },
+  {
+    "id": 455,
+    "name": "Taman Scientex Aster,Jalan Persiaran Scientex",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P302",
+    "lat": "1.52019586",
+    "lng": "103.91651110",
+    "distance": 1213.6
+  },
+  {
+    "id": 448,
+    "name": "Desa Rakyat,Jalan Desa Rakyat",
+    "route": "P302",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P302",
+    "lat": "1.51782202",
+    "lng": "103.92131010",
+    "distance": 2269.5
+  }
+]

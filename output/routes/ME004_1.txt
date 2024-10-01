@@ -1,0 +1,223 @@
+[
+  {
+    "id": 2653,
+    "name": "Terminal Bas Dan Teksi Bandar Mersing",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "ME004",
+    "lat": "2.43091681",
+    "lng": "103.83292280",
+    "intersections": [
+      {
+        "withRoute": "ME001",
+        "stopId": 656,
+        "distance": 0
+      },
+      {
+        "withRoute": "ME002",
+        "stopId": 1135,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2805,
+    "name": "Timotel Hotel",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "ME004",
+    "lat": "2.43299600",
+    "lng": "103.83449500",
+    "distance": 559.2,
+    "intersections": [
+      {
+        "withRoute": "ME002",
+        "stopId": 661,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2807,
+    "name": "Taman Pantai Timur",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "ME004",
+    "lat": "2.43629700",
+    "lng": "103.83384000",
+    "distance": 530.2
+  },
+  {
+    "id": 2808,
+    "name": "Kg. Seri Lalang",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "ME004",
+    "lat": "2.44725200",
+    "lng": "103.83133300",
+    "distance": 1387.1
+  },
+  {
+    "id": 2809,
+    "name": "Sekolah Rendah Agama Bersepadu Mersing",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "ME004",
+    "lat": "2.44960800",
+    "lng": "103.83028400",
+    "distance": 285.5
+  },
+  {
+    "id": 2810,
+    "name": "SMK Mersing",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "ME004",
+    "lat": "2.45347400",
+    "lng": "103.82802700",
+    "distance": 499.4,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2827,
+        "distance": 28.5
+      }
+    ]
+  },
+  {
+    "id": 2811,
+    "name": "Kampung Tenglu Kecil ",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "ME004",
+    "lat": "2.48170900",
+    "lng": "103.80797000",
+    "distance": 3938.9,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2825,
+        "distance": 7.7
+      }
+    ]
+  },
+  {
+    "id": 2812,
+    "name": "Kampung Batu Empat Setengah",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "ME004",
+    "lat": "2.48797300",
+    "lng": "103.80489000",
+    "distance": 781.2
+  },
+  {
+    "id": 2813,
+    "name": "Kampung Tenglu",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "ME004",
+    "lat": "2.49582700",
+    "lng": "103.80076500",
+    "distance": 1008.6,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2824,
+        "distance": 96.3
+      }
+    ]
+  },
+  {
+    "id": 2814,
+    "name": "Kampung Tenglu Batu Enam",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "ME004",
+    "lat": "2.51000400",
+    "lng": "103.79374800",
+    "distance": 1769.7
+  },
+  {
+    "id": 2815,
+    "name": "Felda Endau",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "ME004",
+    "lat": "2.62151200",
+    "lng": "103.67793800",
+    "distance": 18641.5,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2822,
+        "distance": 45.9
+      }
+    ]
+  },
+  {
+    "id": 2816,
+    "name": "Sekolah Kebangsaan Pusat Air Tawar",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "ME004",
+    "lat": "2.63515100",
+    "lng": "103.64222500",
+    "distance": 4805.1,
+    "intersections": [
+      {
+        "withRoute": "ME004",
+        "stopId": 2821,
+        "distance": 151
+      }
+    ]
+  },
+  {
+    "id": 2817,
+    "name": "SK Bandar Endau",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "ME004",
+    "lat": "2.65089800",
+    "lng": "103.62407300",
+    "distance": 2877.9,
+    "intersections": [
+      {
+        "withRoute": "ME003",
+        "stopId": 679,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2818,
+    "name": "Terminal Bus Endau",
+    "route": "ME004",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "ME004",
+    "lat": "2.65360500",
+    "lng": "103.61875400",
+    "distance": 803.5,
+    "intersections": [
+      {
+        "withRoute": "ME003",
+        "stopId": 678,
+        "distance": 0
+      }
+    ]
+  }
+]

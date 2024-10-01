@@ -1,0 +1,242 @@
+[
+  {
+    "id": 2390,
+    "name": "Terminal Maharani",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.04669694",
+    "lng": "102.56485480",
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 752,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 1074,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2424,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2427,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2507,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1178,
+    "name": "Terminal Feri Bandar Maharani Bandar Diraja",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "MU001, MU002, MU003, MU004, MU005",
+    "lat": "2.04804211",
+    "lng": "102.56686930",
+    "distance": 272.6,
+    "intersections": [
+      {
+        "withRoute": "MU001",
+        "stopId": 1058,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 2398,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2407,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2428,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2508,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 846,
+    "name": "Dewan Jubli Intan Sultan Ibrahim",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "MU002, MU003",
+    "lat": "2.04256297",
+    "lng": "102.56757360",
+    "distance": 1198.7
+  },
+  {
+    "id": 848,
+    "name": "Taman Laksamana,JalanTemenggong Ahmad",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "MU002",
+    "lat": "2.03103884",
+    "lng": "102.57989090",
+    "distance": 1877.1
+  },
+  {
+    "id": 766,
+    "name": "Taman Sri Temenggong (Bus Stop)",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "MU002",
+    "lat": "2.02943800",
+    "lng": "102.58195000",
+    "distance": 289.1
+  },
+  {
+    "id": 849,
+    "name": "Taman Amansari",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "MU002",
+    "lat": "2.02237348",
+    "lng": "102.59009510",
+    "distance": 1198.9
+  },
+  {
+    "id": 2394,
+    "name": "Taman Aman Sari II, Jln Sari",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.02055000",
+    "lng": "102.59230200",
+    "distance": 325.2
+  },
+  {
+    "id": 759,
+    "name": "SMK Tengku Mahkota",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "MU002",
+    "lat": "2.01130000",
+    "lng": "102.59920000",
+    "distance": 1285.6
+  },
+  {
+    "id": 2397,
+    "name": "Taman Parit Bakar Tengah",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.00022800",
+    "lng": "102.60182100",
+    "distance": 1694.6
+  },
+  {
+    "id": 763,
+    "name": "Lorong Haji Kalong, Kg. Pt. Besar (Bus Stop)",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "MU002",
+    "lat": "2.00790900",
+    "lng": "102.59051200",
+    "distance": 2039.8
+  },
+  {
+    "id": 764,
+    "name": "Taman Impian Murni (Bus Stop)",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "MU002",
+    "lat": "2.01403400",
+    "lng": "102.58633800",
+    "distance": 860
+  },
+  {
+    "id": 851,
+    "name": "Jalan Murni 4 Taman Impian Murni",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "MU002",
+    "lat": "2.01523578",
+    "lng": "102.58511210",
+    "distance": 218
+  },
+  {
+    "id": 765,
+    "name": "Kampung Parit Peropok,Jalan Abdul Rahman",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "MU002",
+    "lat": "2.02219700",
+    "lng": "102.57822800",
+    "distance": 1145.7
+  },
+  {
+    "id": 760,
+    "name": "Taman Sri Cempaka",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "MU002",
+    "lat": "2.02760000",
+    "lng": "102.57290000",
+    "distance": 842.5
+  },
+  {
+    "id": 852,
+    "name": "Taman Bahagia,Jalan Abdul Rahman",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "MU002",
+    "lat": "2.03094985",
+    "lng": "102.56903060",
+    "distance": 567.7
+  },
+  {
+    "id": 761,
+    "name": "SMK (P) Sultan Abu Bakar (Jalan Rahman)",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 16,
+    "station_code": "MU002",
+    "lat": "2.04060000",
+    "lng": "102.55830000",
+    "distance": 1625.3
+  },
+  {
+    "id": 762,
+    "name": "Taman Joned Perdana (Jalan Abdul Rahman)",
+    "route": "MU002",
+    "bound_type": 1,
+    "sequence": 17,
+    "station_code": "MU002",
+    "lat": "2.03390000",
+    "lng": "102.56590000",
+    "distance": 1143
+  }
+]

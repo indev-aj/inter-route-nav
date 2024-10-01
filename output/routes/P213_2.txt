@@ -1,0 +1,140 @@
+[
+  {
+    "id": 2616,
+    "name": "GP Sentral",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.47820251",
+    "lng": "103.58315560"
+  },
+  {
+    "id": 2617,
+    "name": "Taman Gelang Emas",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.45214534",
+    "lng": "103.58517810",
+    "distance": 3081.7
+  },
+  {
+    "id": 211,
+    "name": "Terminal Gelang Patah",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "P213",
+    "lat": "1.44656000",
+    "lng": "103.58969000",
+    "distance": 1023.5,
+    "intersections": [
+      {
+        "withRoute": "P213",
+        "stopId": 2873,
+        "distance": 111.3
+      }
+    ]
+  },
+  {
+    "id": 2618,
+    "name": "Opposite SMK Gelang Patah",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.44932821",
+    "lng": "103.59062190",
+    "distance": 323.3
+  },
+  {
+    "id": 2620,
+    "name": "Petronas Taman Nusa Perintis",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.45090000",
+    "lng": "103.59504100",
+    "distance": 709.6
+  },
+  {
+    "id": 2622,
+    "name": "Pusat Komersial Visi Medini",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.41481101",
+    "lng": "103.62254960",
+    "distance": 6739.5
+  },
+  {
+    "id": 2623,
+    "name": "Persiaran Medini 2",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "1.41277340",
+    "lng": "103.62275440",
+    "distance": 239.3
+  },
+  {
+    "id": 2624,
+    "name": "LCL Garden Cafe, Edible Park",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.41204442",
+    "lng": "103.62574750",
+    "distance": 468.8
+  },
+  {
+    "id": 2625,
+    "name": "Lebuh Medini Utama",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "1.40948418",
+    "lng": "103.63010620",
+    "distance": 871.8
+  },
+  {
+    "id": 2621,
+    "name": "Kawasan Perindustrian Gelang Patah",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.45271630",
+    "lng": "103.59878430",
+    "distance": 8008
+  },
+  {
+    "id": 2619,
+    "name": "SMK Gelang Patah",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "1.44949593",
+    "lng": "103.59095190",
+    "distance": 1039.2
+  },
+  {
+    "id": 274,
+    "name": "Pejabat Pos, Gelang Patah",
+    "route": "P213",
+    "bound_type": 2,
+    "sequence": 13,
+    "station_code": "P213",
+    "lat": "1.44874300",
+    "lng": "103.59062300",
+    "distance": 91.3
+  }
+]

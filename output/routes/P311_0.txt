@@ -1,0 +1,157 @@
+[
+  {
+    "id": 2448,
+    "name": "Menara MSC Cyberport",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "1.46218000",
+    "lng": "103.77201000",
+    "intersections": [
+      {
+        "withRoute": "P101",
+        "stopId": 92,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2449,
+    "name": "Taman Pelangi (Bus Stop)",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "1.47793200",
+    "lng": "103.78089400",
+    "distance": 2792.4,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 188,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1146,
+    "name": "Kampung Bakar Batu",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "P102, P103, P311",
+    "lat": "1.49616139",
+    "lng": "103.78417410",
+    "distance": 2332.1,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 305,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 956,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "name": "Taman Sri Bayu (petronas)",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P102,P103,P106, P311",
+    "lat": "1.49715000",
+    "lng": "103.78948000",
+    "distance": 610.3,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 204,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1172,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 894,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "name": "SMK Permas Jaya 2,JB East Coast Expressway",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "P106, P311",
+    "lat": "1.49419351",
+    "lng": "103.81295330",
+    "distance": 2998.3,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 158,
+        "distance": 7.6
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Taman Megah Ria",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P311",
+    "lat": "1.49039650",
+    "lng": "103.84901560",
+    "distance": 4859.2
+  },
+  {
+    "id": 410,
+    "name": "Taman Rinting,Jalan Ketapang",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P311",
+    "lat": "1.48657616",
+    "lng": "103.85814940",
+    "distance": 1237.2,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 409,
+        "distance": 163.6
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Lebuhraya Pasir Gudang berhampiran Jalan Meranti 12 Taman Rinting Masai",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P311",
+    "lat": "1.48893397",
+    "lng": "103.87593700",
+    "distance": 3079.5
+  },
+  {
+    "id": 403,
+    "name": "Flat Taman Rinting, Lebuhraya Pasir Gudang",
+    "route": "P311",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P311",
+    "lat": "1.48444668",
+    "lng": "103.88027100",
+    "distance": 694.3
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2834,
+    "name": "Klinik Kesihatan Yong Peng",
+    "route": "YP002",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.03056200",
+    "lng": "103.05610800",
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 740,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2835,
+    "name": "Taman Timur",
+    "route": "YP002",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.02184800",
+    "lng": "103.05662100",
+    "distance": 1038.1,
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 741,
+        "distance": 115.8
+      },
+      {
+        "withRoute": "YP001",
+        "stopId": 738,
+        "distance": 0
+      },
+      {
+        "withRoute": "YP002",
+        "stopId": 2833,
+        "distance": 115.8
+      }
+    ]
+  },
+  {
+    "id": 2836,
+    "name": "Maybank Yong Peng",
+    "route": "YP002",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.01078800",
+    "lng": "103.06721600",
+    "distance": 2500
+  }
+]

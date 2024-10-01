@@ -1,0 +1,244 @@
+[
+  {
+    "id": 192,
+    "name": "Taman Pulai Indah (Bus Stop)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 22,
+    "station_code": "P201",
+    "lat": "1.54515800",
+    "lng": "103.58050300"
+  },
+  {
+    "id": 145,
+    "name": "SK Kangkar Pulai 2",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 23,
+    "station_code": "P201",
+    "lat": "1.55277400",
+    "lng": "103.58046300",
+    "distance": 842.4,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 120,
+        "distance": 247.8
+      }
+    ]
+  },
+  {
+    "id": 1179,
+    "name": "Bandar Kangkar Pulai, Jalan Persiaran Utama",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 24,
+    "station_code": "P201",
+    "lat": "1.55383100",
+    "lng": "103.58927700",
+    "distance": 1486.2
+  },
+  {
+    "id": 45,
+    "name": "Jalan Kangkar Pulai,  berhampiran PETRONAS Kangkar Pulai ",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 25,
+    "station_code": "P201",
+    "lat": "1.55808600",
+    "lng": "103.59486300",
+    "distance": 1370.9,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 44,
+        "distance": -1
+      },
+      {
+        "withRoute": "P201",
+        "stopId": 46,
+        "distance": 183.6
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Sri Pulai Perdana, Jalan Pulai Jaya 1/1",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 26,
+    "station_code": "P201",
+    "lat": "1.56547800",
+    "lng": "103.59805100",
+    "distance": 980
+  },
+  {
+    "id": 151,
+    "name": "Skudai - Pontian Highway, Simpang Pesisir Pulai Jaya Utara 2",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 27,
+    "station_code": "P201",
+    "lat": "1.56661000",
+    "lng": "103.59925000",
+    "distance": 262.7
+  },
+  {
+    "id": 62,
+    "name": "Kampung Nesa,Jalan Skudai - Pontian",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 28,
+    "station_code": "P201",
+    "lat": "1.56667200",
+    "lng": "103.60570000",
+    "distance": 721
+  },
+  {
+    "id": 61,
+    "name": "Kampung Nesa Stop 2,Jalan Skudai - Pontian",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 29,
+    "station_code": "P201",
+    "lat": "1.56659600",
+    "lng": "103.60919600",
+    "distance": 388.3
+  },
+  {
+    "id": 2592,
+    "name": "Jalan Teratai, Tmn Teratai (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 30,
+    "station_code": null,
+    "lat": "1.56777000",
+    "lng": "103.61303000",
+    "distance": 693.8,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 55,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2593,
+    "name": "Jln Palas 5, Tmn Teratai (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 31,
+    "station_code": null,
+    "lat": "1.57053100",
+    "lng": "103.61230200",
+    "distance": 321.5,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 58,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 2594,
+    "name": "Taman Teratai,Jalan Rotan (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 32,
+    "station_code": null,
+    "lat": "1.57139300",
+    "lng": "103.61565200",
+    "distance": 472.8,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 208,
+        "distance": 176.2
+      },
+      {
+        "withRoute": "P201",
+        "stopId": 245,
+        "distance": 159.2
+      }
+    ]
+  },
+  {
+    "id": 2595,
+    "name": "Taman Teratai Stop 2,Jalan Rotan (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 33,
+    "station_code": null,
+    "lat": "1.57138837",
+    "lng": "103.61708340",
+    "distance": 159.2,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 245,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2596,
+    "name": "Tmn Sri Pulai (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 34,
+    "station_code": null,
+    "lat": "1.56858000",
+    "lng": "103.61893000",
+    "distance": 514.7,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 227,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2597,
+    "name": "Taman Sri Pulai (Bus Stop) (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 35,
+    "station_code": null,
+    "lat": "1.56359200",
+    "lng": "103.61887000",
+    "distance": 551.7,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 205,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2598,
+    "name": "Aeon Taman Universiti (ke Terminal) (Return)",
+    "route": "P201",
+    "bound_type": 2,
+    "sequence": 36,
+    "station_code": null,
+    "lat": "1.54210000",
+    "lng": "103.62989000",
+    "distance": 3472.2,
+    "intersections": [
+      {
+        "withRoute": "P201",
+        "stopId": 4,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 2670,
+        "distance": 0
+      }
+    ]
+  }
+]

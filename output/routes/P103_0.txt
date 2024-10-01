@@ -1,0 +1,199 @@
+[
+  {
+    "id": 299,
+    "name": "Kampung Dato Onn Jaafar,Jalan Cendrawasih",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "P103",
+    "lat": "1.50063296",
+    "lng": "103.74183170",
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 300,
+        "distance": 34.4
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2883,
+        "distance": 34.4
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Caltex Jalan Dewata (Bus Stop)",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "P103",
+    "lat": "1.50051100",
+    "lng": "103.74618300",
+    "distance": 715.4
+  },
+  {
+    "id": 78,
+    "name": "Larkin Perdana",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "P103",
+    "lat": "1.50192000",
+    "lng": "103.74809000",
+    "distance": 263.3
+  },
+  {
+    "id": 303,
+    "name": "BHPetrol Lebuhraya Tebrau",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P103",
+    "lat": "1.50367704",
+    "lng": "103.76454150",
+    "distance": 2189.7
+  },
+  {
+    "id": 35,
+    "name": "Hospital Columbia",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "P103",
+    "lat": "1.50141000",
+    "lng": "103.76514000",
+    "distance": 275.2
+  },
+  {
+    "id": 2606,
+    "name": "MidValley Southkey",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "1.50064600",
+    "lng": "103.77656400",
+    "distance": 2951.4,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 871,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 93,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "name": "Kampung Bakar Batu",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P102, P103, P311",
+    "lat": "1.49616139",
+    "lng": "103.78417410",
+    "distance": 5642.2,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 305,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1146,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "SK Bakar Batu (Bus Stop)",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "P103",
+    "lat": "1.49736500",
+    "lng": "103.78254300",
+    "distance": 1341.9
+  },
+  {
+    "id": 1172,
+    "name": "Taman Sri Bayu (petronas)",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P102,P103,P106, P311",
+    "lat": "1.49715000",
+    "lng": "103.78948000",
+    "distance": 927,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 204,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 894,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1057,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "name": "Taman Sri Stualang,JB East Coast Highway",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P102, P103, P106, P311",
+    "lat": "1.49682995",
+    "lng": "103.78938730",
+    "distance": 1385.7,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 306,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 1066,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1091,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "PPR Sri Stulang ( Last )",
+    "route": "P103",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P103,P102",
+    "lat": "1.49512000",
+    "lng": "103.78931000",
+    "distance": 365.3,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 1166,
+        "distance": 0
+      }
+    ]
+  }
+]

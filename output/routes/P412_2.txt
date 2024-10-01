@@ -1,0 +1,307 @@
+[
+  {
+    "id": 915,
+    "name": "Loji Rawatan Air Sultan Ismail, Skudai",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 0,
+    "station_code": "P403, P412",
+    "lat": "1.55420482",
+    "lng": "103.65900020",
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 243,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 2603,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 897,
+    "name": "Terminal Kulai",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": "P401, P411, P412",
+    "lat": "1.66248514",
+    "lng": "103.59890950",
+    "distance": 16947.9,
+    "intersections": [
+      {
+        "withRoute": "P401",
+        "stopId": 213,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 896,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1157,
+    "name": "Taman Kulai,Jalan Lengkongan",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": "P401, P412",
+    "lat": "1.65730714",
+    "lng": "103.59714500",
+    "distance": 687.4,
+    "intersections": [
+      {
+        "withRoute": "P401",
+        "stopId": 182,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Balairaya Serbaguna Kota Putri Taman Puteri",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": "P412",
+    "lat": "1.65360426",
+    "lng": "103.58229630",
+    "distance": 2989.3
+  },
+  {
+    "id": 103,
+    "name": "Opposite SMK Kota Kulai,Persiaran Sri Putri",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": "P412",
+    "lat": "1.65396863",
+    "lng": "103.57563310",
+    "distance": 1096.9
+  },
+  {
+    "id": 195,
+    "name": "Taman Putri Kulai",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": "P412",
+    "lat": "1.65596467",
+    "lng": "103.57374590",
+    "distance": 305.2
+  },
+  {
+    "id": 85,
+    "name": "Lotus's Kulai, Jalan Alor Bukit",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 6,
+    "station_code": "P412",
+    "lat": "1.66762551",
+    "lng": "103.57677200",
+    "distance": 1697
+  },
+  {
+    "id": 84,
+    "name": "Lotus's Kulai",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 7,
+    "station_code": "P412",
+    "lat": "1.66871147",
+    "lng": "103.57559100",
+    "distance": 620
+  },
+  {
+    "id": 100,
+    "name": "Opposite Kawasan Perindustrian Kulai Estate,Jalan Kulai - Sedenak",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 8,
+    "station_code": "P412",
+    "lat": "1.66823075",
+    "lng": "103.55161960",
+    "distance": 2778.1
+  },
+  {
+    "id": 137,
+    "name": "Sime Darby Plantation Berhad, Kulai Estate",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 9,
+    "station_code": "P412",
+    "lat": "1.66796236",
+    "lng": "103.54301820",
+    "distance": 1026.4
+  },
+  {
+    "id": 30,
+    "name": "Gerai Makanan MPKu, Kelapa Sawit (Opposite)",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 10,
+    "station_code": "P412",
+    "lat": "1.67007237",
+    "lng": "103.53823770",
+    "distance": 611.3
+  },
+  {
+    "id": 72,
+    "name": "Kawasan Perumahan Kampung Kelapa Sawit,Jalan Kulai - Sedenak ",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 11,
+    "station_code": "P412",
+    "lat": "1.67120278",
+    "lng": "103.53506670",
+    "distance": 376.1
+  },
+  {
+    "id": 67,
+    "name": "Kelapa Sawit",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 12,
+    "station_code": "P412",
+    "lat": "1.67383592",
+    "lng": "103.53301720",
+    "distance": 376.7
+  },
+  {
+    "id": 202,
+    "name": "Taman Sin Sawit",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 13,
+    "station_code": "P412",
+    "lat": "1.67704444",
+    "lng": "103.52845000",
+    "distance": 638.1
+  },
+  {
+    "id": 104,
+    "name": "Opposite Taman Manis,Jalan Kulai - Sedenak",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 14,
+    "station_code": "P412",
+    "lat": "1.68023889",
+    "lng": "103.52236390",
+    "distance": 800.8
+  },
+  {
+    "id": 183,
+    "name": "Taman Manis",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 15,
+    "station_code": "P412",
+    "lat": "1.67988586",
+    "lng": "103.52409820",
+    "distance": 196.4
+  },
+  {
+    "id": 210,
+    "name": "Taman Wedo Kelapa Sawit",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 16,
+    "station_code": "P412",
+    "lat": "1.67598522",
+    "lng": "103.53034970",
+    "distance": 819.9
+  },
+  {
+    "id": 71,
+    "name": "Kg Sri Paya",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 17,
+    "station_code": "P412",
+    "lat": "1.67138265",
+    "lng": "103.53505250",
+    "distance": 741.7
+  },
+  {
+    "id": 31,
+    "name": "Gerai Makanan MPKu, Kelapa Sawit",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 18,
+    "station_code": "P412",
+    "lat": "1.66991993",
+    "lng": "103.53817920",
+    "distance": 402.8
+  },
+  {
+    "id": 20,
+    "name": "Desa Perindustrian Sri Kulai 2",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 19,
+    "station_code": "P412",
+    "lat": "1.66803276",
+    "lng": "103.54342290",
+    "distance": 658
+  },
+  {
+    "id": 64,
+    "name": "Kawasan Perindustrian Kulai Estate,Jalan Kulai - Sedenak",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 20,
+    "station_code": "P412",
+    "lat": "1.66856212",
+    "lng": "103.55184360",
+    "distance": 960.9
+  },
+  {
+    "id": 155,
+    "name": "SMK Kota Kulai,Persiaran Sri Putri",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 21,
+    "station_code": "P412",
+    "lat": "1.65436174",
+    "lng": "103.57556580",
+    "distance": 5054.9
+  },
+  {
+    "id": 132,
+    "name": "Sekolah Agama Taman Kota Kulai",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 22,
+    "station_code": "P412",
+    "lat": "1.65354559",
+    "lng": "103.57624330",
+    "distance": 117.2
+  },
+  {
+    "id": 79,
+    "name": "Lavendar Park,Persiaran Sri Putri",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 23,
+    "station_code": "P412",
+    "lat": "1.65143564",
+    "lng": "103.57811380",
+    "distance": 313
+  },
+  {
+    "id": 181,
+    "name": "Taman Kulai Jaya,Jalan Sri Putri",
+    "route": "P412",
+    "bound_type": 2,
+    "sequence": 24,
+    "station_code": "P412",
+    "lat": "1.65382120",
+    "lng": "103.58215250",
+    "distance": 703.8
+  }
+]

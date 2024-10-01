@@ -1,0 +1,34 @@
+[
+  {
+    "id": 634,
+    "name": "Maybank Layang Layang",
+    "route": "SR002",
+    "bound_type": 0,
+    "sequence": 3,
+    "station_code": "SR002",
+    "lat": "1.80638200",
+    "lng": "103.48449530"
+  },
+  {
+    "id": 632,
+    "name": "Klinik Kesihatan Layang-Layang",
+    "route": "SR002",
+    "bound_type": 0,
+    "sequence": 4,
+    "station_code": "SR002",
+    "lat": "1.81790784",
+    "lng": "103.47370450",
+    "distance": 1797.8
+  },
+  {
+    "id": 631,
+    "name": "Taman Sri Layang",
+    "route": "SR002",
+    "bound_type": 0,
+    "sequence": 5,
+    "station_code": "SR002",
+    "lat": "1.81845109",
+    "lng": "103.47244580",
+    "distance": 156
+  }
+]

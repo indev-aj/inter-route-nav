@@ -1,0 +1,175 @@
+[
+  {
+    "id": 309,
+    "name": "Sekolah Menengah Foon Yew,Jalan Ibrahim Sultan -",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "P102",
+    "lat": "1.46753874",
+    "lng": "103.77931070",
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 69,
+        "distance": 67.4
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "name": "De' Stualang,Jalan Ibrahim Sultan",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "P102",
+    "lat": "1.46948000",
+    "lng": "103.78162000",
+    "distance": 334.5,
+    "intersections": [
+      {
+        "withRoute": "P102",
+        "stopId": 308,
+        "distance": 21.1
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Taman Pelangi (Bus Stop)",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "P102",
+    "lat": "1.47793200",
+    "lng": "103.78089400",
+    "distance": 1251.9,
+    "intersections": [
+      {
+        "withRoute": "P311",
+        "stopId": 2449,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 871,
+    "name": "Midvalley Southkey",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "P103,P102",
+    "lat": "1.50064600",
+    "lng": "103.77656400",
+    "distance": 3740.9,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 2606,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 93,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Kampung Bakar Batu",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P102, P103, P311",
+    "lat": "1.49616139",
+    "lng": "103.78417410",
+    "distance": 5642.2,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 956,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1146,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Taman Sri Bayu (petronas)",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "P102,P103,P106, P311",
+    "lat": "1.49715000",
+    "lng": "103.78948000",
+    "distance": 610.3,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 1172,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 894,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1057,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Taman Sri Stualang,JB East Coast Highway",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "P102, P103, P106, P311",
+    "lat": "1.49682995",
+    "lng": "103.78938730",
+    "distance": 1385.7,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 1092,
+        "distance": 0
+      },
+      {
+        "withRoute": "P106",
+        "stopId": 1066,
+        "distance": 0
+      },
+      {
+        "withRoute": "P311",
+        "stopId": 1091,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1166,
+    "name": "PPR Sri Stulang ( Last )",
+    "route": "P102",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P103,P102",
+    "lat": "1.49512000",
+    "lng": "103.78931000",
+    "distance": 365.3,
+    "intersections": [
+      {
+        "withRoute": "P103",
+        "stopId": 126,
+        "distance": 0
+      }
+    ]
+  }
+]

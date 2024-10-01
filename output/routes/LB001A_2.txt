@@ -1,0 +1,99 @@
+[
+  {
+    "id": 2331,
+    "name": "Terminal Bas Dan Teksi Labis",
+    "route": "LB001A",
+    "bound_type": 2,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.38510761",
+    "lng": "103.02196190",
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 703,
+        "distance": 0
+      },
+      {
+        "withRoute": "LB003",
+        "stopId": 1136,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2332,
+    "name": "TAMAN ORKID BARU",
+    "route": "LB001A",
+    "bound_type": 2,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.39615000",
+    "lng": "103.01895000",
+    "distance": 1601,
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 684,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2333,
+    "name": "SMK Kamarul Ariffin",
+    "route": "LB001A",
+    "bound_type": 2,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.39901792",
+    "lng": "103.02948200",
+    "distance": 1959.1,
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 708,
+        "distance": 0
+      },
+      {
+        "withRoute": "LB001",
+        "stopId": 709,
+        "distance": 61.3
+      }
+    ]
+  },
+  {
+    "id": 2334,
+    "name": "PERSIMPANGAN JALAN PENGHULU HARUN",
+    "route": "LB001A",
+    "bound_type": 2,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.46843562",
+    "lng": "103.05257310",
+    "distance": 8977.9
+  },
+  {
+    "id": 2335,
+    "name": "Opp SMK Kamarul Ariffin",
+    "route": "LB001A",
+    "bound_type": 2,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.39940351",
+    "lng": "103.02994620",
+    "distance": 8916.6,
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 708,
+        "distance": 61.3
+      },
+      {
+        "withRoute": "LB001",
+        "stopId": 709,
+        "distance": 0
+      }
+    ]
+  }
+]

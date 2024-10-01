@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1219,
+    "name": "PPR desa Mutiara",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P111,P113",
+    "lat": "1.53866000",
+    "lng": "103.74812000",
+    "intersections": [
+      {
+        "withRoute": "P111",
+        "stopId": 123,
+        "distance": 0
+      },
+      {
+        "withRoute": "P112",
+        "stopId": 2890,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Kompleks KDN Taman Setia Tropika",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P113",
+    "lat": "1.54478600",
+    "lng": "103.71290100",
+    "distance": 5293.8,
+    "intersections": [
+      {
+        "withRoute": "P112",
+        "stopId": 2898,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Kempas Permatang,Jalan Kempas",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P113",
+    "lat": "1.53402822",
+    "lng": "103.71690920",
+    "distance": 1754
+  },
+  {
+    "id": 348,
+    "name": "Kempas Baru,Jalan Kempas",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P113",
+    "lat": "1.53102116",
+    "lng": "103.71924350",
+    "distance": 421.9
+  },
+  {
+    "id": 347,
+    "name": "Jalan Kempas Bahru, Kg Sri Kempas 1",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P113",
+    "lat": "1.52703168",
+    "lng": "103.72233050",
+    "distance": 559.2,
+    "intersections": [
+      {
+        "withRoute": "P113",
+        "stopId": 346,
+        "distance": 188.6
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Kempas Medical Centre (Bus Stop)",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P113",
+    "lat": "1.52239400",
+    "lng": "103.72558600",
+    "distance": 628.8,
+    "intersections": [
+      {
+        "withRoute": "P113",
+        "stopId": 345,
+        "distance": 224.9
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Kawasan Perniagaan Indah,Jalan Kempas",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P113",
+    "lat": "1.51590923",
+    "lng": "103.73029420",
+    "distance": 887.8
+  },
+  {
+    "id": 342,
+    "name": "Pasar Tani Kekal Datin Halimah",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P113",
+    "lat": "1.50612500",
+    "lng": "103.73379600",
+    "distance": 1207.6
+  },
+  {
+    "id": 1220,
+    "name": "Pejabat Pengarah PTG (Bus Stop)",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P112, P113",
+    "lat": "1.50420200",
+    "lng": "103.73446000",
+    "distance": 239.7,
+    "intersections": [
+      {
+        "withRoute": "P113-01",
+        "stopId": 2884,
+        "distance": 106.1
+      }
+    ]
+  },
+  {
+    "id": 1145,
+    "name": "Kolej Vokasional ERT Azizah",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P112,P113",
+    "lat": "1.50188000",
+    "lng": "103.73541000",
+    "distance": 282.7
+  },
+  {
+    "id": 1055,
+    "name": "Kuarters Jabatan Perikanan (Bus Stop)",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P112, P113",
+    "lat": "1.49802300",
+    "lng": "103.73718500",
+    "distance": 480.1
+  },
+  {
+    "id": 1221,
+    "name": "Terminal Larkin",
+    "route": "P113",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P101,P103,P104,P112,P113,P411,P211",
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "distance": 1330.7,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1232,
+        "distance": 0
+      }
+    ]
+  }
+]

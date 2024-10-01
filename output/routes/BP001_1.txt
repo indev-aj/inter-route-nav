@@ -1,0 +1,140 @@
+[
+  {
+    "id": 727,
+    "name": "Terminal Bas Express Batu Pahat",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "BP001, BP002",
+    "lat": "1.85336979",
+    "lng": "102.92666980",
+    "intersections": [
+      {
+        "withRoute": "BP002",
+        "stopId": 1137,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "name": "Balai Polis Batu Pahat,Jalan Rahmat",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "BP001, BP002",
+    "lat": "1.84783893",
+    "lng": "102.93475030",
+    "distance": 1384
+  },
+  {
+    "id": 728,
+    "name": "Kuarters Kediaman Pegawai IPD (Bus Stop)",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "BP001",
+    "lat": "1.84685600",
+    "lng": "102.93715000",
+    "distance": 577.6
+  },
+  {
+    "id": 710,
+    "name": "Dataran batu pahat",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "BP001",
+    "lat": "1.84500000",
+    "lng": "102.93467000",
+    "distance": 496.9
+  },
+  {
+    "id": 711,
+    "name": "Tasik Y ~ Tmn Rekreasi tasik Y",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "BP001",
+    "lat": "1.84304800",
+    "lng": "102.93482300",
+    "distance": 270.9
+  },
+  {
+    "id": 712,
+    "name": "SMK Dato Syed Esa",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "BP001",
+    "lat": "1.83879300",
+    "lng": "102.93837800",
+    "distance": 621.2
+  },
+  {
+    "id": 713,
+    "name": "Hospital Sultanah Nora Ismail",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "BP001",
+    "lat": "1.83670000",
+    "lng": "102.94069300",
+    "distance": 523.1
+  },
+  {
+    "id": 714,
+    "name": "Taman Soga (Jalan Daun Payung)",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "BP001",
+    "lat": "1.83691400",
+    "lng": "102.93762700",
+    "distance": 498.8
+  },
+  {
+    "id": 715,
+    "name": "Taman Soga (Jalan Tukas)",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "BP001",
+    "lat": "1.83818600",
+    "lng": "102.93438400",
+    "distance": 557.9
+  },
+  {
+    "id": 716,
+    "name": "Jalan Ampuan",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "BP001",
+    "lat": "1.83974400",
+    "lng": "102.93097200",
+    "distance": 595.2
+  },
+  {
+    "id": 717,
+    "name": "Majlis Perbandaran Batu Pahat ~ Tmn. Pantai (Jln Dato Syed Esa)",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "BP001",
+    "lat": "1.84249000",
+    "lng": "102.92645600",
+    "distance": 762.3
+  },
+  {
+    "id": 718,
+    "name": "Pasar Awam Batu Pahat",
+    "route": "BP001",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "BP001",
+    "lat": "1.84747600",
+    "lng": "102.92472700",
+    "distance": 720.9
+  }
+]

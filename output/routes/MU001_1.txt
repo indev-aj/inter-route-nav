@@ -1,0 +1,146 @@
+[
+  {
+    "id": 752,
+    "name": "Terminal Maharani",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "MU001",
+    "lat": "2.04669694",
+    "lng": "102.56485480",
+    "intersections": [
+      {
+        "withRoute": "MU002",
+        "stopId": 2390,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 1074,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2424,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2427,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2507,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "name": "Terminal Feri Bandar Maharani Bandar Diraja",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "MU001, MU002, MU003, MU004, MU005",
+    "lat": "2.04804211",
+    "lng": "102.56686930",
+    "distance": 272.6,
+    "intersections": [
+      {
+        "withRoute": "MU002",
+        "stopId": 1178,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU003",
+        "stopId": 2398,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU004",
+        "stopId": 2407,
+        "distance": 0
+      },
+      {
+        "withRoute": "MU005",
+        "stopId": 2428,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK002",
+        "stopId": 2508,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "name": "SK Parit Setongkat",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "MU001",
+    "lat": "2.06670000",
+    "lng": "102.58250000",
+    "distance": 2995.4
+  },
+  {
+    "id": 750,
+    "name": "SMK Sungai Abong",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "MU001",
+    "lat": "2.06530000",
+    "lng": "102.59600000",
+    "distance": 1667.5
+  },
+  {
+    "id": 2482,
+    "name": "Tmn Sg. Abong Mulia",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.06150000",
+    "lng": "102.60540000",
+    "distance": 1584.4
+  },
+  {
+    "id": 802,
+    "name": "Taman Sri Terap (Tiang 2)",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "MU001, MU005",
+    "lat": "2.06793800",
+    "lng": "102.60447000",
+    "distance": 1268.6,
+    "intersections": [
+      {
+        "withRoute": "MU005",
+        "stopId": 1050,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "name": "SK Sungai Abong",
+    "route": "MU001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "MU001, MU005",
+    "lat": "2.06530000",
+    "lng": "102.60100000",
+    "distance": 604.2,
+    "intersections": [
+      {
+        "withRoute": "MU005",
+        "stopId": 1138,
+        "distance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": 2465,
+    "name": "Honda,Jalan Bandar",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "1.47070187",
+    "lng": "103.90588690",
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2451,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 2457,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1116,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Perumahan Jati 2,Jalan Jati",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P303, P312",
+    "lat": "1.46453871",
+    "lng": "103.91224320",
+    "distance": 1503.7,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 424,
+        "distance": 17.9
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1118,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 999,
+        "distance": 192.5
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1117,
+        "distance": 17.9
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "name": "SMK Pasir Gudang 3,Jalan Jati",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P303, P312",
+    "lat": "1.46316357",
+    "lng": "103.91330690",
+    "distance": 192.5,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 424,
+        "distance": 210.5
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1118,
+        "distance": 192.5
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 999,
+        "distance": 0
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1117,
+        "distance": 210.5
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Perjiranan 8 Taman Air Biru Blok 31,Jalan Jati",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P303",
+    "lat": "1.46080338",
+    "lng": "103.91341800",
+    "distance": 484.1
+  },
+  {
+    "id": 429,
+    "name": "Perjiranan 9 Taman Air Biru Blok 44,Jalan 9/9",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P303",
+    "lat": "1.45479059",
+    "lng": "103.91715530",
+    "distance": 1193.2,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 221,
+        "distance": 70.8
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Kampung Pasir Putih,Jalan Pekeliling",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P303",
+    "lat": "1.44455206",
+    "lng": "103.92824500",
+    "distance": 2379.3
+  },
+  {
+    "id": 232,
+    "name": "Tmn Tg. Puteri Resort",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "P303",
+    "lat": "1.45397000",
+    "lng": "103.93618000",
+    "distance": 1515.2
+  },
+  {
+    "id": 216,
+    "name": "Tesco Kota Masai",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "P303,P314",
+    "lat": "1.48449351",
+    "lng": "103.93574640",
+    "distance": 3633.3,
+    "intersections": [
+      {
+        "withRoute": "P314",
+        "stopId": 902,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Jalan Nenas Taman Kota Masai,Jalan Nenas Utama",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": "P303",
+    "lat": "1.48245742",
+    "lng": "103.94836190",
+    "distance": 1626.3,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 438,
+        "distance": 132.7
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Kota Masai 2,Jalan Nenas Utama",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": "P303",
+    "lat": "1.47704925",
+    "lng": "103.94920220",
+    "distance": 891.3
+  },
+  {
+    "id": 441,
+    "name": "Kota Masai 2,Jalan Tembak Utama",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 28,
+    "station_code": "P303",
+    "lat": "1.47496409",
+    "lng": "103.95557690",
+    "distance": 1696.2,
+    "intersections": [
+      {
+        "withRoute": "P303",
+        "stopId": 440,
+        "distance": 144
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Opposite SMK Kota Masai 2,Jalan Tembikai Utama",
+    "route": "P303",
+    "bound_type": 0,
+    "sequence": 29,
+    "station_code": "P303",
+    "lat": "1.47935030",
+    "lng": "103.95552320",
+    "distance": 926.4
+  }
+]

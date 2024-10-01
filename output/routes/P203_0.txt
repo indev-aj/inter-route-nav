@@ -1,0 +1,241 @@
+[
+  {
+    "id": 262,
+    "name": "Opposite Terminal Tun Aminah,Jalan Tun Aminah",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P203",
+    "lat": "1.51973843",
+    "lng": "103.66118470"
+  },
+  {
+    "id": 260,
+    "name": "Commercial Area Taman Nakhoda,Jalan Tun Aminah",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P203",
+    "lat": "1.51755144",
+    "lng": "103.65912540",
+    "distance": 333.3
+  },
+  {
+    "id": 258,
+    "name": "Taman Tun Ungku Aminah,Jalan Tun Aminah",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P203",
+    "lat": "1.51549940",
+    "lng": "103.65725490",
+    "distance": 737.7
+  },
+  {
+    "id": 162,
+    "name": "SMK Taman Tun Aminah (Bus Stop)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P203",
+    "lat": "1.51297700",
+    "lng": "103.65811400",
+    "distance": 395.8
+  },
+  {
+    "id": 2671,
+    "name": "Taman Nusa Bestari 2,Jalan Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "1.50091546",
+    "lng": "103.65377660",
+    "distance": 2018.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 267,
+        "distance": 0
+      },
+      {
+        "withRoute": "P212",
+        "stopId": 1048,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2672,
+    "name": "PETRONAS - Taman Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "1.48613618",
+    "lng": "103.63854050",
+    "distance": 3261
+  },
+  {
+    "id": 2673,
+    "name": "Taman Selesa Jaya, Jalan Silat Lincah 6 (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "1.48905081",
+    "lng": "103.63934450",
+    "distance": 1002.6,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 272,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 2674,
+    "name": "Taman Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": null,
+    "lat": "1.49208035",
+    "lng": "103.64020790",
+    "distance": 366.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 271,
+        "distance": 0
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 270,
+        "distance": 229.1
+      }
+    ]
+  },
+  {
+    "id": 2675,
+    "name": "Taman Industri Jaya,Jalan Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": null,
+    "lat": "1.49362773",
+    "lng": "103.64157950",
+    "distance": 229.2,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 271,
+        "distance": 229.2
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 270,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 2676,
+    "name": "Taman Jaya Mas,Jalan Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 27,
+    "station_code": null,
+    "lat": "1.49575392",
+    "lng": "103.64367630",
+    "distance": 330.6,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 269,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2677,
+    "name": "Taman Timur,Jalan Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 28,
+    "station_code": null,
+    "lat": "1.49816923",
+    "lng": "103.64684700",
+    "distance": 442.1,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 268,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2678,
+    "name": "Bandar Selesa Jaya (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 29,
+    "station_code": null,
+    "lat": "1.50047500",
+    "lng": "103.65079600",
+    "distance": 507.3,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 15,
+        "distance": -0.1
+      },
+      {
+        "withRoute": "P203",
+        "stopId": 17,
+        "distance": 49.7
+      },
+      {
+        "withRoute": "P212",
+        "stopId": 189,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 2679,
+    "name": "Bandar Selesa Jaya (Tiang 2) (Balik)",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 30,
+    "station_code": null,
+    "lat": "1.50120000",
+    "lng": "103.65429000",
+    "distance": 465.5
+  },
+  {
+    "id": 2680,
+    "name": "Taman Nusa Bestari Jaya (Bus Stop",
+    "route": "P203",
+    "bound_type": 0,
+    "sequence": 31,
+    "station_code": null,
+    "lat": "1.49871200",
+    "lng": "103.65567100",
+    "distance": 438.7,
+    "intersections": [
+      {
+        "withRoute": "P203",
+        "stopId": 187,
+        "distance": 0
+      },
+      {
+        "withRoute": "P212",
+        "stopId": 2682,
+        "distance": 0
+      }
+    ]
+  }
+]

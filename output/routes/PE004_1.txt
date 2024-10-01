@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1148,
+    "name": "Terminal Bas And Teksi Bandar Penawar",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "PE001, PE003, PE004, PE005",
+    "lat": "1.55490527",
+    "lng": "104.22837170",
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 2369,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE003",
+        "stopId": 525,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE005",
+        "stopId": 1003,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1120,
+    "name": "Kolej Komuniti Bandar Penawar",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "PE001, PE004",
+    "lat": "1.56341300",
+    "lng": "104.21986100",
+    "distance": 2127.2,
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 490,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE001",
+        "stopId": 491,
+        "distance": 175.6
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Kolej Profesional MARA",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "PE001, PE004",
+    "lat": "1.56501200",
+    "lng": "104.22008100",
+    "distance": 175.6,
+    "intersections": [
+      {
+        "withRoute": "PE001",
+        "stopId": 490,
+        "distance": 175.6
+      },
+      {
+        "withRoute": "PE001",
+        "stopId": 491,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Kampung Baru Sungai Mas,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "PE004",
+    "lat": "1.59646196",
+    "lng": "104.15442480",
+    "distance": 9349
+  },
+  {
+    "id": 505,
+    "name": "Bandar Mas (Tiang 2)",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "PE004",
+    "lat": "1.60267700",
+    "lng": "104.13829000",
+    "distance": 1932.5,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 504,
+        "distance": 70.9
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Felda Semenchu,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "PE004",
+    "lat": "1.60480878",
+    "lng": "104.10482590",
+    "distance": 3735.7
+  },
+  {
+    "id": 506,
+    "name": "Felda Air Tawar 5",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "PE004",
+    "lat": "1.60619700",
+    "lng": "104.09014900",
+    "distance": 1669.3,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 507,
+        "distance": 37
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Kampung Johor Lama,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "PE004",
+    "lat": "1.61048407",
+    "lng": "104.05593750",
+    "distance": 3909.9
+  },
+  {
+    "id": 508,
+    "name": "Felda Air Tawar 1",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "PE004",
+    "lat": "1.62289045",
+    "lng": "104.05370080",
+    "distance": 1426.7,
+    "intersections": [
+      {
+        "withRoute": "PE004",
+        "stopId": 509,
+        "distance": 87.7
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Felda Air Tawar 1,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "PE004",
+    "lat": "1.63109498",
+    "lng": "104.04806720",
+    "distance": 1191.5
+  },
+  {
+    "id": 519,
+    "name": "Ladang Nanyo,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "PE004",
+    "lat": "1.64889352",
+    "lng": "104.03248740",
+    "distance": 2687.1
+  },
+  {
+    "id": 518,
+    "name": "Kampung Panchor,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "PE004",
+    "lat": "1.66714245",
+    "lng": "104.02201940",
+    "distance": 2331.3
+  },
+  {
+    "id": 515,
+    "name": "Felda Air Tawar 2,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "PE004",
+    "lat": "1.67692569",
+    "lng": "104.01798360",
+    "distance": 1171.4,
+    "intersections": [
+      {
+        "withRoute": "PE002",
+        "stopId": 516,
+        "distance": 249.3
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Surau As-Syuhada,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "PE004",
+    "lat": "1.70565087",
+    "lng": "103.97525240",
+    "distance": 6218
+  },
+  {
+    "id": 511,
+    "name": "Felda Pasak,Jalan Kota Tinggi - Pengerang",
+    "route": "PE004",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "PE004",
+    "lat": "1.71635252",
+    "lng": "103.95956240",
+    "distance": 2578.6
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": 543,
+    "name": "Kampung Seri Menanti",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "PN002",
+    "lat": "1.58524000",
+    "lng": "103.46400000"
+  },
+  {
+    "id": 2466,
+    "name": "Kampung Seri Menanti (2)",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.57831850",
+    "lng": "103.46615780",
+    "distance": 806.2
+  },
+  {
+    "id": 2467,
+    "name": "Kampung Seri Menanti (3)",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "1.56844439",
+    "lng": "103.47143370",
+    "distance": 1303
+  },
+  {
+    "id": 552,
+    "name": "Kampung Pak Kalib",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "PN002",
+    "lat": "1.56548000",
+    "lng": "103.47767000",
+    "distance": 774.9
+  },
+  {
+    "id": 565,
+    "name": "Sekolah Agama Kampung Sawah",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "PN002",
+    "lat": "1.54407809",
+    "lng": "103.49373170",
+    "distance": 3176.3,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 553,
+        "distance": 90.3
+      }
+    ]
+  },
+  {
+    "id": 567,
+    "name": "SMK Dato Mohd. Yunos Sulaiman (hala ke pekan nenas)",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "PN002",
+    "lat": "1.51956905",
+    "lng": "103.51404180",
+    "distance": 3989.4,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 555,
+        "distance": 23.9
+      },
+      {
+        "withRoute": "PN002",
+        "stopId": 554,
+        "distance": 248.5
+      }
+    ]
+  },
+  {
+    "id": 568,
+    "name": "SMK Pekan Nenas",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "PN002",
+    "lat": "1.51476764",
+    "lng": "103.51285370",
+    "distance": 547.1
+  },
+  {
+    "id": 569,
+    "name": "Sekolah Agama Pekan Nenas",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "PN002",
+    "lat": "1.51218761",
+    "lng": "103.51208940",
+    "distance": 297.9,
+    "intersections": [
+      {
+        "withRoute": "PN002",
+        "stopId": 570,
+        "distance": 21.7
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Taman Utama,Jalan Skudai - Pontian",
+    "route": "PN002",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "PN002",
+    "lat": "1.50323519",
+    "lng": "103.51710770",
+    "distance": 1382.8
+  }
+]

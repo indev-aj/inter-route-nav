@@ -1,0 +1,122 @@
+[
+  {
+    "id": 2661,
+    "name": "Perhentian Bas dan Teksi Tangkak",
+    "route": "TK003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.26826205",
+    "lng": "102.54120973",
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 1239,
+        "distance": 5.1
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 1238,
+        "distance": 5.1
+      }
+    ]
+  },
+  {
+    "id": 2837,
+    "name": "SMK Tun Mamat ",
+    "route": "TK003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.27899200",
+    "lng": "102.54765900",
+    "distance": 1763.5,
+    "intersections": [
+      {
+        "withRoute": "TK001",
+        "stopId": 2444,
+        "distance": 14.5
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2490,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2494,
+        "distance": 14.5
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2867,
+        "distance": 14.5
+      }
+    ]
+  },
+  {
+    "id": 2838,
+    "name": "Kampung Paya Mas",
+    "route": "TK003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.28886900",
+    "lng": "102.56228700",
+    "distance": 2122.4,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2863,
+        "distance": 126.9
+      }
+    ]
+  },
+  {
+    "id": 2840,
+    "name": "Institut Latihan Perindustrian Ledang",
+    "route": "TK003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.30048500",
+    "lng": "102.60228900",
+    "distance": 5264.6,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2861,
+        "distance": 67.3
+      }
+    ]
+  },
+  {
+    "id": 2841,
+    "name": "SMK Sagil",
+    "route": "TK003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.30156200",
+    "lng": "102.60747700",
+    "distance": 590.3,
+    "intersections": [
+      {
+        "withRoute": "TK003",
+        "stopId": 2860,
+        "distance": 27.2
+      }
+    ]
+  },
+  {
+    "id": 2842,
+    "name": "Klinik Kesihatan Sagil",
+    "route": "TK003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.30369500",
+    "lng": "102.61171700",
+    "distance": 533
+  }
+]

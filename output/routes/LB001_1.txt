@@ -1,0 +1,76 @@
+[
+  {
+    "id": 703,
+    "name": "Terminal Bas Dan Teksi Labis",
+    "route": "LB001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "LB001, LB002",
+    "lat": "2.38510761",
+    "lng": "103.02196190",
+    "intersections": [
+      {
+        "withRoute": "LB001A",
+        "stopId": 2331,
+        "distance": 0
+      },
+      {
+        "withRoute": "LB003",
+        "stopId": 1136,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "name": "PERTUBUHAN PELADANG KAWASAN LABIS",
+    "route": "LB001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "LB001",
+    "lat": "2.37648061",
+    "lng": "103.01637360",
+    "distance": 1646,
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 687,
+        "distance": 193.6
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Taman Lagenda,Jalan Muar - Labis",
+    "route": "LB001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "LB001",
+    "lat": "2.37445987",
+    "lng": "103.01500640",
+    "distance": 291.3,
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 688,
+        "distance": 11.8
+      },
+      {
+        "withRoute": "LB001",
+        "stopId": 687,
+        "distance": 201.8
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "name": "PERUMAHAN AWAM JALAN MUAR",
+    "route": "LB001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "LB001",
+    "lat": "2.35569997",
+    "lng": "102.99703390",
+    "distance": 3248.4
+  }
+]

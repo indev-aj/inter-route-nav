@@ -1,0 +1,156 @@
+[
+  {
+    "id": 2890,
+    "name": "PPR Desa Mutiara",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.53866000",
+    "lng": "103.74812000",
+    "intersections": [
+      {
+        "withRoute": "P111",
+        "stopId": 123,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1219,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2891,
+    "name": "KPJ Bandar Dato Onn",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "1.54447265",
+    "lng": "103.73964285",
+    "distance": 1506.3
+  },
+  {
+    "id": 2898,
+    "name": "Kompleks KDN Taman Setia Tropika",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "1.54478600",
+    "lng": "103.71290100",
+    "distance": 3787.5,
+    "intersections": [
+      {
+        "withRoute": "P113",
+        "stopId": 53,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2893,
+    "name": "SK Taman Impian Emas",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "1.53953509",
+    "lng": "103.68350882",
+    "distance": 4153.2,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 148,
+        "distance": 108.4
+      }
+    ]
+  },
+  {
+    "id": 2894,
+    "name": "SMK Impian Emas",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "1.53723328",
+    "lng": "103.68143747",
+    "distance": 343.1,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 148,
+        "distance": 234.7
+      }
+    ]
+  },
+  {
+    "id": 2895,
+    "name": "Flat Impian Emas",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.53290461",
+    "lng": "103.67161369",
+    "distance": 1394.7,
+    "intersections": [
+      {
+        "withRoute": "P214",
+        "stopId": 25,
+        "distance": 194.1
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 26,
+        "distance": 3.1
+      }
+    ]
+  },
+  {
+    "id": 2896,
+    "name": "SA Taman Impian Emas",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "1.55389596",
+    "lng": "103.66923964",
+    "distance": 3970.1
+  },
+  {
+    "id": 2897,
+    "name": "Pasar Awam Taman Impian Emas",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "1.55987625",
+    "lng": "103.67525688",
+    "distance": 1314.2
+  },
+  {
+    "id": 2899,
+    "name": "Pangsapuri Beringin",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "1.54959800",
+    "lng": "103.70332500",
+    "distance": 6936.2
+  },
+  {
+    "id": 2900,
+    "name": "Lotus's Setia Tropika",
+    "route": "P112",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.54848100",
+    "lng": "103.71390700",
+    "distance": 2057.5
+  }
+]

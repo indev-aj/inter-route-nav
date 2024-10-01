@@ -1,0 +1,117 @@
+[
+  {
+    "id": 688,
+    "name": "SMK LABIS, JALAN MUAR",
+    "route": "LB001",
+    "bound_type": 0,
+    "sequence": 5,
+    "station_code": "LB001",
+    "lat": "2.37449393",
+    "lng": "103.01478680",
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 704,
+        "distance": 11.8
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "name": "SEK AGAMA LABIS, JALAN MUAR",
+    "route": "LB001",
+    "bound_type": 0,
+    "sequence": 6,
+    "station_code": "LB001",
+    "lat": "2.37604653",
+    "lng": "103.01591380",
+    "distance": 213.5,
+    "intersections": [
+      {
+        "withRoute": "LB001",
+        "stopId": 686,
+        "distance": 193.6
+      },
+      {
+        "withRoute": "LB001",
+        "stopId": 704,
+        "distance": 201.8
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "name": "SK SRI LABIS, JALAN MUAR",
+    "route": "LB001",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": "LB001",
+    "lat": "2.38064999",
+    "lng": "103.01871840",
+    "distance": 618.1
+  },
+  {
+    "id": 684,
+    "name": "TAMAN ORKID BARU",
+    "route": "LB001",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "LB001",
+    "lat": "2.39615000",
+    "lng": "103.01895000",
+    "distance": 1864.1,
+    "intersections": [
+      {
+        "withRoute": "LB001A",
+        "stopId": 2332,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "name": "SMK Kamarul Ariffin",
+    "route": "LB001",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "LB001",
+    "lat": "2.39901792",
+    "lng": "103.02948200",
+    "distance": 1959.1,
+    "intersections": [
+      {
+        "withRoute": "LB001A",
+        "stopId": 2333,
+        "distance": 0
+      },
+      {
+        "withRoute": "LB001A",
+        "stopId": 2335,
+        "distance": 61.3
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "name": "Opp SMK Kamarul Ariffin",
+    "route": "LB001",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "LB001",
+    "lat": "2.39940351",
+    "lng": "103.02994620",
+    "distance": 61.3,
+    "intersections": [
+      {
+        "withRoute": "LB001A",
+        "stopId": 2333,
+        "distance": 61.3
+      },
+      {
+        "withRoute": "LB001A",
+        "stopId": 2335,
+        "distance": 0
+      }
+    ]
+  }
+]

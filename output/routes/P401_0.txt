@@ -1,0 +1,12 @@
+[
+  {
+    "id": 41,
+    "name": "IOI Mall Kulai",
+    "route": "P401",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "P401",
+    "lat": "1.64793775",
+    "lng": "103.62593760"
+  }
+]

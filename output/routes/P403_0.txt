@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1225,
+    "name": "Taman Skudai, Skudai (Bus Stop) ~ Jalan Bertingkat Skudai arah JB (Bus Stop)",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "P403, P211,P411",
+    "lat": "1.53497600",
+    "lng": "103.66480500",
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 203,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1233,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 223.7
+      }
+    ]
+  },
+  {
+    "id": 937,
+    "name": "SJK(C) Pu Sze, Jalan Skudai",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53644904",
+    "lng": "103.66345730",
+    "distance": 223.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 2601,
+        "distance": 218.2
+      },
+      {
+        "withRoute": "P202",
+        "stopId": 281,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 203,
+        "distance": 223.7
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 2610,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 938,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1009,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P202, P214, P211, P403, P411",
+    "lat": "1.53962067",
+    "lng": "103.66054310",
+    "distance": 478,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 280,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1171,
+        "distance": 0
+      },
+      {
+        "withRoute": "P214",
+        "stopId": 1188,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 934,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1224,
+    "name": "Shell Taman Sri Putri (Bus Stop)",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P202, P403",
+    "lat": "1.54485700",
+    "lng": "103.65730300",
+    "distance": 684.7,
+    "intersections": [
+      {
+        "withRoute": "P202",
+        "stopId": 136,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 2611,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 2604,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 891,
+    "name": "Taman Scientax Utama, Senai",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P402, P403, P411",
+    "lat": "1.58409719",
+    "lng": "103.65006970",
+    "distance": 4889.4,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 197,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1008,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Taman Aman",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P402,P403, P411",
+    "lat": "1.59054650",
+    "lng": "103.64769500",
+    "distance": 1122.8,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 1223,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 885,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Taman Beringin Senai",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P403, P411",
+    "lat": "1.59565248",
+    "lng": "103.64535630",
+    "distance": 626.7,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 886,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 863,
+    "name": "Kampung Baru Senai",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": "P402. P403, P411",
+    "lat": "1.60023797",
+    "lng": "103.64458950",
+    "distance": 538.5,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 59,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 864,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "name": "TM Senai",
+    "route": "P403",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": "P402, P403",
+    "lat": "1.61014653",
+    "lng": "103.65705260",
+    "distance": 2135.7,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 220,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 862,
+        "distance": 173.2
+      }
+    ]
+  }
+]

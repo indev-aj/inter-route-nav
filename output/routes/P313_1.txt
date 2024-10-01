@@ -1,0 +1,107 @@
+[
+  {
+    "id": 465,
+    "name": "Bandar Tiram Kota Tinggi",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P313",
+    "lat": "1.61050372",
+    "lng": "103.82148450"
+  },
+  {
+    "id": 463,
+    "name": "Opposite Today's Mall",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P313",
+    "lat": "1.60674745",
+    "lng": "103.82208330",
+    "distance": 419.6
+  },
+  {
+    "id": 462,
+    "name": "Taman Intan Kota Tinggi",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P313",
+    "lat": "1.60291932",
+    "lng": "103.82086530",
+    "distance": 444.4
+  },
+  {
+    "id": 458,
+    "name": "Opposite Kampung Kangkar Sungai Tiram",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P313",
+    "lat": "1.59073040",
+    "lng": "103.85387000",
+    "distance": 4605.5,
+    "intersections": [
+      {
+        "withRoute": "P313",
+        "stopId": 457,
+        "distance": 23.3
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Sk Sungai Tiram",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P313",
+    "lat": "1.58484000",
+    "lng": "103.87896000",
+    "distance": 3138.2
+  },
+  {
+    "id": 2462,
+    "name": "Simpang Felda Sg Tiram",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "1.58115000",
+    "lng": "103.89441000",
+    "distance": 1872.5
+  },
+  {
+    "id": 456,
+    "name": "Sekolah Kebangsaan Sungai Tiram",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P313",
+    "lat": "1.58433709",
+    "lng": "103.87976440",
+    "distance": 1798.1
+  },
+  {
+    "id": 70,
+    "name": "Kg Mulia Sungai Tiram 492 Jln Sg Tiram",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P313",
+    "lat": "1.58809000",
+    "lng": "103.86012000",
+    "distance": 2488
+  },
+  {
+    "id": 138,
+    "name": "Simpang Felda Sg Tiram",
+    "route": "P313",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P313",
+    "lat": "1.58115000",
+    "lng": "103.89441000",
+    "distance": 4238.1
+  }
+]

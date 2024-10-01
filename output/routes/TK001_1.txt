@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1239,
+    "name": "Terminal Bas Tangkak",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "TK001, TK001A",
+    "lat": "2.26833800",
+    "lng": "102.54118300",
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 1238,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2661,
+        "distance": 5.1
+      }
+    ]
+  },
+  {
+    "id": 2432,
+    "name": "Kg. Anjung Batu (Bus Stop)",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.26100200",
+    "lng": "102.53603400",
+    "distance": 1329.6
+  },
+  {
+    "id": 2433,
+    "name": "Kg. Anjung Batu (Tiang 2)",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.25871700",
+    "lng": "102.53424000",
+    "distance": 321.7
+  },
+  {
+    "id": 2436,
+    "name": "Nur Inn,Jalan Muar",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.25626743",
+    "lng": "102.53229540",
+    "distance": 376.6
+  },
+  {
+    "id": 2430,
+    "name": "Jalan Parit Padang Lerek",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.25780000",
+    "lng": "102.52770000",
+    "distance": 685.6
+  },
+  {
+    "id": 2441,
+    "name": "SMK Ledang",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.27090898",
+    "lng": "102.52638670",
+    "distance": 2073.6,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2484,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2445,
+    "name": "Taman Sri Ledang,Jalan Sialang",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.27245107",
+    "lng": "102.52779320",
+    "distance": 277.1,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2486,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2487,
+        "distance": 137.4
+      }
+    ]
+  },
+  {
+    "id": 2435,
+    "name": "Majlis Daerah Tangkak",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": null,
+    "lat": "2.27190000",
+    "lng": "102.52890000",
+    "distance": 137.4,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2486,
+        "distance": 137.4
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2487,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2440,
+    "name": "SJKC Chi Meng",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": null,
+    "lat": "2.27250000",
+    "lng": "102.53580000",
+    "distance": 1162.2,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2488,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2438,
+    "name": "Rumah Pangsa (Jalan Ong Siong)",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.27654452",
+    "lng": "102.53773830",
+    "distance": 744.8,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2489,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2444,
+    "name": "SMK Tun Mamat",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "2.27904457",
+    "lng": "102.54782430",
+    "distance": 1598.3,
+    "intersections": [
+      {
+        "withRoute": "TK001A",
+        "stopId": 2490,
+        "distance": 14.5
+      },
+      {
+        "withRoute": "TK001A",
+        "stopId": 2494,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2867,
+        "distance": 0
+      },
+      {
+        "withRoute": "TK003",
+        "stopId": 2837,
+        "distance": 14.5
+      }
+    ]
+  },
+  {
+    "id": 2446,
+    "name": "Tmn. Tangkak Jaya (Bus Stop)",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.27122000",
+    "lng": "102.55324300",
+    "distance": 2222.5
+  },
+  {
+    "id": 2429,
+    "name": "Hospital Tangkak",
+    "route": "TK001",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": null,
+    "lat": "2.27220000",
+    "lng": "102.54700000",
+    "distance": 920.5
+  }
+]

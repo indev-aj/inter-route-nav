@@ -1,0 +1,239 @@
+[
+  {
+    "id": 2660,
+    "name": "Terminal Tun Sri Lanang, Kota Tinggi",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "KT003",
+    "lat": "1.72931073",
+    "lng": "103.90193978",
+    "intersections": [
+      {
+        "withRoute": "KT001",
+        "stopId": 2325,
+        "distance": 0
+      },
+      {
+        "withRoute": "KT002",
+        "stopId": 2327,
+        "distance": 0
+      },
+      {
+        "withRoute": "PE004",
+        "stopId": 476,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2779,
+    "name": "Bank Muamalat Kota Tinggi",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "KT003",
+    "lat": "1.73381600",
+    "lng": "103.90531700",
+    "distance": 958.9
+  },
+  {
+    "id": 2780,
+    "name": "Kampung Mawai",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "KT003",
+    "lat": "1.85001000",
+    "lng": "103.96601300",
+    "distance": 16155.6,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2802,
+        "distance": 118.5
+      }
+    ]
+  },
+  {
+    "id": 2781,
+    "name": "Kampung Mawai Baharu",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "KT003",
+    "lat": "1.85174700",
+    "lng": "103.97122800",
+    "distance": 617.1
+  },
+  {
+    "id": 2782,
+    "name": "Pusat Komuniti Desa Mawai Baru",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "KT003",
+    "lat": "1.85668500",
+    "lng": "103.98589900",
+    "distance": 1856.6,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2800,
+        "distance": 126.7
+      }
+    ]
+  },
+  {
+    "id": 2783,
+    "name": "Kampung Sayang ",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "KT003",
+    "lat": "1.88193700",
+    "lng": "104.04273600",
+    "distance": 8244.8,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2799,
+        "distance": 126.3
+      }
+    ]
+  },
+  {
+    "id": 2784,
+    "name": "SK Gembut ",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "KT003",
+    "lat": "1.89929100",
+    "lng": "104.05851900",
+    "distance": 2935.6,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2798,
+        "distance": 34.2
+      }
+    ]
+  },
+  {
+    "id": 2785,
+    "name": "Sekolah Agama Kampung Gembut",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "KT003",
+    "lat": "1.90123600",
+    "lng": "104.06159700",
+    "distance": 430.9,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2797,
+        "distance": 81.1
+      }
+    ]
+  },
+  {
+    "id": 2786,
+    "name": "Kampung Singapura",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "KT003",
+    "lat": "1.91716100",
+    "lng": "104.07943800",
+    "distance": 2693.3,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2796,
+        "distance": 21
+      }
+    ]
+  },
+  {
+    "id": 2787,
+    "name": "Kampung Sentosa",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "KT003",
+    "lat": "1.92280800",
+    "lng": "104.08848700",
+    "distance": 1257.1,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2795,
+        "distance": 32.9
+      }
+    ]
+  },
+  {
+    "id": 2788,
+    "name": "Sekolah Agama Seri Mahkota ",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "KT003",
+    "lat": "1.92532600",
+    "lng": "104.09426500",
+    "distance": 759.7,
+    "intersections": [
+      {
+        "withRoute": "KT003",
+        "stopId": 2794,
+        "distance": 14.4
+      }
+    ]
+  },
+  {
+    "id": 2789,
+    "name": "LKIM Tg. Sedili",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "KT003",
+    "lat": "1.92881900",
+    "lng": "104.11308100",
+    "distance": 2169.9
+  },
+  {
+    "id": 2790,
+    "name": "SK Sri Setia Jaya",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "KT003",
+    "lat": "1.92730600",
+    "lng": "104.10721000",
+    "distance": 674.4
+  },
+  {
+    "id": 2791,
+    "name": "Kampung Tanjung Lembu",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "KT003",
+    "lat": "1.91895100",
+    "lng": "104.10489100",
+    "distance": 1074.8
+  },
+  {
+    "id": 2792,
+    "name": "Pantai Teluk Mahkota (Jason Bay)",
+    "route": "KT003",
+    "bound_type": 1,
+    "sequence": 15,
+    "station_code": "KT003",
+    "lat": "1.89864900",
+    "lng": "104.10362600",
+    "distance": 2360.5
+  }
+]

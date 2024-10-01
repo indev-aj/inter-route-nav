@@ -1,0 +1,213 @@
+[
+  {
+    "id": 2422,
+    "name": "Perhentian Bas dan Teksi Simpang Renggam",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "1.82568869",
+    "lng": "103.30996060",
+    "intersections": [
+      {
+        "withRoute": "SR001",
+        "stopId": 2420,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2414,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "SK Simpang Renggam",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "SR001, SR003",
+    "lat": "1.82918780",
+    "lng": "103.31139670",
+    "distance": 699.5,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2380,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2401,
+        "distance": 30.1
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1020,
+        "distance": 30.1
+      }
+    ]
+  },
+  {
+    "id": 1127,
+    "name": "Simpang lorong Murni",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "SR001, SR003",
+    "lat": "1.83532740",
+    "lng": "103.32012500",
+    "distance": 1228.2,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2381,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2393,
+        "distance": 42.4
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2395,
+        "distance": 246
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1126,
+        "distance": 42.4
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1125,
+        "distance": 246
+      }
+    ]
+  },
+  {
+    "id": 1129,
+    "name": "Taman Purnama",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "SR001, SR003",
+    "lat": "1.83755901",
+    "lng": "103.32331530",
+    "distance": 445.6,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2382,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2391,
+        "distance": 30.9
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2392,
+        "distance": 161.5
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1130,
+        "distance": 30.9
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1128,
+        "distance": 161.5
+      }
+    ]
+  },
+  {
+    "id": 1131,
+    "name": "Taman Renggam Jaya ( Tiang 2)",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "SR001, SR003",
+    "lat": "1.83816981",
+    "lng": "103.32792240",
+    "distance": 517.2,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2384,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2387,
+        "distance": 182
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1032,
+        "distance": 182
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "name": "Penjara Simpang Renggam",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "SR001, SR003",
+    "lat": "1.84236279",
+    "lng": "103.33840480",
+    "distance": 1308.5,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2385,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2386,
+        "distance": 159.4
+      },
+      {
+        "withRoute": "SR003",
+        "stopId": 1133,
+        "distance": 159.4
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "name": "Ladang Tun Dr Ismail",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "Sr003",
+    "lat": "1.84622987",
+    "lng": "103.34801830",
+    "distance": 1278.2
+  },
+  {
+    "id": 626,
+    "name": "Kompleks Perumahan dan Pengurusan Sime Darby",
+    "route": "SR003",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "SR003",
+    "lat": "1.86775040",
+    "lng": "103.37176670",
+    "distance": 4005.6,
+    "intersections": [
+      {
+        "withRoute": "SR003",
+        "stopId": 627,
+        "distance": 75.4
+      }
+    ]
+  }
+]

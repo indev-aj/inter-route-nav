@@ -1,0 +1,102 @@
+[
+  {
+    "id": 2663,
+    "name": "Perhentian Bas dan Teksi Yong Peng",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": null,
+    "lat": "2.01289594",
+    "lng": "103.07118973",
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 731,
+        "distance": 124.4
+      }
+    ]
+  },
+  {
+    "id": 2829,
+    "name": "Mr.DIY Yong Peng",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": null,
+    "lat": "2.01071900",
+    "lng": "103.06499600",
+    "distance": 987.1
+  },
+  {
+    "id": 2830,
+    "name": "Majlis Daerah Labis ",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": null,
+    "lat": "2.01369200",
+    "lng": "103.05745200",
+    "distance": 1007.3
+  },
+  {
+    "id": 2831,
+    "name": "Kampung Paya",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": null,
+    "lat": "2.01571000",
+    "lng": "103.05726500",
+    "distance": 223.9
+  },
+  {
+    "id": 2832,
+    "name": "Taman Muhibbah",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": null,
+    "lat": "2.01936100",
+    "lng": "103.05667000",
+    "distance": 408.8
+  },
+  {
+    "id": 2833,
+    "name": "Taman Berlian",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": null,
+    "lat": "2.02268400",
+    "lng": "103.05628000",
+    "distance": 370.2,
+    "intersections": [
+      {
+        "withRoute": "YP001",
+        "stopId": 741,
+        "distance": 0
+      },
+      {
+        "withRoute": "YP001",
+        "stopId": 738,
+        "distance": 115.8
+      },
+      {
+        "withRoute": "YP002",
+        "stopId": 2835,
+        "distance": 115.8
+      }
+    ]
+  },
+  {
+    "id": 2664,
+    "name": "Kangkar Baru",
+    "route": "YP002",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": null,
+    "lat": "2.06334389",
+    "lng": "103.12395014",
+    "distance": 9734.9
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "id": 896,
+    "name": "Terminal Kulai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P401, P411, P412",
+    "lat": "1.66248514",
+    "lng": "103.59890950",
+    "intersections": [
+      {
+        "withRoute": "P401",
+        "stopId": 213,
+        "distance": 0
+      },
+      {
+        "withRoute": "P412",
+        "stopId": 897,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Arked Kulai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P411",
+    "lat": "1.66135832",
+    "lng": "103.60364140",
+    "distance": 588.5
+  },
+  {
+    "id": 102,
+    "name": "Opposite Public Bank Kulai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P411",
+    "lat": "1.65083006",
+    "lng": "103.61145950",
+    "distance": 1499.6
+  },
+  {
+    "id": 54,
+    "name": "Jalan Susur Kulai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P411",
+    "lat": "1.64834637",
+    "lng": "103.61328750",
+    "distance": 1685.3
+  },
+  {
+    "id": 184,
+    "name": "Taman Meranti,Jalan Besar",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P411",
+    "lat": "1.64523294",
+    "lng": "103.61650460",
+    "distance": 1188.4
+  },
+  {
+    "id": 96,
+    "name": "Opposite Hospital Temenggong Seri Maharaja Tun Ibrahim, Kulai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P411",
+    "lat": "1.63976463",
+    "lng": "103.62470450",
+    "distance": 1096.2
+  },
+  {
+    "id": 105,
+    "name": "Opposite Taman Mesra",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P411",
+    "lat": "1.63571574",
+    "lng": "103.62999180",
+    "distance": 739.8
+  },
+  {
+    "id": 98,
+    "name": "Opposite Kampung Baru Saleng",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P411",
+    "lat": "1.63283470",
+    "lng": "103.63346290",
+    "distance": 500.4
+  },
+  {
+    "id": 101,
+    "name": "Opposite Lembaga Lebuhraya Malaysia",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P411",
+    "lat": "1.62023333",
+    "lng": "103.64613330",
+    "distance": 1987.2,
+    "intersections": [
+      {
+        "withRoute": "P411",
+        "stopId": 80,
+        "distance": 209.3
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Opposite Taman Senai Utama",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 10,
+    "station_code": "P411",
+    "lat": "1.61207695",
+    "lng": "103.64749790",
+    "distance": 914.8
+  },
+  {
+    "id": 1012,
+    "name": "RHB Bank Senai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 11,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59985814",
+    "lng": "103.64492680",
+    "distance": 1476.5,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 128,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 875,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 878,
+    "name": "Sekolah Kebangsaan Senai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 12,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59657098",
+    "lng": "103.64554890",
+    "distance": 524,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 133,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 877,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "name": "Kampung Jaya Sepakat",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 13,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59091010",
+    "lng": "103.64797750",
+    "distance": 687.9,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 60,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 865,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 867,
+    "name": "Kampung Sepakat Baru",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 14,
+    "station_code": "P403, P411",
+    "lat": "1.58175836",
+    "lng": "103.65439660",
+    "distance": 1366.7,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 63,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1230,
+    "name": "Taman Johor, Opposite KipMall",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 25,
+    "station_code": "P104, P211, P411",
+    "lat": "1.50889000",
+    "lng": "103.68924000",
+    "distance": 9816.5,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 34,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1231,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Giant Hypermarket Tampoi",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 26,
+    "station_code": "P211, P411",
+    "lat": "1.49883778",
+    "lng": "103.69889690",
+    "distance": 1804.5,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 1158,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1082,
+    "name": "Jalan Tampoi, Jalan Skudai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 27,
+    "station_code": "P211, P411",
+    "lat": "1.49694697",
+    "lng": "103.70175710",
+    "distance": 420.1,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 288,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1084,
+    "name": "B5 Street Market",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 28,
+    "station_code": "P211, P411",
+    "lat": "1.49576641",
+    "lng": "103.70357080",
+    "distance": 242.3,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 288,
+        "distance": 242.3
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 290,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1085,
+    "name": "Bandar Baru Uda, Jalan Skudai",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 29,
+    "station_code": "P211, P411",
+    "lat": "1.48956853",
+    "lng": "103.71213760",
+    "distance": 2000.6,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 291,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 30,
+    "station_code": "P211, P411,P104",
+    "lat": "1.48705339",
+    "lng": "103.72440130",
+    "distance": 2045.9,
+    "intersections": [
+      {
+        "withRoute": "P104",
+        "stopId": 1235,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 292,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 906,
+    "name": "Tmn Tasek",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 31,
+    "station_code": "P211, P411",
+    "lat": "1.48873700",
+    "lng": "103.72762900",
+    "distance": 406.1,
+    "intersections": [
+      {
+        "withRoute": "P211",
+        "stopId": 231,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1232,
+    "name": "Terminal Larkin",
+    "route": "P411",
+    "bound_type": 1,
+    "sequence": 32,
+    "station_code": "P101,P103,P104,P112,P113,P411,P211",
+    "lat": "1.49496000",
+    "lng": "103.74241000",
+    "distance": 3954.6,
+    "intersections": [
+      {
+        "withRoute": "HSA",
+        "stopId": 2471,
+        "distance": 0
+      },
+      {
+        "withRoute": "P101",
+        "stopId": 214,
+        "distance": 0
+      },
+      {
+        "withRoute": "P103",
+        "stopId": 1216,
+        "distance": 0
+      },
+      {
+        "withRoute": "P104",
+        "stopId": 1217,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1221,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113-01",
+        "stopId": 2880,
+        "distance": 0
+      },
+      {
+        "withRoute": "P211",
+        "stopId": 1236,
+        "distance": 0
+      }
+    ]
+  }
+]

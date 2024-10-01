@@ -1,0 +1,196 @@
+[
+  {
+    "id": 106,
+    "name": "Opposite Taman Senai Jaya,Jalan Seelong",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 6,
+    "station_code": "P402",
+    "lat": "1.61003524",
+    "lng": "103.66685440"
+  },
+  {
+    "id": 172,
+    "name": "Taman Bintang Utama",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": "P402, P403",
+    "lat": "1.60916309",
+    "lng": "103.65682790",
+    "distance": 1244.5,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 1149,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "RHB Bank Senai",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59985814",
+    "lng": "103.64492680",
+    "distance": 1872.6,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 875,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1012,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Sekolah Kebangsaan Senai",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59657098",
+    "lng": "103.64554890",
+    "distance": 524,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 877,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 878,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Kampung Jaya Sepakat",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "P402, P403, P411",
+    "lat": "1.59091010",
+    "lng": "103.64797750",
+    "distance": 687.9,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 865,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 866,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Taman Scientax Utama, Senai",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "P402, P403, P411",
+    "lat": "1.58409719",
+    "lng": "103.65006970",
+    "distance": 4699.6,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 891,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 1008,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1223,
+    "name": "Taman Aman",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": "P402,P403, P411",
+    "lat": "1.59054650",
+    "lng": "103.64769500",
+    "distance": 1122.8,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 169,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 885,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Kampung Baru Senai",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P402. P403, P411",
+    "lat": "1.60023797",
+    "lng": "103.64458950",
+    "distance": 1165.2,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 863,
+        "distance": 0
+      },
+      {
+        "withRoute": "P411",
+        "stopId": 864,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "name": "TM Senai",
+    "route": "P402",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "P402, P403",
+    "lat": "1.61014653",
+    "lng": "103.65705260",
+    "distance": 2135.7,
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 21,
+        "distance": 173.2
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 905,
+        "distance": 0
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 862,
+        "distance": 173.2
+      }
+    ]
+  }
+]

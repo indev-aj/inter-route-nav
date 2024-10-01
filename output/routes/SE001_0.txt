@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2365,
+    "name": "Bukit Siput,Jalan Genuang",
+    "route": "SE001",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "2.48921682",
+    "lng": "102.84937020"
+  },
+  {
+    "id": 2366,
+    "name": "Opposite SMK Paduka Tuan",
+    "route": "SE001",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": null,
+    "lat": "2.49154975",
+    "lng": "102.84232740",
+    "distance": 830.8
+  },
+  {
+    "id": 2367,
+    "name": "Bandar Segamat Baru III",
+    "route": "SE001",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.49387896",
+    "lng": "102.83772410",
+    "distance": 572.7
+  },
+  {
+    "id": 2306,
+    "name": "Tmn Eastern, Jln Genuang",
+    "route": "SE001",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "SE001",
+    "lat": "2.49460100",
+    "lng": "102.83626700",
+    "distance": 180.7
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": 123,
+    "name": "PPR desa Mutiara",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P111,P113",
+    "lat": "1.53866000",
+    "lng": "103.74812000",
+    "intersections": [
+      {
+        "withRoute": "P112",
+        "stopId": 2890,
+        "distance": 0
+      },
+      {
+        "withRoute": "P113",
+        "stopId": 1219,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Aeon Dato Onn (Bus Stop)",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P111",
+    "lat": "1.56290800",
+    "lng": "103.73466800",
+    "distance": 4765.2
+  },
+  {
+    "id": 350,
+    "name": "SJK (T) Ladang Tebrau",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P111",
+    "lat": "1.55013441",
+    "lng": "103.74057690",
+    "distance": 2094
+  },
+  {
+    "id": 351,
+    "name": "Taman Daya, Jalan Rimbia 39",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P111",
+    "lat": "1.54866602",
+    "lng": "103.75481790",
+    "distance": 2176.8
+  },
+  {
+    "id": 163,
+    "name": "SMK Tmn Daya",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P111",
+    "lat": "1.55258000",
+    "lng": "103.75422000",
+    "distance": 573.8
+  },
+  {
+    "id": 352,
+    "name": "Taman Daya, Jalan Nibong 41",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 6,
+    "station_code": "P111",
+    "lat": "1.56381005",
+    "lng": "103.75472430",
+    "distance": 2123
+  },
+  {
+    "id": 353,
+    "name": "Jalan Daya, Taman Setia Indah",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 7,
+    "station_code": "P111",
+    "lat": "1.57281634",
+    "lng": "103.75928840",
+    "distance": 1483
+  },
+  {
+    "id": 36,
+    "name": "Hospital Sultan Ismail",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 8,
+    "station_code": "P111",
+    "lat": "1.54603000",
+    "lng": "103.78914000",
+    "distance": 6174.8,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 2609,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Aeon Tebrau",
+    "route": "P111",
+    "bound_type": 1,
+    "sequence": 9,
+    "station_code": "P111",
+    "lat": "1.55176000",
+    "lng": "103.79659000",
+    "distance": 1587.8,
+    "intersections": [
+      {
+        "withRoute": "P106",
+        "stopId": 2608,
+        "distance": 0
+      }
+    ]
+  }
+]

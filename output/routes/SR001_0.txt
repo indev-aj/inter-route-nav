@@ -1,0 +1,114 @@
+[
+  {
+    "id": 598,
+    "name": "SMK Simpang Rengam,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 0,
+    "sequence": 6,
+    "station_code": "SR001",
+    "lat": "1.81238000",
+    "lng": "103.32201960",
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2408,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Sekolah Kebangsaan Dato Onn Jaafar,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 0,
+    "sequence": 7,
+    "station_code": "SR001",
+    "lat": "1.81439752",
+    "lng": "103.32087910",
+    "distance": 264.6,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2409,
+        "distance": 0
+      },
+      {
+        "withRoute": "SR001A",
+        "stopId": 2410,
+        "distance": 138.8
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Taman Purtimas",
+    "route": "SR001",
+    "bound_type": 0,
+    "sequence": 8,
+    "station_code": "SR001",
+    "lat": "1.81464080",
+    "lng": "103.32035930",
+    "distance": 138.8,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2410,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Taman Rekamas 3",
+    "route": "SR001",
+    "bound_type": 0,
+    "sequence": 9,
+    "station_code": "SR001",
+    "lat": "1.81815000",
+    "lng": "103.30809000",
+    "distance": 2479.4,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2411,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2419,
+    "name": "Klinik Kesihatan Simpang Renggam",
+    "route": "SR001",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": null,
+    "lat": "1.82589109",
+    "lng": "103.30502750",
+    "distance": 1274.9,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2412,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Taman Simpang Rengam,Jalan Ayer Hitam",
+    "route": "SR001",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "SR001",
+    "lat": "1.83181103",
+    "lng": "103.30759270",
+    "distance": 1041.6,
+    "intersections": [
+      {
+        "withRoute": "SR001A",
+        "stopId": 2413,
+        "distance": 0
+      }
+    ]
+  }
+]

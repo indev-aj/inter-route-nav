@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1116,
+    "name": "Honda,Jalan Bandar",
+    "route": "P312",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": "P302, P303, P311, P312",
+    "lat": "1.47070187",
+    "lng": "103.90588690",
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 2451,
+        "distance": 0
+      },
+      {
+        "withRoute": "P302",
+        "stopId": 2457,
+        "distance": 0
+      },
+      {
+        "withRoute": "P303",
+        "stopId": 2465,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "name": "Taman Dahlia Indah,Persiaran Dahlia 2",
+    "route": "P312",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": "P301, P312",
+    "lat": "1.47810308",
+    "lng": "103.89521490",
+    "distance": 3044.4,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 396,
+        "distance": 91.2
+      },
+      {
+        "withRoute": "P301",
+        "stopId": 397,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "name": "KIP Mall Masai",
+    "route": "P312",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": "P301, P312",
+    "lat": "1.48153042",
+    "lng": "103.89167690",
+    "distance": 607.4,
+    "intersections": [
+      {
+        "withRoute": "P301",
+        "stopId": 395,
+        "distance": 0
+      }
+    ]
+  }
+]

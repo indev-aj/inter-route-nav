@@ -1,0 +1,82 @@
+[
+  {
+    "id": 21,
+    "name": "Econsave Senai",
+    "route": "P402",
+    "bound_type": 1,
+    "sequence": 1,
+    "station_code": "P402, P403",
+    "lat": "1.61091906",
+    "lng": "103.65629430",
+    "intersections": [
+      {
+        "withRoute": "P402",
+        "stopId": 220,
+        "distance": 173.2
+      },
+      {
+        "withRoute": "P403",
+        "stopId": 862,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 1222,
+    "name": "Taman Sri Senai",
+    "route": "P402",
+    "bound_type": 1,
+    "sequence": 2,
+    "station_code": "P402,P411,P403",
+    "lat": "1.61441613",
+    "lng": "103.65852610",
+    "distance": 581.6,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 1227,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Taman Bintang",
+    "route": "P402",
+    "bound_type": 1,
+    "sequence": 3,
+    "station_code": "P402, P403",
+    "lat": "1.61549737",
+    "lng": "103.65884950",
+    "distance": 1246.9,
+    "intersections": [
+      {
+        "withRoute": "P403",
+        "stopId": 887,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Taman Senai Jaya,Jalan Seelong",
+    "route": "P402",
+    "bound_type": 1,
+    "sequence": 4,
+    "station_code": "P402",
+    "lat": "1.61024839",
+    "lng": "103.66679090",
+    "distance": 1664.9
+  },
+  {
+    "id": 176,
+    "name": "Taman Desa Idaman,Jalan Idaman",
+    "route": "P402",
+    "bound_type": 1,
+    "sequence": 5,
+    "station_code": "P402",
+    "lat": "1.63136560",
+    "lng": "103.68141260",
+    "distance": 4220.7
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": 2771,
+    "name": "Persimpangan Bekok (To Chaah)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "2.27978300",
+    "lng": "103.03901600",
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 680,
+        "distance": 130.5
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Taman Damai Jaya 2 ",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "LB002",
+    "lat": "2.24355000",
+    "lng": "103.04019500",
+    "distance": 4067.6
+  },
+  {
+    "id": 2326,
+    "name": "Kampung Kangkar 1",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": null,
+    "lat": "2.23623800",
+    "lng": "103.04029700",
+    "distance": 809,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 2652,
+        "distance": 154.6
+      }
+    ]
+  },
+  {
+    "id": 2329,
+    "name": "Taman Sri Chaah (tiang 2)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": null,
+    "lat": "2.24375400",
+    "lng": "103.03998000",
+    "distance": 924.5
+  },
+  {
+    "id": 705,
+    "name": "Kampung Jawa Baru",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "LB002",
+    "lat": "2.25006400",
+    "lng": "103.04011100",
+    "distance": 744.9
+  },
+  {
+    "id": 702,
+    "name": "Kompleks Penghulu  Mukim Chaah",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "LB002",
+    "lat": "2.25840000",
+    "lng": "103.04030300",
+    "distance": 951.2
+  },
+  {
+    "id": 2772,
+    "name": "Persimpangan Bekok (To Bekok) (Return)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": null,
+    "lat": "2.28037900",
+    "lng": "103.03957800",
+    "distance": 2555,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 680,
+        "distance": -0.2
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "name": "Kampung Melayu Baru Bekok (Return)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "LB002",
+    "lat": "2.29665000",
+    "lng": "103.12517900",
+    "distance": 10294.5,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 683,
+        "distance": 1.1
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "name": "Sekolah Menengah Kebangsaan Bekok ( Return)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "LB002",
+    "lat": "2.29540326",
+    "lng": "103.12211370",
+    "distance": 399.6,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 707,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 2773,
+    "name": "Asrama SMK Bekok (Return)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 21,
+    "station_code": null,
+    "lat": "2.29458500",
+    "lng": "103.11961400",
+    "distance": 289.9,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 706,
+        "distance": -0.1
+      }
+    ]
+  },
+  {
+    "id": 2774,
+    "name": "Persimpangan Bekok ke Labis",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 22,
+    "station_code": null,
+    "lat": "2.28081900",
+    "lng": "103.03886100",
+    "distance": 9714.7,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 680,
+        "distance": 109.4
+      }
+    ]
+  },
+  {
+    "id": 2775,
+    "name": "Persimpangan Moakil ke labis",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 23,
+    "station_code": null,
+    "lat": "2.31647100",
+    "lng": "103.04189300",
+    "distance": 4085.9,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 700,
+        "distance": 96.9
+      }
+    ]
+  },
+  {
+    "id": 2776,
+    "name": "Kampung Usaha Jaya (Ke Labis)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 24,
+    "station_code": null,
+    "lat": "2.33887400",
+    "lng": "103.04314200",
+    "distance": 2487.5,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 701,
+        "distance": 63.9
+      }
+    ]
+  },
+  {
+    "id": 2777,
+    "name": "Sungai Karas (Ke Labis)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 25,
+    "station_code": null,
+    "lat": "2.35546000",
+    "lng": "103.03626600",
+    "distance": 2129.7,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 695,
+        "distance": 27.7
+      }
+    ]
+  },
+  {
+    "id": 2778,
+    "name": "Taman Suria (Ke Labis)",
+    "route": "LB003",
+    "bound_type": 0,
+    "sequence": 26,
+    "station_code": null,
+    "lat": "2.37399400",
+    "lng": "103.03127200",
+    "distance": 2245.6,
+    "intersections": [
+      {
+        "withRoute": "LB003",
+        "stopId": 692,
+        "distance": 205.1
+      }
+    ]
+  }
+]

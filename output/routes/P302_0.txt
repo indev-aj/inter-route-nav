@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1156,
+    "name": "Taman Desa Rakyat Perdana",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 10,
+    "station_code": "P314,P302",
+    "lat": "1.51377648",
+    "lng": "103.92245690",
+    "intersections": [
+      {
+        "withRoute": "P314",
+        "stopId": 178,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Taman Scientex Cassia,Jalan Persiaran Scientex",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 11,
+    "station_code": "P302",
+    "lat": "1.51034781",
+    "lng": "103.91664220",
+    "distance": 1080.9
+  },
+  {
+    "id": 2460,
+    "name": "Politeknik Malaysia Ibrahim Sultan,Jalan Persiaran Scientex",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 12,
+    "station_code": null,
+    "lat": "1.50619829",
+    "lng": "103.91684230",
+    "distance": 3321.7
+  },
+  {
+    "id": 451,
+    "name": "Kompleks Institusi Pendidikan Taman Scientex Pasir Gudang",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 13,
+    "station_code": "P302",
+    "lat": "1.50263833",
+    "lng": "103.91615130",
+    "distance": 2963.9
+  },
+  {
+    "id": 450,
+    "name": "Jalan Helang Taman Scientex,Jalan Persiaran Scientex",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 14,
+    "station_code": "P302",
+    "lat": "1.49918477",
+    "lng": "103.91580050",
+    "distance": 382.1
+  },
+  {
+    "id": 449,
+    "name": "Kolej Komuniti Pasir Gudang,Jalan Persiaran Scientex ",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 15,
+    "station_code": "P302",
+    "lat": "1.49610014",
+    "lng": "103.91349130",
+    "distance": 435.5,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 50,
+        "distance": 181.9
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Taman Cendana",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 16,
+    "station_code": "P302, P312",
+    "lat": "1.48788484",
+    "lng": "103.91365500",
+    "distance": 1595.6,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 2458,
+        "distance": 207.8
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 987,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Taman Cendana Blok 52,53,Jalan Cendana",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 17,
+    "station_code": "P302, P312",
+    "lat": "1.48782987",
+    "lng": "103.91081390",
+    "distance": 315.7,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 2458,
+        "distance": 107.9
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1113,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Taman Cendana Blok 4,5,6,Jalan Cendana",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 18,
+    "station_code": "P302, P312",
+    "lat": "1.48786570",
+    "lng": "103.90582310",
+    "distance": 586.1,
+    "intersections": [
+      {
+        "withRoute": "P302",
+        "stopId": 418,
+        "distance": 118.1
+      },
+      {
+        "withRoute": "P312",
+        "stopId": 1114,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Sekolah Kebangsaan Taman Cendana,Jalan Mesjid",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 19,
+    "station_code": "P302, P312",
+    "lat": "1.48640874",
+    "lng": "103.90494780",
+    "distance": 262.7,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1115,
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Sekolah Menengah Kebangsaan Pasir Gudang,Jalan Bandar",
+    "route": "P302",
+    "bound_type": 0,
+    "sequence": 20,
+    "station_code": "P302, P303, P311, P312",
+    "lat": "1.47033247",
+    "lng": "103.90601420",
+    "distance": 2269.4,
+    "intersections": [
+      {
+        "withRoute": "P312",
+        "stopId": 1152,
+        "distance": 0
+      }
+    ]
+  }
+]
