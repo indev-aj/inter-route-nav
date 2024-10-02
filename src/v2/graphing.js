@@ -76,10 +76,30 @@ class Graphing {
             if (err) {
                 console.error('Error writing the graph to file:', err);
             } else {
-                console.log('Graph written successfully');
+                // console.log('Graph written successfully');
             }
         });
     };
+
+    static loadGraph = (filePath) => {
+        try {
+            // Correct use of fs.readFileSync (synchronously reads the file with UTF-8 encoding)
+            const fileData = fs.readFileSync(filePath, 'utf8');  // No callback function needed
+            
+            // Parse the JSON data
+            const graphData = JSON.parse(fileData);
+            
+            // Loop through the nodes and add them back into the graph
+            Object.keys(graphData).forEach(nodeKey => {
+              const neighbors = graphData[nodeKey];
+              this.routeGraph.addNode(nodeKey, neighbors);
+            });
+            
+            console.log('Graph loaded successfully from file');
+        } catch (error) {
+            console.error('Error loading graph:', error);
+        }
+    }
 
     static fetchData = async () => {
         const query = `
@@ -313,6 +333,7 @@ class Graphing {
             }
         }
         console.timeEnd('batch');
+        console.log('');
         return data;
     }
 
@@ -457,11 +478,20 @@ class Graphing {
             const route = routes[routeKey];
             
             this.saveToFile("routes/" + routeKey, route);
-            // Add connections within the same route
             this.createConnectionWIthinRoute(route);
         });
 
         this.printGraph(this.routeGraph, false);
+    }
+
+    static findPath = (origin, destination, options) => {
+        return this.routeGraph.path(origin, destination, options);
+    }
+
+    // Implement create graph based on .txt files (previously generated graph)
+    static generateGraphFromFile = (file) => {
+        console.log("Generating graph from file");
+        this.loadGraph(file);
     }
 }
 

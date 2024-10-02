@@ -7,7 +7,8 @@
     "start": "src/server.js",
     "graph": "nodemon src/v2/runner.js",
     "dev": "nodemon --inspect src/v2/runner.js",
-    "clear": "rm output/* output/routes/*"
+    "clear": "rm output/* output/routes/*",
+    "push": "git push origin master && git push origin-personal master"
   },
   "author": "",
   "license": "ISC",
