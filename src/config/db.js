@@ -5,16 +5,25 @@ import CONSTANT from './constants.js';
 // Load environment variables from .env file
 dotenv.config();
 
-// Create a connection using the promise-based mysql2
-const connection = await mysql.createConnection({
-    host: process.env.DB_HOST,
-    user: process.env.DB_USERNAME,
-    password: process.env.DB_PASSWORD,
-    database: 'PAJ_MYJT',
-});
+let connection;
 
-// Log the connection status
-console.log('Connected to the database');
+try {
+    console.log("Connecting to Database");
+    // Create a connection using the promise-based mysql2
+    connection = await mysql.createConnection({
+        host: process.env.DB_HOST, // Use the correct DB host
+        user: process.env.DB_USERNAME,
+        password: process.env.DB_PASSWORD,
+        database: 'PAJ_MYJT',
+    });
 
-// Export the promise-based connection
+    // Log the connection status if successful
+    console.log('Connected to the database\n');
+} catch (error) {
+    // Log any connection errors
+    console.error('Error connecting to the database:', error.message);
+    console.log('');
+}
+
+// Export the promise-based connection (if successful)
 export default connection;
