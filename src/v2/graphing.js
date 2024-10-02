@@ -432,45 +432,72 @@ class Graphing {
     // };
 
     static createConnectionWIthinRoute = (route) => {
-        let curr;
+        let currentStop;
+        let currentNode;
+        let nextStop;
+        let nextNode;
+    
         try {
-            for (let i = 0; i < route.length - 1; i++) {
-                const currentStop = route[i];
-                const nextStop = route[i + 1];
+            for (let i = 0; i < route.length; i++) {
+                currentStop = route[i];
+                currentNode = `${currentStop.route}_${currentStop.id}`;
     
-                const currentNode = `${currentStop.route}_${currentStop.id}`;
-                const nextNode = `${nextStop.route}_${nextStop.id}`;
-
-                curr = currentNode;
-    
+                // Get existing connections for the current node, if it exists
                 let existingConnections = this.routeGraph.graph.get(currentNode) || {};
-                let distance = nextStop.distance;
-
-                // force distance cost to be at least 1
-                if (!distance || distance <= 0) distance = 1;
-
-                const neighbors = { ...existingConnections, [nextNode]: distance};
     
-                // Add intersections, if any
-                if (currentStop.intersections) {
-                    // console.log('Intersection found for: ', currentStop.name);
-                    currentStop.intersections.forEach(intersection => {
-                        const toNode = `${intersection.withRoute}_${intersection.stopId}`;
-                        let distance = intersection.distance; // Use the distance from the intersection data
+                // Check if this is the last stop in the route
+                if (i === route.length - 1) {
+                    // Handle the last stop, which doesn't have a "next" stop
+                    
     
-                        // force distance cost to be at least 1 
-                        if (distance <= 0) distance = 1;
-                        neighbors[toNode] = distance;
-                    });
+                    // Add any intersections for the last stop, if available
+                    if (currentStop.intersections) {
+                        currentStop.intersections.forEach(intersection => {
+                            const toNode = `${intersection.withRoute}_${intersection.stopId}`;
+                            let distance = intersection.distance;
+    
+                            // Force distance cost to be at least 1 
+                            if (!distance || distance <= 0) distance = 1;
+                            existingConnections[toNode] = distance;
+                        });
+                    }
+    
+                    // Add the last stop to the graph with its intersections (if any)
+                    this.routeGraph.addNode(currentNode, existingConnections);
+                } else {
+                    // Handle stops that have a "next" stop
+                    nextStop = route[i + 1];
+                    nextNode = `${nextStop.route}_${nextStop.id}`;
+    
+                    let distance = nextStop.distance;
+    
+                    // Force distance cost to be at least 1
+                    if (!distance || distance <= 0) distance = 1;
+    
+                    const neighbors = { ...existingConnections, [nextNode]: distance };
+    
+                    // Add intersections, if any
+                    if (currentStop.intersections) {
+                        currentStop.intersections.forEach(intersection => {
+                            const toNode = `${intersection.withRoute}_${intersection.stopId}`;
+                            let distance = intersection.distance;
+    
+                            // Force distance cost to be at least 1 
+                            if (!distance || distance <= 0) distance = 1;
+                            neighbors[toNode] = distance;
+                        });
+                    }
+    
+                    // Add the current stop and its neighbors to the graph
+                    this.routeGraph.addNode(currentNode, neighbors);
                 }
-    
-                this.routeGraph.addNode(currentNode, neighbors);
             }
         } catch (error) {
             console.error("Unable to create connection: ", error);
-            console.error("Attempted to create node: ", curr);
+            console.error("Attempted to create node: ", currentNode);
         }
     }
+    
 
     static drawGraph = (routes) => {
         // Add all routes to the graph
