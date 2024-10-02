@@ -13,8 +13,8 @@ Follow the steps below to get the project up and running:
 ### **Clone the Repository**
 Start by cloning this repository to your local machine:
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/indev-aj/inter-route-nav
+cd inter-route-nav
 ```
 
 ### **Install Dependencies**
