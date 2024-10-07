@@ -1,9 +1,8 @@
+import Graph from "node-dijkstra";
 import * as fs from 'fs';
 import Helper from "../helpers/helpers.js";
 
-import Graph from "node-dijkstra";
-
-class Graphing {
+class GraphService {
     routeGraph = new Graph();
 
     /* ****************
@@ -354,6 +353,6 @@ class Graphing {
     }
 }
 
-const GraphingInstance = new Graphing();
+const GraphServiceInstance = new GraphService();
 
-export default GraphingInstance;
+export default GraphServiceInstance;

@@ -18,12 +18,13 @@ try {
     });
 
     // Log the connection status if successful
-    console.log('Connected to the database\n');
+    console.log('Connected to the database');
 } catch (error) {
     // Log any connection errors
     console.error('Error connecting to the database:', error.message);
-    console.log('');
 }
+
+console.log("---------------------------------------\n");
 
 // Export the promise-based connection (if successful)
 export default connection;

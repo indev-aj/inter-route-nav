@@ -1,23 +1,42 @@
-import Graphing from "./graphing.js";
+import PoiLocation from "../models/PoiLocation.js";
+import GraphingInstance from "./graphing.js";
 
 class Runner {
     static main = async () => {
-        const data = await Graphing.fetchData();
-        const calculatedDistances = await Graphing.calculateBatches(data);
+        const data = await PoiLocation.findAllForGraph();
+        const calculatedDistances = await GraphingInstance.calculateBatches(data);
 
-        Graphing.drawGraph(calculatedDistances);
+        GraphingInstance.drawGraph(calculatedDistances);
     }
 
-    static findPath = (origin, destination, options) => {
+    static findAllPaths = (origin, destination, options) => {
         console.log("Finding path between " + origin + " and " + destination);
-        const path = Graphing.findPath(origin, destination, options);
+        const shortest = GraphingInstance.findShortestPath(origin, destination, options);
+        const allPossibleRoutes = GraphingInstance.findAllPaths(origin, destination);
 
-        console.log("Path: ", path);
+        const result = {
+            shortest: shortest,
+            paths: allPossibleRoutes
+        }
+
+        if (allPossibleRoutes.length > 1) {
+            console.log("Multiple routes found!");
+        } else if (shortest){
+            console.log("Only 1 route found!");
+        } else {
+            console.log("No route found!")
+        }
+
+        console.log(result);
     }
 }
 
 // await Runner.main();
-Graphing.generateGraphFromFile("output/graph.txt");
+GraphingInstance.generateGraphFromFile("output/graph.json");
+// const shortest = Graphing.findShortestPath("HSA_2471", "HSA_2472");
+// console.log("shortest: ", shortest)
 
-Runner.findPath("BP001_727", "BP002_2628", { cost: true });
-// Runner.findPath("BP002_1137", "BP001_727", { cost: true });
+Runner.findAllPaths("YP002_2833", "YP001_741");
+
+// const y = Graphing.findAllPaths("YP002_2833", "YP001_741");
+// console.log("result: \n", y);
