@@ -43,6 +43,39 @@ class PoiLocation {
             console.error('Error executing query: ', error);
         }
     }
+
+    static async findAll() {
+        const query = `
+        SELECT * FROM
+            poi_location
+        ORDER BY
+            route,
+            bound_type,
+            sequence;
+        `;
+
+        try {
+            const [results] = await connection.execute(query);
+
+            return results.map(row => new PoiLocation(row));
+        } catch (error) {
+            console.error('Error executing query: ', error);
+        }
+    }
+
+    static async findBatchByStopIds(stopIds) {
+        const sqlQuery = `
+            SELECT * 
+            FROM poi_location 
+            WHERE id IN (${stopIds.map(() => '?').join(',')})
+            ORDER BY FIELD(id, ${stopIds.map(() => '?').join(',')})
+        `;
+    
+        // Pass stopIds twice, once for the IN clause and once for FIELD function
+        const [results] = await connection.query(sqlQuery, [...stopIds, ...stopIds]);
+    
+        return results.map(row => new PoiLocation(row));
+    }
 }
 
 export default PoiLocation;

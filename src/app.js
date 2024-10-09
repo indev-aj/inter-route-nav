@@ -3,9 +3,12 @@ import cors from 'cors';
 
 import v1 from './routes/v1/index.js';
 import { responses } from './middlewares/index.js';
+import Cache from './config/cache.js';
+import CONSTANTS from './config/constants.js';
 
+await Cache.connect();
 const app = express();
-const PORT = process.env.PORT || 3030;
+const PORT = CONSTANTS.SERVER_PORT || 3030;
 
 app.use(cors());
 app.use(express.json({ limit: '50mb' }));

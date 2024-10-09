@@ -1,24 +1,6 @@
-import * as XLSX from 'xlsx';
 import * as fs from 'fs';
 
 class Helper {
-    static saveToExcel = (data) => {
-        // Convert array of objects to a worksheet
-        const worksheet = XLSX.utils.json_to_sheet(data);
-        
-        // Create a new workbook
-        const workbook = XLSX.utils.book_new();
-        
-        // Append the worksheet to the workbook
-        XLSX.utils.book_append_sheet(workbook, worksheet, 'Intersections');
-
-        // Define the filename and write the file
-        const fileName = 'output/intersections.xlsx';
-        XLSX.writeFile(workbook, fileName);
-
-        console.log(`Data saved to ${fileName}`);
-    };
-
     static saveToJsonFile = (title, data) => {
         let jsonString;
         try {

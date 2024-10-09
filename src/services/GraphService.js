@@ -3,7 +3,11 @@ import * as fs from 'fs';
 import Helper from "../helpers/helpers.js";
 
 class GraphService {
-    routeGraph = new Graph();
+    #routeGraph = new Graph();
+
+    get graph() {
+        return this.#routeGraph.graph;
+    }
 
     /* ****************
     ** Private Methods
@@ -109,12 +113,12 @@ class GraphService {
             // Loop through the nodes and add them back into the graph
             Object.keys(graphData).forEach(nodeKey => {
               const neighbors = graphData[nodeKey];
-              this.routeGraph.addNode(nodeKey, neighbors);
+              this.#routeGraph.addNode(nodeKey, neighbors);
             });
             
             console.log('Graph loaded successfully from file');
 
-            return this.routeGraph;
+            return this.#routeGraph;
         } catch (error) {
             console.error('Error loading graph:', error);
         }
@@ -132,7 +136,7 @@ class GraphService {
                 currentNode = `${currentStop.route}_${currentStop.id}`;
     
                 // Get existing connections for the current node, if it exists
-                let existingConnections = this.routeGraph.graph.get(currentNode) || {};
+                let existingConnections = this.#routeGraph.graph.get(currentNode) || {};
     
                 // Check if this is the last stop in the route
                 if (i === route.length - 1) {
@@ -152,7 +156,7 @@ class GraphService {
                     }
     
                     // Add the last stop to the graph with its intersections (if any)
-                    this.routeGraph.addNode(currentNode, existingConnections);
+                    this.#routeGraph.addNode(currentNode, existingConnections);
                 } else {
                     // Handle stops that have a "next" stop
                     nextStop = route[i + 1];
@@ -178,7 +182,7 @@ class GraphService {
                     }
     
                     // Add the current stop and its neighbors to the graph
-                    this.routeGraph.addNode(currentNode, neighbors);
+                    this.#routeGraph.addNode(currentNode, neighbors);
                 }
             }
         } catch (error) {
@@ -244,7 +248,7 @@ class GraphService {
             allPaths.push([...path]); // Make a copy of the path
         } else {
             // Get the neighbors of the current node
-            let neighbors = this.routeGraph.graph.get(currentNode);
+            let neighbors = this.#routeGraph.graph.get(currentNode);
     
             if (neighbors) {
                 for (let neighbor of neighbors.keys()) {
@@ -302,7 +306,7 @@ class GraphService {
             this.#createConnectionWithinRoute(route);
         });
 
-        this.printGraph(this.routeGraph, false);
+        this.printGraph(this.#routeGraph, false);
     }
 
     generateGraphFromFile(file) {
@@ -337,7 +341,7 @@ class GraphService {
     }
 
     findShortestPath(origin, destination, options = { cost: false }) {
-        return this.routeGraph.path(origin, destination, options);
+        return this.#routeGraph.path(origin, destination, options);
     }
 
     findAllPaths(startNode, endNode) {

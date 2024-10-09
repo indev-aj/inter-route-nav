@@ -21,6 +21,9 @@
     "lodash": "^4.17.21",
     "mysql2": "^3.11.3",
     "node-dijkstra": "^2.5.0",
-    "xlsx": "^0.18.5"
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
