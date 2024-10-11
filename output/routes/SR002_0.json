@@ -18,7 +18,8 @@
     "station_code": "SR002",
     "lat": "1.81790784",
     "lng": "103.47370450",
-    "distance": 1797.8
+    "distance": 1797,
+    "duration": 21
   },
   {
     "id": 631,
@@ -29,6 +30,7 @@
     "station_code": "SR002",
     "lat": "1.81845109",
     "lng": "103.47244580",
-    "distance": 156
+    "distance": 156,
+    "duration": 1
   }
 ]

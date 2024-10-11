@@ -11,18 +11,24 @@
     "intersections": [
       {
         "withRoute": "KT002",
+        "withBound": 1,
         "stopId": 2327,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "KT003",
+        "withBound": 1,
         "stopId": 2660,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "PE004",
+        "withBound": 0,
         "stopId": 476,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -35,7 +41,8 @@
     "station_code": "KT001",
     "lat": "1.73606000",
     "lng": "103.89962000",
-    "distance": 1282.3
+    "distance": 1282,
+    "duration": 15
   },
   {
     "id": 467,
@@ -46,7 +53,8 @@
     "station_code": "KT001",
     "lat": "1.73710000",
     "lng": "103.89069000",
-    "distance": 1319.3
+    "distance": 1319,
+    "duration": 15
   },
   {
     "id": 474,
@@ -57,7 +65,8 @@
     "station_code": "KT001",
     "lat": "1.74290257",
     "lng": "103.89009360",
-    "distance": 747.1
+    "distance": 747,
+    "duration": 8
   },
   {
     "id": 475,
@@ -68,7 +77,8 @@
     "station_code": "KT001",
     "lat": "1.74328327",
     "lng": "103.90516190",
-    "distance": 2139.8
+    "distance": 2139,
+    "duration": 25
   },
   {
     "id": 468,
@@ -79,6 +89,7 @@
     "station_code": "KT001",
     "lat": "1.73374000",
     "lng": "103.90568000",
-    "distance": 1419.2
+    "distance": 1419,
+    "duration": 17
   }
 ]

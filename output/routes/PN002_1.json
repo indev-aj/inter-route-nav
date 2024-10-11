@@ -18,7 +18,8 @@
     "station_code": "PN002",
     "lat": "1.49883688",
     "lng": "103.51806300",
-    "distance": 547.3
+    "distance": 547,
+    "duration": 6
   },
   {
     "id": 572,
@@ -29,7 +30,8 @@
     "station_code": "PN002",
     "lat": "1.50213428",
     "lng": "103.51723730",
-    "distance": 402.2
+    "distance": 402,
+    "duration": 4
   },
   {
     "id": 570,
@@ -41,11 +43,14 @@
     "lat": "1.51240861",
     "lng": "103.51201000",
     "distance": 1563,
+    "duration": 18,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 0,
         "stopId": 569,
-        "distance": 21.7
+        "distance": 21,
+        "duration": 0
       }
     ]
   },
@@ -58,12 +63,15 @@
     "station_code": "PN002",
     "lat": "1.51944856",
     "lng": "103.51379700",
-    "distance": 836.4,
+    "distance": 836,
+    "duration": 10,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 0,
         "stopId": 567,
-        "distance": 23.9
+        "distance": 23,
+        "duration": 0
       }
     ]
   },
@@ -76,12 +84,15 @@
     "station_code": "PN002",
     "lat": "1.52177000",
     "lng": "103.51451000",
-    "distance": 272.4,
+    "distance": 272,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 0,
         "stopId": 567,
-        "distance": 248.5
+        "distance": 248,
+        "duration": 2
       }
     ]
   },
@@ -94,7 +105,8 @@
     "station_code": "PN002",
     "lat": "1.52247268",
     "lng": "103.51465820",
-    "distance": 79.4
+    "distance": 79,
+    "duration": 0
   },
   {
     "id": 553,
@@ -105,12 +117,15 @@
     "station_code": "PN002",
     "lat": "1.54324593",
     "lng": "103.49380060",
-    "distance": 3571.2,
+    "distance": 3571,
+    "duration": 42,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 0,
         "stopId": 565,
-        "distance": 90.3
+        "distance": 90,
+        "duration": 1
       }
     ]
   }

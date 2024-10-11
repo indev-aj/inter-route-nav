@@ -18,7 +18,8 @@
     "station_code": null,
     "lat": "2.49032731",
     "lng": "102.79692280",
-    "distance": 1160.6
+    "distance": 1160,
+    "duration": 13
   },
   {
     "id": 2343,
@@ -29,7 +30,8 @@
     "station_code": null,
     "lat": "2.50163899",
     "lng": "102.80547800",
-    "distance": 1740.4
+    "distance": 1740,
+    "duration": 20
   },
   {
     "id": 2344,
@@ -40,6 +42,7 @@
     "station_code": null,
     "lat": "2.50091626",
     "lng": "102.80822130",
-    "distance": 315.3
+    "distance": 315,
+    "duration": 3
   }
 ]

@@ -18,12 +18,15 @@
     "station_code": null,
     "lat": "1.34326800",
     "lng": "103.46098400",
-    "distance": 627.9,
+    "distance": 627,
+    "duration": 7,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2702,
-        "distance": 48.2
+        "distance": 48,
+        "duration": 0
       }
     ]
   },
@@ -36,12 +39,15 @@
     "station_code": null,
     "lat": "1.38083700",
     "lng": "103.44206200",
-    "distance": 4694.1,
+    "distance": 4694,
+    "duration": 56,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2701,
-        "distance": 209.1
+        "distance": 209,
+        "duration": 2
       }
     ]
   },
@@ -54,12 +60,15 @@
     "station_code": null,
     "lat": "1.38670400",
     "lng": "103.43953600",
-    "distance": 707.5,
+    "distance": 707,
+    "duration": 8,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2700,
-        "distance": 46.3
+        "distance": 46,
+        "duration": 0
       }
     ]
   },
@@ -72,12 +81,15 @@
     "station_code": null,
     "lat": "1.41184000",
     "lng": "103.42620700",
-    "distance": 3154.1,
+    "distance": 3154,
+    "duration": 37,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2699,
-        "distance": 82.7
+        "distance": 82,
+        "duration": 0
       }
     ]
   },
@@ -90,7 +102,8 @@
     "station_code": null,
     "lat": "1.42103100",
     "lng": "103.42156100",
-    "distance": 1141.8
+    "distance": 1141,
+    "duration": 13
   },
   {
     "id": 2718,
@@ -101,7 +114,8 @@
     "station_code": null,
     "lat": "1.43197100",
     "lng": "103.41634200",
-    "distance": 1343.9
+    "distance": 1343,
+    "duration": 16
   },
   {
     "id": 2719,
@@ -112,7 +126,8 @@
     "station_code": null,
     "lat": "1.43621200",
     "lng": "103.41392800",
-    "distance": 540.5
+    "distance": 540,
+    "duration": 6
   },
   {
     "id": 2720,
@@ -123,12 +138,15 @@
     "station_code": null,
     "lat": "1.44225200",
     "lng": "103.41075000",
-    "distance": 777.5,
+    "distance": 777,
+    "duration": 9,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2698,
-        "distance": 59.8
+        "distance": 59,
+        "duration": 0
       }
     ]
   },
@@ -141,7 +159,8 @@
     "station_code": null,
     "lat": "1.44794500",
     "lng": "103.40784300",
-    "distance": 793.4
+    "distance": 793,
+    "duration": 9
   },
   {
     "id": 2726,
@@ -152,12 +171,15 @@
     "station_code": null,
     "lat": "1.45630600",
     "lng": "103.40373600",
-    "distance": 1032.2,
+    "distance": 1032,
+    "duration": 12,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2696,
-        "distance": 102.5
+        "distance": 102,
+        "duration": 1
       }
     ]
   },
@@ -170,12 +192,15 @@
     "station_code": null,
     "lat": "1.46326900",
     "lng": "103.40066100",
-    "distance": 843.3,
+    "distance": 843,
+    "duration": 10,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2695,
-        "distance": 121.4
+        "distance": 121,
+        "duration": 1
       }
     ]
   },
@@ -188,12 +213,15 @@
     "station_code": null,
     "lat": "1.46793900",
     "lng": "103.39826800",
-    "distance": 581.7,
+    "distance": 581,
+    "duration": 6,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2694,
-        "distance": 54.6
+        "distance": 54,
+        "duration": 0
       }
     ]
   },
@@ -207,11 +235,14 @@
     "lat": "1.47427500",
     "lng": "103.39487500",
     "distance": 796,
+    "duration": 9,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2693,
-        "distance": 88.1
+        "distance": 88,
+        "duration": 1
       }
     ]
   },
@@ -224,12 +255,15 @@
     "station_code": null,
     "lat": "1.47643200",
     "lng": "103.39364800",
-    "distance": 307.1,
+    "distance": 307,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "PN003",
+        "withBound": 1,
         "stopId": 2692,
-        "distance": 179.4
+        "distance": 179,
+        "duration": 2
       }
     ]
   }

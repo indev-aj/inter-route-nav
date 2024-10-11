@@ -11,8 +11,10 @@
     "intersections": [
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2408,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -25,17 +27,22 @@
     "station_code": "SR001",
     "lat": "1.81439752",
     "lng": "103.32087910",
-    "distance": 264.6,
+    "distance": 264,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2409,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2410,
-        "distance": 138.8
+        "distance": 138,
+        "duration": 1
       }
     ]
   },
@@ -48,12 +55,15 @@
     "station_code": "SR001",
     "lat": "1.81464080",
     "lng": "103.32035930",
-    "distance": 138.8,
+    "distance": 138,
+    "duration": 1,
     "intersections": [
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2410,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -66,12 +76,15 @@
     "station_code": "SR001",
     "lat": "1.81815000",
     "lng": "103.30809000",
-    "distance": 2479.4,
+    "distance": 2479,
+    "duration": 29,
     "intersections": [
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2411,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -84,12 +97,15 @@
     "station_code": null,
     "lat": "1.82589109",
     "lng": "103.30502750",
-    "distance": 1274.9,
+    "distance": 1274,
+    "duration": 15,
     "intersections": [
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2412,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -102,12 +118,15 @@
     "station_code": "SR001",
     "lat": "1.83181103",
     "lng": "103.30759270",
-    "distance": 1041.6,
+    "distance": 1041,
+    "duration": 12,
     "intersections": [
       {
         "withRoute": "SR001A",
+        "withBound": 2,
         "stopId": 2413,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   }

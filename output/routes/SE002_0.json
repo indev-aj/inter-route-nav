@@ -11,8 +11,10 @@
     "intersections": [
       {
         "withRoute": "SE002",
+        "withBound": 1,
         "stopId": 2316,
-        "distance": 86.9
+        "distance": 86,
+        "duration": 1
       }
     ]
   },
@@ -25,7 +27,8 @@
     "station_code": null,
     "lat": "2.54962020",
     "lng": "102.77087300",
-    "distance": 828
+    "distance": 828,
+    "duration": 9
   },
   {
     "id": 2354,
@@ -36,12 +39,15 @@
     "station_code": null,
     "lat": "2.54692042",
     "lng": "102.77841140",
-    "distance": 980.5,
+    "distance": 980,
+    "duration": 11,
     "intersections": [
       {
         "withRoute": "SE002",
+        "withBound": 1,
         "stopId": 2351,
-        "distance": 121.8
+        "distance": 121,
+        "duration": 1
       }
     ]
   },
@@ -54,7 +60,8 @@
     "station_code": null,
     "lat": "2.54751970",
     "lng": "102.78166310",
-    "distance": 379.4
+    "distance": 379,
+    "duration": 4
   },
   {
     "id": 2356,
@@ -65,7 +72,8 @@
     "station_code": null,
     "lat": "2.54791324",
     "lng": "102.78452180",
-    "distance": 355.2
+    "distance": 355,
+    "duration": 4
   },
   {
     "id": 2357,
@@ -76,7 +84,8 @@
     "station_code": null,
     "lat": "2.54829942",
     "lng": "102.78673230",
-    "distance": 248.7
+    "distance": 248,
+    "duration": 2
   },
   {
     "id": 2358,
@@ -87,7 +96,8 @@
     "station_code": null,
     "lat": "2.54753551",
     "lng": "102.78967850",
-    "distance": 337.3
+    "distance": 337,
+    "duration": 4
   },
   {
     "id": 2359,
@@ -98,7 +108,8 @@
     "station_code": null,
     "lat": "2.54515268",
     "lng": "102.79734560",
-    "distance": 960.6
+    "distance": 960,
+    "duration": 11
   },
   {
     "id": 2315,
@@ -109,7 +120,8 @@
     "station_code": "SE002",
     "lat": "2.53850000",
     "lng": "102.80280000",
-    "distance": 1097.9
+    "distance": 1097,
+    "duration": 13
   },
   {
     "id": 2360,
@@ -120,7 +132,8 @@
     "station_code": null,
     "lat": "2.52968894",
     "lng": "102.80660800",
-    "distance": 1179.7
+    "distance": 1179,
+    "duration": 14
   },
   {
     "id": 2313,
@@ -131,7 +144,8 @@
     "station_code": "SE002",
     "lat": "2.52380000",
     "lng": "102.81260000",
-    "distance": 1717.4
+    "distance": 1717,
+    "duration": 20
   },
   {
     "id": 2312,
@@ -142,7 +156,8 @@
     "station_code": "SE002",
     "lat": "2.51930000",
     "lng": "102.81730000",
-    "distance": 862.1
+    "distance": 862,
+    "duration": 10
   },
   {
     "id": 2311,
@@ -153,6 +168,7 @@
     "station_code": "SE002",
     "lat": "2.51120000",
     "lng": "102.82310000",
-    "distance": 1961.3
+    "distance": 1961,
+    "duration": 23
   }
 ]

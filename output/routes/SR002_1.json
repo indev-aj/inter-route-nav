@@ -11,13 +11,17 @@
     "intersections": [
       {
         "withRoute": "SR003",
+        "withBound": 0,
         "stopId": 1174,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 2426,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -30,6 +34,7 @@
     "station_code": "SR002",
     "lat": "1.80944811",
     "lng": "103.48110020",
-    "distance": 13390.5
+    "distance": 13390,
+    "duration": 160
   }
 ]

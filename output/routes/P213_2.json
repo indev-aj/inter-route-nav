@@ -18,7 +18,8 @@
     "station_code": null,
     "lat": "1.45214534",
     "lng": "103.58517810",
-    "distance": 3081.7
+    "distance": 3081,
+    "duration": 36
   },
   {
     "id": 211,
@@ -29,12 +30,15 @@
     "station_code": "P213",
     "lat": "1.44656000",
     "lng": "103.58969000",
-    "distance": 1023.5,
+    "distance": 1023,
+    "duration": 12,
     "intersections": [
       {
         "withRoute": "P213",
+        "withBound": 0,
         "stopId": 2873,
-        "distance": 111.3
+        "distance": 111,
+        "duration": 1
       }
     ]
   },
@@ -47,7 +51,8 @@
     "station_code": null,
     "lat": "1.44932821",
     "lng": "103.59062190",
-    "distance": 323.3
+    "distance": 323,
+    "duration": 3
   },
   {
     "id": 2620,
@@ -58,7 +63,8 @@
     "station_code": null,
     "lat": "1.45090000",
     "lng": "103.59504100",
-    "distance": 709.6
+    "distance": 709,
+    "duration": 8
   },
   {
     "id": 2622,
@@ -69,7 +75,8 @@
     "station_code": null,
     "lat": "1.41481101",
     "lng": "103.62254960",
-    "distance": 6739.5
+    "distance": 6739,
+    "duration": 80
   },
   {
     "id": 2623,
@@ -80,7 +87,8 @@
     "station_code": null,
     "lat": "1.41277340",
     "lng": "103.62275440",
-    "distance": 239.3
+    "distance": 239,
+    "duration": 2
   },
   {
     "id": 2624,
@@ -91,7 +99,8 @@
     "station_code": null,
     "lat": "1.41204442",
     "lng": "103.62574750",
-    "distance": 468.8
+    "distance": 468,
+    "duration": 5
   },
   {
     "id": 2625,
@@ -102,7 +111,8 @@
     "station_code": null,
     "lat": "1.40948418",
     "lng": "103.63010620",
-    "distance": 871.8
+    "distance": 871,
+    "duration": 10
   },
   {
     "id": 2621,
@@ -113,7 +123,8 @@
     "station_code": null,
     "lat": "1.45271630",
     "lng": "103.59878430",
-    "distance": 8008
+    "distance": 8008,
+    "duration": 96
   },
   {
     "id": 2619,
@@ -124,7 +135,8 @@
     "station_code": null,
     "lat": "1.44949593",
     "lng": "103.59095190",
-    "distance": 1039.2
+    "distance": 1039,
+    "duration": 12
   },
   {
     "id": 274,
@@ -135,6 +147,7 @@
     "station_code": "P213",
     "lat": "1.44874300",
     "lng": "103.59062300",
-    "distance": 91.3
+    "distance": 91,
+    "duration": 1
   }
 ]

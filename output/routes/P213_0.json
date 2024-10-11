@@ -18,12 +18,15 @@
     "station_code": null,
     "lat": "1.44679300",
     "lng": "103.58957400",
-    "distance": 1471.6,
+    "distance": 1471,
+    "duration": 17,
     "intersections": [
       {
         "withRoute": "P213",
+        "withBound": 2,
         "stopId": 211,
-        "distance": 111.3
+        "distance": 111,
+        "duration": 1
       }
     ]
   }

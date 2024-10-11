@@ -11,8 +11,10 @@
     "intersections": [
       {
         "withRoute": "P313",
+        "withBound": 1,
         "stopId": 458,
-        "distance": 23.3
+        "distance": 23,
+        "duration": 0
       }
     ]
   },
@@ -25,7 +27,8 @@
     "station_code": "P313",
     "lat": "1.59951154",
     "lng": "103.84117740",
-    "distance": 1747.9
+    "distance": 1747,
+    "duration": 20
   },
   {
     "id": 460,
@@ -36,7 +39,8 @@
     "station_code": "P313",
     "lat": "1.59915606",
     "lng": "103.82687290",
-    "distance": 1784.7
+    "distance": 1784,
+    "duration": 21
   },
   {
     "id": 461,
@@ -47,7 +51,8 @@
     "station_code": "P313",
     "lat": "1.60307233",
     "lng": "103.82067330",
-    "distance": 1154.5
+    "distance": 1154,
+    "duration": 13
   },
   {
     "id": 464,
@@ -58,6 +63,7 @@
     "station_code": "P313",
     "lat": "1.60817286",
     "lng": "103.82171230",
-    "distance": 592.1
+    "distance": 592,
+    "duration": 7
   }
 ]

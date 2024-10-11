@@ -18,12 +18,15 @@
     "station_code": null,
     "lat": "1.46256100",
     "lng": "103.74700600",
-    "distance": 1165.3,
+    "distance": 1165,
+    "duration": 13,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2481,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -36,17 +39,22 @@
     "station_code": null,
     "lat": "1.45745000",
     "lng": "103.74675000",
-    "distance": 1157.7,
+    "distance": 1157,
+    "duration": 13,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2478,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P101",
+        "withBound": 1,
         "stopId": 37,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -59,22 +67,29 @@
     "station_code": null,
     "lat": "1.45666191",
     "lng": "103.74939880",
-    "distance": 341.9,
+    "distance": 341,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2479,
-        "distance": 8.9
+        "distance": 8,
+        "duration": 0
       },
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2480,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P101",
+        "withBound": 1,
         "stopId": 314,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   }

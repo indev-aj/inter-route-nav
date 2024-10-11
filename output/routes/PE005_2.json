@@ -11,18 +11,24 @@
     "intersections": [
       {
         "withRoute": "PE001",
+        "withBound": 1,
         "stopId": 2369,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "PE003",
+        "withBound": 2,
         "stopId": 525,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "PE004",
+        "withBound": 1,
         "stopId": 1148,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -35,7 +41,8 @@
     "station_code": "PE005",
     "lat": "1.43666689",
     "lng": "104.27407000",
-    "distance": 17361
+    "distance": 17361,
+    "duration": 208
   },
   {
     "id": 2370,
@@ -46,12 +53,15 @@
     "station_code": null,
     "lat": "1.38728400",
     "lng": "104.27141100",
-    "distance": 6081.7,
+    "distance": 6081,
+    "duration": 72,
     "intersections": [
       {
         "withRoute": "PE002",
+        "withBound": 1,
         "stopId": 2371,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -64,7 +74,8 @@
     "station_code": "PE005",
     "lat": "1.43675291",
     "lng": "104.27395220",
-    "distance": 6466
+    "distance": 6466,
+    "duration": 77
   },
   {
     "id": 526,
@@ -75,7 +86,8 @@
     "station_code": "PE005",
     "lat": "1.51984815",
     "lng": "104.26163620",
-    "distance": 10892.1
+    "distance": 10892,
+    "duration": 130
   },
   {
     "id": 1121,
@@ -86,12 +98,15 @@
     "station_code": "PE001, PE005",
     "lat": "1.55303400",
     "lng": "104.23989600",
-    "distance": 4966.1,
+    "distance": 4966,
+    "duration": 59,
     "intersections": [
       {
         "withRoute": "PE001",
+        "withBound": 1,
         "stopId": 497,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -104,12 +119,15 @@
     "station_code": "PE001, PE005",
     "lat": "1.55360600",
     "lng": "104.23661500",
-    "distance": 377.7,
+    "distance": 377,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "PE001",
+        "withBound": 1,
         "stopId": 498,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -122,12 +140,15 @@
     "station_code": "PE001, PE005",
     "lat": "1.55326700",
     "lng": "104.23310400",
-    "distance": 399.3,
+    "distance": 399,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "PE001",
+        "withBound": 1,
         "stopId": 499,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   }

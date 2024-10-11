@@ -1,12 +1,17 @@
 import Graph from "node-dijkstra";
 import * as fs from 'fs';
 import Helper from "../helpers/helpers.js";
+import CONSTANTS from "../config/constants.js";
 
 class GraphService {
     #routeGraph = new Graph();
 
     get graph() {
-        return this.#routeGraph.graph;
+        return this.#routeGraph;
+    }
+
+    get graphSize() {
+        return this.#routeGraph.graph.size;
     }
 
     /* ****************
@@ -61,19 +66,24 @@ class GraphService {
         // Append within-route distances for Route A
         for (let i = 0; i < locationsA.length - 1; i++) {
             const distance = distances[i][i + 1];  // Distance between stops in routeA
-            routeA[i + 1].distance = distance;    // Append distance to the next stop
+            const duration = (distance / CONSTANTS.AVG_WALKING_SPEED) / 60;
+            routeA[i + 1].distance = Math.floor(distance);    // Append distance to the next stop
+            routeA[i + 1].duration = Math.floor(duration);    // Append duration to the next stop
         }
 
         // Append within-route distances for Route B
         for (let i = 0; i < locationsB.length - 1; i++) {
             const distance = distances[locationsA.length + i][locationsA.length + i + 1]; // Distance in routeB
-            routeB[i + 1].distance = distance;  // Append distance to the next stop
+            const duration = (distance / CONSTANTS.AVG_WALKING_SPEED) / 60;
+            routeB[i + 1].distance = Math.floor(distance);  // Append distance to the next stop
+            routeB[i + 1].duration = Math.floor(duration);  // Append distance to the next stop
         }
 
         // Loop through the distance matrix and check if any stop pair is within the distance threshold
         for (let i = 0; i < locationsA.length; i++) {
             for (let j = 0; j < locationsB.length; j++) {
                 const distance = distances[i][locationsA.length + j];
+                const duration = (distance / CONSTANTS.AVG_WALKING_SPEED) / 60;
                 
                 if (distance !== null && distance <= distanceThreshold) {
 
@@ -87,13 +97,14 @@ class GraphService {
                         to: routeB[j].name,
                         fromRoute: routeA[i].route,
                         toRoute: routeB[j].route,
-                        fromBoundtype: routeA[i].bound_type,
-                        toBoundtype: routeB[j].bound_type,
+                        fromBoundType: routeA[i].bound_type,
+                        toBoundType: routeB[j].bound_type,
                         fromSequence: routeA[i].sequence,
                         toSequence:  routeB[j].sequence,
                         originLocation: origin,
                         destinationLocation: destination,
-                        distance: distance
+                        distance: Math.floor(distance),
+                        duration:  Math.floor(duration)
                     });
                 }
             }
@@ -133,7 +144,7 @@ class GraphService {
         try {
             for (let i = 0; i < route.length; i++) {
                 currentStop = route[i];
-                currentNode = `${currentStop.route}_${currentStop.id}`;
+                currentNode = `${currentStop.route}::${currentStop.bound_type}::${currentStop.id}`;
     
                 // Get existing connections for the current node, if it exists
                 let existingConnections = this.#routeGraph.graph.get(currentNode) || {};
@@ -142,16 +153,21 @@ class GraphService {
                 if (i === route.length - 1) {
                     // Handle the last stop, which doesn't have a "next" stop
                     
-    
                     // Add any intersections for the last stop, if available
                     if (currentStop.intersections) {
                         currentStop.intersections.forEach(intersection => {
-                            const toNode = `${intersection.withRoute}_${intersection.stopId}`;
+                            const toNode = `${intersection.withRoute}::${intersection.withBound}::${intersection.stopId}`;
                             let distance = intersection.distance;
+                            let duration = intersection.duration;
     
                             // Force distance cost to be at least 1 
-                            if (!distance || distance <= 0) distance = 1;
-                            existingConnections[toNode] = distance;
+                            if (!distance || distance <= 0 || !duration || duration <= 0) {
+                                distance = 1;
+                                duration = 1;
+                            }
+
+                            const cost = `${distance}.${duration}`;
+                            existingConnections[toNode] = Number(cost);
                         });
                     }
     
@@ -160,24 +176,35 @@ class GraphService {
                 } else {
                     // Handle stops that have a "next" stop
                     nextStop = route[i + 1];
-                    nextNode = `${nextStop.route}_${nextStop.id}`;
+                    nextNode = `${nextStop.route}::${nextStop.bound_type}::${nextStop.id}`;
     
                     let distance = nextStop.distance;
-    
+                    let duration = nextStop.duration;
+                    
                     // Force distance cost to be at least 1
-                    if (!distance || distance <= 0) distance = 1;
-    
-                    const neighbors = { ...existingConnections, [nextNode]: distance };
+                    if (!distance || distance <= 0 || !duration || duration <= 0) {
+                        distance = 1;
+                        duration = 1;
+                    }
+                    
+                    const cost = `${distance}.${duration}`;
+                    const neighbors = { ...existingConnections, [nextNode]: Number(cost) };
     
                     // Add intersections, if any
                     if (currentStop.intersections) {
                         currentStop.intersections.forEach(intersection => {
-                            const toNode = `${intersection.withRoute}_${intersection.stopId}`;
+                            const toNode = `${intersection.withRoute}::${intersection.withBound}::${intersection.stopId}`;
                             let distance = intersection.distance;
+                            let duration = intersection.duration;
     
                             // Force distance cost to be at least 1 
-                            if (!distance || distance <= 0) distance = 1;
-                            neighbors[toNode] = distance;
+                            if (!distance || distance <= 0 || !duration || duration <= 0) {
+                                distance = 1;
+                                duration = 1;
+                            }
+
+                            const cost = `${distance}.${duration}`;
+                            neighbors[toNode] = Number(cost);
                         });
                     }
     
@@ -196,6 +223,7 @@ class GraphService {
             const fromStopId = intersection.fromStopId;
             const toStopId = intersection.toStopId;
             const distance = intersection.distance;
+            const duration = intersection.duration;
 
             // Find the stop in routeA that matches the fromStopId
             const fromStop = routeA.find(stop => stop.id === fromStopId);
@@ -207,8 +235,10 @@ class GraphService {
                 // Add the intersection info to the stop in routeA
                 fromStop.intersections.push({
                     withRoute: intersection.toRoute,
+                    withBound: intersection.toBoundType,
                     stopId: toStopId,
-                    distance: distance
+                    distance: distance,
+                    duration: duration
                 });
             }
 
@@ -223,8 +253,10 @@ class GraphService {
                 // Add the intersection info to the stop in routeB
                 toStop.intersections.push({
                     withRoute: intersection.fromRoute,
+                    withBound: intersection.fromBoundType,
                     stopId: fromStopId,
-                    distance: distance
+                    distance: distance,
+                    duration: duration
                 });
             }
         });
@@ -262,6 +294,100 @@ class GraphService {
         // Backtrack: unmark the current node and remove it from the path
         path.pop();
         visited.delete(currentNode);
+    }
+
+    /**
+     * Filters the provided path by removing consecutive stops that are considered the same.
+     * 
+     * This function checks for consecutive stops in the path that are considered the same (based on the `sameStop` property).
+     * If two consecutive stops are marked as the same, the first stop is skipped and the second is added to the filtered path.
+     * 
+     * @private
+     * @param {Array<string>} paths - An array representing the path of stops (each stop is represented as a string).
+     * @returns {Array<string>} - A filtered array of stops where consecutive "same stops" are removed.
+     * 
+     * @example
+     * // Given a path:
+     * const path = ['StopA', 'StopB', 'StopB', 'StopC'];
+     * 
+     * // After filtering:
+     * const filtered = this.#filterPath(path);
+     * console.log(filtered); // ['StopA', 'StopB', 'StopC']
+     * 
+     */
+    #filterPath(paths) {
+        const filteredPath = [];
+        let i = 0;
+    
+        for (let i = 0; i < paths.length; i++) {
+            const currentStop = paths[i];
+            const nextStop = paths[i + 1];
+
+            if (!nextStop) {
+                filteredPath.push(currentStop);
+                break;
+            }
+
+            const sameStop = this.#isSameStop(currentStop, nextStop);
+            if (sameStop) continue;
+            
+            filteredPath.push(currentStop);
+        }
+    
+        // get the cost
+        const pathWithCosts = filteredPath.map((currentStop, index) => {
+            const nextStop = filteredPath[index + 1];
+            
+            if (nextStop) {
+                const node = this.#routeGraph.graph.get(currentStop);
+                
+                if (node) {
+                    const cost = node.get(nextStop);
+                    const [ distance, duration ] = String(cost).split(".");
+
+                    return { stop: currentStop, nextStop: nextStop, duration: duration, distance: distance };
+                }
+            }
+            
+            return { stop: currentStop, nextStop: null, duration: null, distance: null };
+        });
+
+        // filter to set whether user should drop off and hop on to certain stops
+        const routeBound = pathWithCosts.map((currentStop, index) => {
+            const nextStop = pathWithCosts[index + 1];
+        
+            let nextStopRoute, nextStopBound;
+            if (nextStop) [nextStopRoute, nextStopBound] = nextStop.stop.split("::");
+        
+            const [currentStopRoute, currentStopBound] = currentStop.stop.split("::");
+        
+            // If the next stop has a different route or bound, mark dropOff for current, mark hop on for next stop
+            if (nextStop && (nextStopRoute !== currentStopRoute || nextStopBound !== currentStopBound)) {
+                currentStop.dropOff = true;
+                nextStop.hopOn = true;
+
+                currentStop.mode = "walk";
+            } else {
+                currentStop.mode = "bus";
+            }
+        
+            return currentStop;
+        });
+        
+        return routeBound;
+    }
+
+    #isSameStop(current, next) {
+        const currentStop = this.#routeGraph.graph.get(current);
+        const currentStopNeighbors = Array.from(currentStop.entries()); 
+
+        for (const [neighbor, distance] of currentStopNeighbors) {
+            if (neighbor === next) {
+                if (distance < 10) return true;
+            }
+        }
+
+        return false;        
     }
 
     /* ****************
@@ -341,7 +467,10 @@ class GraphService {
     }
 
     findShortestPath(origin, destination, options = { cost: false }) {
-        return this.#routeGraph.path(origin, destination, options);
+        const shortestPath = this.#routeGraph.path(origin, destination, options);
+    
+        // Check for any unnecessary route switches between physically identical stops
+        return this.#filterPath(shortestPath)
     }
 
     findAllPaths(startNode, endNode) {
@@ -352,8 +481,18 @@ class GraphService {
         const startTime = Date.now(); // Start the timer
         console.log("Finding all possible routes. This might take up to 10 seconds...");
         this.#findAllPathsRecursive(startNode, endNode, visited, path, allPaths, startTime);
-        
-        return allPaths;
+
+        // filter the paths
+        const uniquePaths = new Set();
+        if (allPaths.length > 0) {
+            allPaths.forEach((p => {
+                const filteredPath = this.#filterPath(p);
+                uniquePaths.add(JSON.stringify(filteredPath));
+            }))
+        }
+
+        console.log("Path finding finished\n")
+        return Array.from(uniquePaths).map(p => JSON.parse(p)); // Convert strings back to arrays
     }
 }
 

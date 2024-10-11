@@ -11,13 +11,17 @@
     "intersections": [
       {
         "withRoute": "YP001",
+        "withBound": 1,
         "stopId": 734,
-        "distance": 16
+        "distance": 16,
+        "duration": 0
       },
       {
         "withRoute": "YP001",
+        "withBound": 1,
         "stopId": 743,
-        "distance": 99.9
+        "distance": 99,
+        "duration": 1
       }
     ]
   },
@@ -30,7 +34,8 @@
     "station_code": "YP001",
     "lat": "2.01020000",
     "lng": "103.05780000",
-    "distance": 306.7
+    "distance": 306,
+    "duration": 3
   },
   {
     "id": 737,
@@ -41,6 +46,7 @@
     "station_code": "YP001",
     "lat": "2.01070000",
     "lng": "103.06720000",
-    "distance": 1118.6
+    "distance": 1118,
+    "duration": 13
   }
 ]

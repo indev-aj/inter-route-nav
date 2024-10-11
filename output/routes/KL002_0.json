@@ -18,7 +18,8 @@
     "station_code": "KL002",
     "lat": "2.02570014",
     "lng": "103.33068580",
-    "distance": 1978.3
+    "distance": 1978,
+    "duration": 23
   },
   {
     "id": 1014,
@@ -29,12 +30,15 @@
     "station_code": "KL001, KL002",
     "lat": "2.02768079",
     "lng": "103.31704910",
-    "distance": 2364.9,
+    "distance": 2364,
+    "duration": 28,
     "intersections": [
       {
         "withRoute": "KL001",
+        "withBound": 0,
         "stopId": 581,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -47,6 +51,7 @@
     "station_code": null,
     "lat": "2.03239168",
     "lng": "103.31702620",
-    "distance": 657.3
+    "distance": 657,
+    "duration": 7
   }
 ]

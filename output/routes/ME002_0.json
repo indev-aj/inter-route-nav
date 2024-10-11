@@ -18,7 +18,8 @@
     "station_code": "ME002",
     "lat": "2.49332921",
     "lng": "103.81727800",
-    "distance": 3472.7
+    "distance": 3472,
+    "duration": 41
   },
   {
     "id": 651,
@@ -29,6 +30,7 @@
     "station_code": "ME002",
     "lat": "2.43941000",
     "lng": "103.83750000",
-    "distance": 6645.8
+    "distance": 6645,
+    "duration": 79
   }
 ]

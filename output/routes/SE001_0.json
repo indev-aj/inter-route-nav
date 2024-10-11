@@ -18,7 +18,8 @@
     "station_code": null,
     "lat": "2.49154975",
     "lng": "102.84232740",
-    "distance": 830.8
+    "distance": 830,
+    "duration": 9
   },
   {
     "id": 2367,
@@ -29,7 +30,8 @@
     "station_code": null,
     "lat": "2.49387896",
     "lng": "102.83772410",
-    "distance": 572.7
+    "distance": 572,
+    "duration": 6
   },
   {
     "id": 2306,
@@ -40,6 +42,7 @@
     "station_code": "SE001",
     "lat": "2.49460100",
     "lng": "102.83626700",
-    "distance": 180.7
+    "distance": 180,
+    "duration": 2
   }
 ]

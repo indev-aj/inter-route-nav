@@ -11,13 +11,17 @@
     "intersections": [
       {
         "withRoute": "ME001",
+        "withBound": 1,
         "stopId": 656,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "ME004",
+        "withBound": 1,
         "stopId": 2653,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -30,12 +34,15 @@
     "station_code": "ME002",
     "lat": "2.43299567",
     "lng": "103.83449490",
-    "distance": 559.2,
+    "distance": 559,
+    "duration": 6,
     "intersections": [
       {
         "withRoute": "ME004",
+        "withBound": 1,
         "stopId": 2805,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -48,7 +55,8 @@
     "station_code": "ME002",
     "lat": "2.44939702",
     "lng": "103.83201850",
-    "distance": 2006.6
+    "distance": 2006,
+    "duration": 24
   },
   {
     "id": 650,
@@ -59,7 +67,8 @@
     "station_code": "ME002",
     "lat": "2.45407200",
     "lng": "103.83030700",
-    "distance": 583.5
+    "distance": 583,
+    "duration": 6
   },
   {
     "id": 649,
@@ -70,7 +79,8 @@
     "station_code": "ME002",
     "lat": "2.48717470",
     "lng": "103.81737910",
-    "distance": 4091.1
+    "distance": 4091,
+    "duration": 49
   },
   {
     "id": 648,
@@ -81,7 +91,8 @@
     "station_code": "ME002",
     "lat": "2.50735149",
     "lng": "103.82731390",
-    "distance": 2876
+    "distance": 2876,
+    "duration": 34
   },
   {
     "id": 665,
@@ -92,6 +103,7 @@
     "station_code": "ME002",
     "lat": "2.51616020",
     "lng": "103.83433170",
-    "distance": 1617.1
+    "distance": 1617,
+    "duration": 19
   }
 ]

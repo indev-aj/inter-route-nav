@@ -11,8 +11,10 @@
     "intersections": [
       {
         "withRoute": "BP002",
+        "withBound": 1,
         "stopId": 1137,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -25,7 +27,8 @@
     "station_code": "BP001, BP002",
     "lat": "1.84783893",
     "lng": "102.93475030",
-    "distance": 1384
+    "distance": 1384,
+    "duration": 16
   },
   {
     "id": 728,
@@ -36,7 +39,8 @@
     "station_code": "BP001",
     "lat": "1.84685600",
     "lng": "102.93715000",
-    "distance": 577.6
+    "distance": 577,
+    "duration": 6
   },
   {
     "id": 710,
@@ -47,7 +51,8 @@
     "station_code": "BP001",
     "lat": "1.84500000",
     "lng": "102.93467000",
-    "distance": 496.9
+    "distance": 496,
+    "duration": 5
   },
   {
     "id": 711,
@@ -58,7 +63,8 @@
     "station_code": "BP001",
     "lat": "1.84304800",
     "lng": "102.93482300",
-    "distance": 270.9
+    "distance": 270,
+    "duration": 3
   },
   {
     "id": 712,
@@ -69,7 +75,8 @@
     "station_code": "BP001",
     "lat": "1.83879300",
     "lng": "102.93837800",
-    "distance": 621.2
+    "distance": 621,
+    "duration": 7
   },
   {
     "id": 713,
@@ -80,7 +87,8 @@
     "station_code": "BP001",
     "lat": "1.83670000",
     "lng": "102.94069300",
-    "distance": 523.1
+    "distance": 523,
+    "duration": 6
   },
   {
     "id": 714,
@@ -91,7 +99,8 @@
     "station_code": "BP001",
     "lat": "1.83691400",
     "lng": "102.93762700",
-    "distance": 498.8
+    "distance": 498,
+    "duration": 5
   },
   {
     "id": 715,
@@ -102,7 +111,8 @@
     "station_code": "BP001",
     "lat": "1.83818600",
     "lng": "102.93438400",
-    "distance": 557.9
+    "distance": 557,
+    "duration": 6
   },
   {
     "id": 716,
@@ -113,7 +123,8 @@
     "station_code": "BP001",
     "lat": "1.83974400",
     "lng": "102.93097200",
-    "distance": 595.2
+    "distance": 595,
+    "duration": 7
   },
   {
     "id": 717,
@@ -124,7 +135,8 @@
     "station_code": "BP001",
     "lat": "1.84249000",
     "lng": "102.92645600",
-    "distance": 762.3
+    "distance": 762,
+    "duration": 9
   },
   {
     "id": 718,
@@ -135,6 +147,7 @@
     "station_code": "BP001",
     "lat": "1.84747600",
     "lng": "102.92472700",
-    "distance": 720.9
+    "distance": 720,
+    "duration": 8
   }
 ]

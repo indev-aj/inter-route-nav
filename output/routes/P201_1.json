@@ -11,18 +11,24 @@
     "intersections": [
       {
         "withRoute": "P202",
+        "withBound": 1,
         "stopId": 901,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 1051,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P214",
+        "withBound": 1,
         "stopId": 1034,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -35,17 +41,22 @@
     "station_code": "P201,P211",
     "lat": "1.54210000",
     "lng": "103.62989000",
-    "distance": 1066.7,
+    "distance": 1066,
+    "duration": 12,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2598,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 0,
         "stopId": 2670,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -58,7 +69,8 @@
     "station_code": "P201",
     "lat": "1.54457300",
     "lng": "103.62492700",
-    "distance": 756.4
+    "distance": 756,
+    "duration": 9
   },
   {
     "id": 234,
@@ -69,7 +81,8 @@
     "station_code": "P201",
     "lat": "1.54722000",
     "lng": "103.62244000",
-    "distance": 402.9
+    "distance": 402,
+    "duration": 4
   },
   {
     "id": 190,
@@ -80,7 +93,8 @@
     "station_code": "P201",
     "lat": "1.55060400",
     "lng": "103.62423900",
-    "distance": 521.4
+    "distance": 521,
+    "duration": 6
   },
   {
     "id": 225,
@@ -91,7 +105,8 @@
     "station_code": "P201",
     "lat": "1.56112000",
     "lng": "103.61677000",
-    "distance": 1852.7
+    "distance": 1852,
+    "duration": 22
   },
   {
     "id": 55,
@@ -102,12 +117,15 @@
     "station_code": "P201",
     "lat": "1.56777000",
     "lng": "103.61303000",
-    "distance": 1161.7,
+    "distance": 1161,
+    "duration": 13,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2592,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -120,12 +138,15 @@
     "station_code": "P201",
     "lat": "1.57053000",
     "lng": "103.61225000",
-    "distance": 321.4,
+    "distance": 321,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2593,
-        "distance": -0.1
+        "distance": -1,
+        "duration": -1
       }
     ]
   },
@@ -138,12 +159,15 @@
     "station_code": "P201",
     "lat": "1.57152000",
     "lng": "103.61407100",
-    "distance": 296.8,
+    "distance": 296,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2594,
-        "distance": 176.2
+        "distance": 176,
+        "duration": 2
       }
     ]
   },
@@ -156,17 +180,22 @@
     "station_code": "P201",
     "lat": "1.57138837",
     "lng": "103.61708340",
-    "distance": 335.4,
+    "distance": 335,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2594,
-        "distance": 159.2
+        "distance": 159,
+        "duration": 1
       },
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2595,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -179,12 +208,15 @@
     "station_code": "P201",
     "lat": "1.56858000",
     "lng": "103.61893000",
-    "distance": 514.7,
+    "distance": 514,
+    "duration": 6,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2596,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -197,12 +229,15 @@
     "station_code": "P201",
     "lat": "1.56359200",
     "lng": "103.61887000",
-    "distance": 551.7,
+    "distance": 551,
+    "duration": 6,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 2597,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -215,7 +250,8 @@
     "station_code": "P201",
     "lat": "1.56236900",
     "lng": "103.61769900",
-    "distance": 297.3
+    "distance": 297,
+    "duration": 3
   },
   {
     "id": 193,
@@ -226,7 +262,8 @@
     "station_code": "P201",
     "lat": "1.56557400",
     "lng": "103.61174100",
-    "distance": 759.2
+    "distance": 759,
+    "duration": 9
   },
   {
     "id": 99,
@@ -237,7 +274,8 @@
     "station_code": "P201",
     "lat": "1.56642700",
     "lng": "103.60589400",
-    "distance": 668.6
+    "distance": 668,
+    "duration": 8
   },
   {
     "id": 44,
@@ -248,12 +286,15 @@
     "station_code": "P201",
     "lat": "1.55796900",
     "lng": "103.59496100",
-    "distance": 1650.3,
+    "distance": 1650,
+    "duration": 19,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 45,
-        "distance": -1
+        "distance": -1,
+        "duration": -1
       }
     ]
   },
@@ -266,12 +307,15 @@
     "station_code": "P201",
     "lat": "1.55717500",
     "lng": "103.59353800",
-    "distance": 182.6,
+    "distance": 182,
+    "duration": 2,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 45,
-        "distance": 183.6
+        "distance": 183,
+        "duration": 2
       }
     ]
   },
@@ -284,7 +328,8 @@
     "station_code": "P201",
     "lat": "1.55338900",
     "lng": "103.58884700",
-    "distance": 1149.8
+    "distance": 1149,
+    "duration": 13
   },
   {
     "id": 51,
@@ -295,7 +340,8 @@
     "station_code": "P201",
     "lat": "1.55336100",
     "lng": "103.58584600",
-    "distance": 333.9
+    "distance": 333,
+    "duration": 4
   },
   {
     "id": 120,
@@ -306,12 +352,15 @@
     "station_code": "P201",
     "lat": "1.55160900",
     "lng": "103.58068500",
-    "distance": 669.9,
+    "distance": 669,
+    "duration": 8,
     "intersections": [
       {
         "withRoute": "P201",
+        "withBound": 2,
         "stopId": 145,
-        "distance": 247.8
+        "distance": 247,
+        "duration": 2
       }
     ]
   },
@@ -324,6 +373,7 @@
     "station_code": "P201",
     "lat": "1.54362500",
     "lng": "103.58337700",
-    "distance": 1177.4
+    "distance": 1177,
+    "duration": 14
   }
 ]

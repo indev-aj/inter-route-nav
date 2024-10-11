@@ -18,7 +18,8 @@
     "station_code": "P111",
     "lat": "1.57320329",
     "lng": "103.75946250",
-    "distance": 6280.5
+    "distance": 6280,
+    "duration": 75
   },
   {
     "id": 127,
@@ -29,7 +30,8 @@
     "station_code": "P111",
     "lat": "1.56643100",
     "lng": "103.75938300",
-    "distance": 1913.5
+    "distance": 1913,
+    "duration": 22
   },
   {
     "id": 164,
@@ -40,6 +42,7 @@
     "station_code": "P111",
     "lat": "1.56494000",
     "lng": "103.76255000",
-    "distance": 1112.5
+    "distance": 1112,
+    "duration": 13
   }
 ]

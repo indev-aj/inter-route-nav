@@ -11,38 +11,52 @@
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2471,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P103",
+        "withBound": 1,
         "stopId": 1216,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P104",
+        "withBound": 2,
         "stopId": 1217,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P113",
+        "withBound": 1,
         "stopId": 1221,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P113-01",
+        "withBound": 0,
         "stopId": 2880,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 0,
         "stopId": 1236,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P411",
+        "withBound": 1,
         "stopId": 1232,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -55,27 +69,36 @@
     "station_code": "P101, P104, P211, P411",
     "lat": "1.49168658",
     "lng": "103.74089400",
-    "distance": 438.5,
+    "distance": 438,
+    "duration": 5,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2472,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P104",
+        "withBound": 2,
         "stopId": 1170,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 0,
         "stopId": 1088,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P411",
+        "withBound": 0,
         "stopId": 1162,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -88,12 +111,15 @@
     "station_code": "P101",
     "lat": "1.47222950",
     "lng": "103.73677320",
-    "distance": 2332.4,
+    "distance": 2332,
+    "duration": 27,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2473,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -106,12 +132,15 @@
     "station_code": "P101",
     "lat": "1.46873000",
     "lng": "103.73679000",
-    "distance": 386.9,
+    "distance": 386,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2474,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -124,17 +153,22 @@
     "station_code": "P101",
     "lat": "1.46734971",
     "lng": "103.73679890",
-    "distance": 152.5,
+    "distance": 152,
+    "duration": 1,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2474,
-        "distance": 152.5
+        "distance": 152,
+        "duration": 1
       },
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2475,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -147,12 +181,15 @@
     "station_code": "P101",
     "lat": "1.46258180",
     "lng": "103.73963820",
-    "distance": 667.4,
+    "distance": 667,
+    "duration": 8,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2476,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -165,17 +202,22 @@
     "station_code": "P101",
     "lat": "1.46209000",
     "lng": "103.74076000",
-    "distance": 136.2,
+    "distance": 136,
+    "duration": 1,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2476,
-        "distance": 136.2
+        "distance": 136,
+        "duration": 1
       },
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2477,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -188,17 +230,22 @@
     "station_code": "P101",
     "lat": "1.45745000",
     "lng": "103.74675000",
-    "distance": 1143.3,
+    "distance": 1143,
+    "duration": 13,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2478,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "HSA-01",
+        "withBound": 0,
         "stopId": 2878,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -211,22 +258,29 @@
     "station_code": "P101",
     "lat": "1.45666191",
     "lng": "103.74939880",
-    "distance": 341.9,
+    "distance": 341,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2479,
-        "distance": 8.9
+        "distance": 8,
+        "duration": 0
       },
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2480,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "HSA-01",
+        "withBound": 0,
         "stopId": 2879,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -239,7 +293,8 @@
     "station_code": "P101",
     "lat": "1.45965700",
     "lng": "103.76208400",
-    "distance": 2183.2
+    "distance": 2183,
+    "duration": 26
   },
   {
     "id": 235,
@@ -250,7 +305,8 @@
     "station_code": "P101",
     "lat": "1.46078300",
     "lng": "103.75775500",
-    "distance": 1026.1
+    "distance": 1026,
+    "duration": 12
   },
   {
     "id": 313,
@@ -261,7 +317,8 @@
     "station_code": "P101",
     "lat": "1.46077441",
     "lng": "103.75775900",
-    "distance": -1
+    "distance": -1,
+    "duration": -1
   },
   {
     "id": 312,
@@ -272,12 +329,15 @@
     "station_code": "P101, P102",
     "lat": "1.45552249",
     "lng": "103.76171920",
-    "distance": 940.2,
+    "distance": 940,
+    "duration": 11,
     "intersections": [
       {
         "withRoute": "P102",
+        "withBound": 1,
         "stopId": 1096,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -290,17 +350,22 @@
     "station_code": "P101, P102, P311",
     "lat": "1.46338278",
     "lng": "103.76490120",
-    "distance": 1332.4,
+    "distance": 1332,
+    "duration": 15,
     "intersections": [
       {
         "withRoute": "P102",
+        "withBound": 1,
         "stopId": 1169,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P311",
+        "withBound": 1,
         "stopId": 1095,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -313,12 +378,15 @@
     "station_code": "P101",
     "lat": "1.46218000",
     "lng": "103.77201000",
-    "distance": 1704.6,
+    "distance": 1704,
+    "duration": 20,
     "intersections": [
       {
         "withRoute": "P311",
+        "withBound": 0,
         "stopId": 2448,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -331,7 +399,8 @@
     "station_code": "P101",
     "lat": "1.47292000",
     "lng": "103.74886000",
-    "distance": 3740.6
+    "distance": 3740,
+    "duration": 44
   },
   {
     "id": 319,
@@ -342,7 +411,8 @@
     "station_code": "P101",
     "lat": "1.47516351",
     "lng": "103.74789930",
-    "distance": 269.6
+    "distance": 269,
+    "duration": 3
   },
   {
     "id": 139,
@@ -353,7 +423,8 @@
     "station_code": "P101",
     "lat": "1.47844000",
     "lng": "103.74759000",
-    "distance": 365.4
+    "distance": 365,
+    "duration": 4
   },
   {
     "id": 318,
@@ -364,6 +435,7 @@
     "station_code": "P101",
     "lat": "1.48094023",
     "lng": "103.74737270",
-    "distance": 277.5
+    "distance": 277,
+    "duration": 3
   }
 ]

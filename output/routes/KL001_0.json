@@ -18,7 +18,8 @@
     "station_code": "KL001",
     "lat": "2.01633233",
     "lng": "103.29456810",
-    "distance": 997.1
+    "distance": 997,
+    "duration": 11
   },
   {
     "id": 591,
@@ -29,7 +30,8 @@
     "station_code": "KL001",
     "lat": "2.01758270",
     "lng": "103.29784730",
-    "distance": 391.1
+    "distance": 391,
+    "duration": 4
   },
   {
     "id": 592,
@@ -40,7 +42,8 @@
     "station_code": "KL001",
     "lat": "2.01718145",
     "lng": "103.30053680",
-    "distance": 936.3
+    "distance": 936,
+    "duration": 11
   },
   {
     "id": 593,
@@ -51,7 +54,8 @@
     "station_code": "KL001",
     "lat": "2.01163377",
     "lng": "103.30392370",
-    "distance": 722.5
+    "distance": 722,
+    "duration": 8
   },
   {
     "id": 594,
@@ -62,7 +66,8 @@
     "station_code": "KL001",
     "lat": "2.00463210",
     "lng": "103.31932710",
-    "distance": 2651.2
+    "distance": 2651,
+    "duration": 31
   },
   {
     "id": 595,
@@ -73,12 +78,15 @@
     "station_code": "KL001, SR004",
     "lat": "2.00722671",
     "lng": "103.32237220",
-    "distance": 596.4,
+    "distance": 596,
+    "duration": 7,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 1017,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -91,12 +99,15 @@
     "station_code": "KL001, SR004",
     "lat": "2.01074388",
     "lng": "103.32159630",
-    "distance": 445.2,
+    "distance": 445,
+    "duration": 5,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 1186,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -109,12 +120,15 @@
     "station_code": "KL001, KL002",
     "lat": "2.02768079",
     "lng": "103.31704910",
-    "distance": 2059.7,
+    "distance": 2059,
+    "duration": 24,
     "intersections": [
       {
         "withRoute": "KL002",
+        "withBound": 0,
         "stopId": 1014,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   }

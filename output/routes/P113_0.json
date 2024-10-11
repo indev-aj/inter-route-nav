@@ -18,12 +18,15 @@
     "station_code": "P113",
     "lat": "1.52076304",
     "lng": "103.72642130",
-    "distance": 940.1,
+    "distance": 940,
+    "duration": 11,
     "intersections": [
       {
         "withRoute": "P113",
+        "withBound": 1,
         "stopId": 68,
-        "distance": 224.9
+        "distance": 224,
+        "duration": 2
       }
     ]
   },
@@ -36,12 +39,15 @@
     "station_code": "P113",
     "lat": "1.52556564",
     "lng": "103.72320420",
-    "distance": 640.8,
+    "distance": 640,
+    "duration": 7,
     "intersections": [
       {
         "withRoute": "P113",
+        "withBound": 1,
         "stopId": 347,
-        "distance": 188.6
+        "distance": 188,
+        "duration": 2
       }
     ]
   }

@@ -18,7 +18,8 @@
     "station_code": null,
     "lat": "2.64715900",
     "lng": "103.63757600",
-    "distance": 1338.1
+    "distance": 1338,
+    "duration": 16
   },
   {
     "id": 674,
@@ -29,7 +30,8 @@
     "station_code": "ME003",
     "lat": "2.64574793",
     "lng": "103.65674430",
-    "distance": 2148.1
+    "distance": 2148,
+    "duration": 25
   },
   {
     "id": 671,
@@ -40,12 +42,15 @@
     "station_code": "ME003",
     "lat": "2.62791945",
     "lng": "103.72003650",
-    "distance": 7505.3,
+    "distance": 7505,
+    "duration": 89,
     "intersections": [
       {
         "withRoute": "ME003",
+        "withBound": 1,
         "stopId": 670,
-        "distance": 162
+        "distance": 162,
+        "duration": 1
       }
     ]
   },
@@ -58,6 +63,7 @@
     "station_code": "ME003",
     "lat": "2.62493707",
     "lng": "103.74533570",
-    "distance": 3626.2
+    "distance": 3626,
+    "duration": 43
   }
 ]

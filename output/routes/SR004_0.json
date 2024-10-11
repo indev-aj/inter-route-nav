@@ -11,18 +11,24 @@
     "intersections": [
       {
         "withRoute": "KL001",
+        "withBound": 1,
         "stopId": 2495,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "KL002",
+        "withBound": 1,
         "stopId": 1001,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "KL003",
+        "withBound": 1,
         "stopId": 2657,
-        "distance": -0.1
+        "distance": -1,
+        "duration": -1
       }
     ]
   },
@@ -35,7 +41,8 @@
     "station_code": "SR004",
     "lat": "2.02773386",
     "lng": "103.31804350",
-    "distance": 1528
+    "distance": 1528,
+    "duration": 18
   },
   {
     "id": 644,
@@ -46,12 +53,15 @@
     "station_code": "SR004",
     "lat": "2.00159269",
     "lng": "103.32386630",
-    "distance": 2986.6,
+    "distance": 2986,
+    "duration": 35,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 645,
-        "distance": 46.4
+        "distance": 46,
+        "duration": 0
       }
     ]
   },
@@ -64,12 +74,15 @@
     "station_code": "SR004",
     "lat": "1.99784699",
     "lng": "103.32472120",
-    "distance": 425.1,
+    "distance": 425,
+    "duration": 5,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 643,
-        "distance": 39.1
+        "distance": 39,
+        "duration": 0
       }
     ]
   },
@@ -82,12 +95,15 @@
     "station_code": "SR004",
     "lat": "1.94186015",
     "lng": "103.35298660",
-    "distance": 7493.1,
+    "distance": 7493,
+    "duration": 89,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 640,
-        "distance": 5.1
+        "distance": 5,
+        "duration": 0
       }
     ]
   },
@@ -100,12 +116,15 @@
     "station_code": "SR004",
     "lat": "1.93825343",
     "lng": "103.35580870",
-    "distance": 509.2,
+    "distance": 509,
+    "duration": 6,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 637,
-        "distance": 40.4
+        "distance": 40,
+        "duration": 0
       }
     ]
   },
@@ -118,12 +137,15 @@
     "station_code": "SR004",
     "lat": "1.92264694",
     "lng": "103.37185970",
-    "distance": 2542.8,
+    "distance": 2542,
+    "duration": 30,
     "intersections": [
       {
         "withRoute": "SR004",
+        "withBound": 1,
         "stopId": 635,
-        "distance": 28.8
+        "distance": 28,
+        "duration": 0
       }
     ]
   }

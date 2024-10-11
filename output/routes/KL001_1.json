@@ -11,18 +11,24 @@
     "intersections": [
       {
         "withRoute": "KL002",
+        "withBound": 1,
         "stopId": 1001,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "KL003",
+        "withBound": 1,
         "stopId": 2657,
-        "distance": -0.1
+        "distance": -1,
+        "duration": -1
       },
       {
         "withRoute": "SR004",
+        "withBound": 0,
         "stopId": 1002,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -35,7 +41,8 @@
     "station_code": "KL001",
     "lat": "2.02878014",
     "lng": "103.30164380",
-    "distance": 3894.2
+    "distance": 3894,
+    "duration": 46
   },
   {
     "id": 585,
@@ -46,7 +53,8 @@
     "station_code": "KL001",
     "lat": "2.02165786",
     "lng": "103.29412710",
-    "distance": 2006.6
+    "distance": 2006,
+    "duration": 24
   },
   {
     "id": 586,
@@ -57,7 +65,8 @@
     "station_code": "KL001",
     "lat": "2.01371580",
     "lng": "103.29671120",
-    "distance": 951.9
+    "distance": 951,
+    "duration": 11
   },
   {
     "id": 587,
@@ -68,7 +77,8 @@
     "station_code": "KL001",
     "lat": "2.01168014",
     "lng": "103.29295370",
-    "distance": 681
+    "distance": 681,
+    "duration": 8
   },
   {
     "id": 588,
@@ -79,6 +89,7 @@
     "station_code": "KL001",
     "lat": "2.01016736",
     "lng": "103.28503910",
-    "distance": 1056
+    "distance": 1056,
+    "duration": 12
   }
 ]

@@ -11,8 +11,10 @@
     "intersections": [
       {
         "withRoute": "BP001",
+        "withBound": 1,
         "stopId": 727,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -25,7 +27,8 @@
     "station_code": null,
     "lat": "1.85578300",
     "lng": "102.94732600",
-    "distance": 3200.5
+    "distance": 3200,
+    "duration": 38
   },
   {
     "id": 2627,
@@ -36,7 +39,8 @@
     "station_code": null,
     "lat": "1.86001900",
     "lng": "102.95021000",
-    "distance": 598.7
+    "distance": 598,
+    "duration": 7
   },
   {
     "id": 2628,
@@ -47,7 +51,8 @@
     "station_code": null,
     "lat": "1.86362800",
     "lng": "102.96312600",
-    "distance": 1559.7
+    "distance": 1559,
+    "duration": 18
   },
   {
     "id": 2629,
@@ -58,7 +63,8 @@
     "station_code": null,
     "lat": "1.86613300",
     "lng": "102.97177200",
-    "distance": 1011.2
+    "distance": 1011,
+    "duration": 12
   },
   {
     "id": 2630,
@@ -69,7 +75,8 @@
     "station_code": null,
     "lat": "1.86867500",
     "lng": "102.97873300",
-    "distance": 961.5
+    "distance": 961,
+    "duration": 11
   },
   {
     "id": 2631,
@@ -80,7 +87,8 @@
     "station_code": null,
     "lat": "1.87040500",
     "lng": "102.98447500",
-    "distance": 682.5
+    "distance": 682,
+    "duration": 8
   },
   {
     "id": 2632,
@@ -91,7 +99,8 @@
     "station_code": null,
     "lat": "1.86060600",
     "lng": "103.00413400",
-    "distance": 2604.5
+    "distance": 2604,
+    "duration": 31
   },
   {
     "id": 2633,
@@ -102,7 +111,8 @@
     "station_code": null,
     "lat": "1.85504500",
     "lng": "103.02024700",
-    "distance": 1951.2
+    "distance": 1951,
+    "duration": 23
   },
   {
     "id": 2634,
@@ -113,7 +123,8 @@
     "station_code": null,
     "lat": "1.85389400",
     "lng": "103.02937600",
-    "distance": 1024.3
+    "distance": 1024,
+    "duration": 12
   },
   {
     "id": 2635,
@@ -124,6 +135,7 @@
     "station_code": null,
     "lat": "1.85093900",
     "lng": "103.05129200",
-    "distance": 2459.9
+    "distance": 2459,
+    "duration": 29
   }
 ]

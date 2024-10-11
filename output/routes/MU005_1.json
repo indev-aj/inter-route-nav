@@ -11,28 +11,38 @@
     "intersections": [
       {
         "withRoute": "MU001",
+        "withBound": 1,
         "stopId": 752,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU002",
+        "withBound": 1,
         "stopId": 2390,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU003",
+        "withBound": 1,
         "stopId": 1074,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU004",
+        "withBound": 1,
         "stopId": 2424,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "TK002",
+        "withBound": 1,
         "stopId": 2507,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -45,32 +55,43 @@
     "station_code": null,
     "lat": "2.04804211",
     "lng": "102.56686930",
-    "distance": 272.6,
+    "distance": 272,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "MU001",
+        "withBound": 1,
         "stopId": 1058,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU002",
+        "withBound": 1,
         "stopId": 1178,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU003",
+        "withBound": 1,
         "stopId": 2398,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU004",
+        "withBound": 1,
         "stopId": 2407,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "TK002",
+        "withBound": 1,
         "stopId": 2508,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -83,7 +104,8 @@
     "station_code": "MU001, MU005",
     "lat": "2.06722100",
     "lng": "102.60242400",
-    "distance": 7460.1
+    "distance": 7460,
+    "duration": 89
   },
   {
     "id": 801,
@@ -94,7 +116,8 @@
     "station_code": "MU005",
     "lat": "2.06827600",
     "lng": "102.60970500",
-    "distance": 1033.9
+    "distance": 1033,
+    "duration": 12
   },
   {
     "id": 747,
@@ -105,7 +128,8 @@
     "station_code": "MU005",
     "lat": "2.06184733",
     "lng": "102.61641220",
-    "distance": 1042.9
+    "distance": 1042,
+    "duration": 12
   },
   {
     "id": 746,
@@ -116,7 +140,8 @@
     "station_code": "MU005",
     "lat": "2.07655205",
     "lng": "102.62813190",
-    "distance": 2617.8
+    "distance": 2617,
+    "duration": 31
   },
   {
     "id": 805,
@@ -127,7 +152,8 @@
     "station_code": "MU005",
     "lat": "2.12921100",
     "lng": "102.64570100",
-    "distance": 8274.7
+    "distance": 8274,
+    "duration": 99
   },
   {
     "id": 804,
@@ -138,7 +164,8 @@
     "station_code": "MU005",
     "lat": "2.12686400",
     "lng": "102.64727300",
-    "distance": 335.4
+    "distance": 335,
+    "duration": 4
   },
   {
     "id": 744,
@@ -149,7 +176,8 @@
     "station_code": "MU005",
     "lat": "2.12332668",
     "lng": "102.64146250",
-    "distance": 772.4
+    "distance": 772,
+    "duration": 9
   },
   {
     "id": 745,
@@ -160,7 +188,8 @@
     "station_code": "MU005",
     "lat": "2.11715168",
     "lng": "102.63238940",
-    "distance": 1255.9
+    "distance": 1255,
+    "duration": 15
   },
   {
     "id": 803,
@@ -171,7 +200,8 @@
     "station_code": "MU005",
     "lat": "2.10648000",
     "lng": "102.63462400",
-    "distance": 1219
+    "distance": 1219,
+    "duration": 14
   },
   {
     "id": 1141,
@@ -182,12 +212,15 @@
     "station_code": "MU004, MU005",
     "lat": "2.09780473",
     "lng": "102.63630730",
-    "distance": 1114.5,
+    "distance": 1114,
+    "duration": 13,
     "intersections": [
       {
         "withRoute": "MU004",
+        "withBound": 0,
         "stopId": 788,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -200,12 +233,15 @@
     "station_code": "MU001, MU005",
     "lat": "2.06793800",
     "lng": "102.60447000",
-    "distance": 6639.9,
+    "distance": 6639,
+    "duration": 79,
     "intersections": [
       {
         "withRoute": "MU001",
+        "withBound": 1,
         "stopId": 802,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -218,12 +254,15 @@
     "station_code": "MU001, MU005",
     "lat": "2.06530000",
     "lng": "102.60100000",
-    "distance": 604.2,
+    "distance": 604,
+    "duration": 7,
     "intersections": [
       {
         "withRoute": "MU001",
+        "withBound": 1,
         "stopId": 751,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -236,12 +275,15 @@
     "station_code": "MU001, MU005",
     "lat": "2.06098100",
     "lng": "102.59915900",
-    "distance": 647.9,
+    "distance": 647,
+    "duration": 7,
     "intersections": [
       {
         "withRoute": "MU001",
+        "withBound": 0,
         "stopId": 755,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -254,17 +296,22 @@
     "station_code": "MU001, MU004, MU005",
     "lat": "2.05673126",
     "lng": "102.57423860",
-    "distance": 3033.4,
+    "distance": 3033,
+    "duration": 36,
     "intersections": [
       {
         "withRoute": "MU001",
+        "withBound": 0,
         "stopId": 1168,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "MU004",
+        "withBound": 0,
         "stopId": 11,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   }

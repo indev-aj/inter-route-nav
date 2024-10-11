@@ -18,7 +18,8 @@
     "station_code": "HSI",
     "lat": "1.54716600",
     "lng": "103.79081700",
-    "distance": 1431.6
+    "distance": 1431,
+    "duration": 17
   },
   {
     "id": 2470,
@@ -29,6 +30,7 @@
     "station_code": "HSI",
     "lat": "1.54823100",
     "lng": "103.79007800",
-    "distance": 232.6
+    "distance": 232,
+    "duration": 2
   }
 ]

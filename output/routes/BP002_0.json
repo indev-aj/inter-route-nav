@@ -18,7 +18,8 @@
     "station_code": null,
     "lat": "1.85019000",
     "lng": "103.07996400",
-    "distance": 871.1
+    "distance": 871,
+    "duration": 10
   },
   {
     "id": 2638,
@@ -29,7 +30,8 @@
     "station_code": null,
     "lat": "1.85313300",
     "lng": "103.08831300",
-    "distance": 984.8
+    "distance": 984,
+    "duration": 11
   },
   {
     "id": 2639,
@@ -40,7 +42,8 @@
     "station_code": null,
     "lat": "1.86404700",
     "lng": "103.10918600",
-    "distance": 2658.9
+    "distance": 2658,
+    "duration": 31
   },
   {
     "id": 2640,
@@ -51,7 +54,8 @@
     "station_code": null,
     "lat": "1.86649800",
     "lng": "103.11163800",
-    "distance": 560.6
+    "distance": 560,
+    "duration": 6
   },
   {
     "id": 2641,
@@ -62,7 +66,8 @@
     "station_code": null,
     "lat": "1.86379800",
     "lng": "103.10928100",
-    "distance": 529.7
+    "distance": 529,
+    "duration": 6
   },
   {
     "id": 2642,
@@ -73,7 +78,8 @@
     "station_code": null,
     "lat": "1.85678800",
     "lng": "103.09866000",
-    "distance": 1413.2
+    "distance": 1413,
+    "duration": 16
   },
   {
     "id": 2643,
@@ -84,7 +90,8 @@
     "station_code": null,
     "lat": "1.85442100",
     "lng": "103.09327000",
-    "distance": 657.6
+    "distance": 657,
+    "duration": 7
   },
   {
     "id": 2644,
@@ -95,7 +102,8 @@
     "station_code": null,
     "lat": "1.85239500",
     "lng": "103.08727900",
-    "distance": 720.5
+    "distance": 720,
+    "duration": 8
   },
   {
     "id": 2645,
@@ -106,7 +114,8 @@
     "station_code": null,
     "lat": "1.85114700",
     "lng": "103.08361300",
-    "distance": 431.1
+    "distance": 431,
+    "duration": 5
   },
   {
     "id": 2646,
@@ -117,7 +126,8 @@
     "station_code": null,
     "lat": "1.85054500",
     "lng": "103.05084700",
-    "distance": 3738
+    "distance": 3738,
+    "duration": 44
   },
   {
     "id": 2647,
@@ -128,7 +138,8 @@
     "station_code": null,
     "lat": "1.85173800",
     "lng": "103.04283000",
-    "distance": 937.6
+    "distance": 937,
+    "duration": 11
   },
   {
     "id": 2648,
@@ -139,7 +150,8 @@
     "station_code": null,
     "lat": "1.87039000",
     "lng": "102.98529500",
-    "distance": 7017.8
+    "distance": 7017,
+    "duration": 84
   },
   {
     "id": 2649,
@@ -150,7 +162,8 @@
     "station_code": null,
     "lat": "1.86337700",
     "lng": "102.96327100",
-    "distance": 2578.6
+    "distance": 2578,
+    "duration": 30
   },
   {
     "id": 2650,
@@ -161,6 +174,7 @@
     "station_code": null,
     "lat": "1.85773800",
     "lng": "102.93481400",
-    "distance": 3704.4
+    "distance": 3704,
+    "duration": 44
   }
 ]

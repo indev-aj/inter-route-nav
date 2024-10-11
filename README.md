@@ -1,6 +1,12 @@
 # **Project Title**
 _A brief description of what your project does._
 
+## Current Graph Naming
+Currently the graph uses the following format:
+`{routeName}::{bound_type}::{stopId}`
+
+It is possible to add more naming details such as agency, transport mode etc
+
 ## **Prerequisites**
 Before running this project, ensure you have the following installed:
 

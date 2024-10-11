@@ -11,8 +11,10 @@
     "intersections": [
       {
         "withRoute": "YP001",
+        "withBound": 1,
         "stopId": 731,
-        "distance": 124.4
+        "distance": 124,
+        "duration": 1
       }
     ]
   },
@@ -25,7 +27,8 @@
     "station_code": null,
     "lat": "2.01071900",
     "lng": "103.06499600",
-    "distance": 987.1
+    "distance": 987,
+    "duration": 11
   },
   {
     "id": 2830,
@@ -36,7 +39,8 @@
     "station_code": null,
     "lat": "2.01369200",
     "lng": "103.05745200",
-    "distance": 1007.3
+    "distance": 1007,
+    "duration": 12
   },
   {
     "id": 2831,
@@ -47,7 +51,8 @@
     "station_code": null,
     "lat": "2.01571000",
     "lng": "103.05726500",
-    "distance": 223.9
+    "distance": 223,
+    "duration": 2
   },
   {
     "id": 2832,
@@ -58,7 +63,8 @@
     "station_code": null,
     "lat": "2.01936100",
     "lng": "103.05667000",
-    "distance": 408.8
+    "distance": 408,
+    "duration": 4
   },
   {
     "id": 2833,
@@ -69,22 +75,29 @@
     "station_code": null,
     "lat": "2.02268400",
     "lng": "103.05628000",
-    "distance": 370.2,
+    "distance": 370,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "YP001",
+        "withBound": 1,
         "stopId": 741,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "YP001",
+        "withBound": 1,
         "stopId": 738,
-        "distance": 115.8
+        "distance": 115,
+        "duration": 1
       },
       {
         "withRoute": "YP002",
+        "withBound": 0,
         "stopId": 2835,
-        "distance": 115.8
+        "distance": 115,
+        "duration": 1
       }
     ]
   },
@@ -97,6 +110,7 @@
     "station_code": null,
     "lat": "2.06334389",
     "lng": "103.12395014",
-    "distance": 9734.9
+    "distance": 9734,
+    "duration": 116
   }
 ]

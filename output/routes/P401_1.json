@@ -11,13 +11,17 @@
     "intersections": [
       {
         "withRoute": "P411",
+        "withBound": 1,
         "stopId": 896,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P412",
+        "withBound": 2,
         "stopId": 897,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -30,12 +34,15 @@
     "station_code": "P401, P412",
     "lat": "1.65730714",
     "lng": "103.59714500",
-    "distance": 687.4,
+    "distance": 687,
+    "duration": 8,
     "intersections": [
       {
         "withRoute": "P412",
+        "withBound": 2,
         "stopId": 1157,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -48,7 +55,8 @@
     "station_code": "P401",
     "lat": "1.64039259",
     "lng": "103.61900770",
-    "distance": 5166.2
+    "distance": 5166,
+    "duration": 61
   },
   {
     "id": 97,
@@ -59,7 +67,8 @@
     "station_code": "P401",
     "lat": "1.64781459",
     "lng": "103.62545640",
-    "distance": 1108.7
+    "distance": 1108,
+    "duration": 13
   },
   {
     "id": 14,
@@ -70,7 +79,8 @@
     "station_code": "P401",
     "lat": "1.65145612",
     "lng": "103.62197700",
-    "distance": 793.2
+    "distance": 793,
+    "duration": 9
   },
   {
     "id": 12,
@@ -81,7 +91,8 @@
     "station_code": "P401",
     "lat": "1.65705285",
     "lng": "103.62412070",
-    "distance": 802.2
+    "distance": 802,
+    "duration": 9
   },
   {
     "id": 10,
@@ -92,7 +103,8 @@
     "station_code": "P401",
     "lat": "1.65900681",
     "lng": "103.62728450",
-    "distance": 519.5
+    "distance": 519,
+    "duration": 6
   },
   {
     "id": 13,
@@ -103,7 +115,8 @@
     "station_code": "P401",
     "lat": "1.66424298",
     "lng": "103.63376570",
-    "distance": 1374.2
+    "distance": 1374,
+    "duration": 16
   },
   {
     "id": 48,
@@ -114,7 +127,8 @@
     "station_code": "P401",
     "lat": "1.66412700",
     "lng": "103.63629980",
-    "distance": 281.7
+    "distance": 281,
+    "duration": 3
   },
   {
     "id": 110,
@@ -125,7 +139,8 @@
     "station_code": "P401",
     "lat": "1.66279645",
     "lng": "103.63813950",
-    "distance": 820.5
+    "distance": 820,
+    "duration": 9
   },
   {
     "id": 109,
@@ -136,6 +151,7 @@
     "station_code": "P401",
     "lat": "1.65590474",
     "lng": "103.63019960",
-    "distance": 1704.1
+    "distance": 1704,
+    "duration": 20
   }
 ]

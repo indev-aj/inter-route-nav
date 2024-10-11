@@ -18,7 +18,8 @@
     "station_code": null,
     "lat": "1.57831850",
     "lng": "103.46615780",
-    "distance": 806.2
+    "distance": 806,
+    "duration": 9
   },
   {
     "id": 2467,
@@ -29,7 +30,8 @@
     "station_code": null,
     "lat": "1.56844439",
     "lng": "103.47143370",
-    "distance": 1303
+    "distance": 1303,
+    "duration": 15
   },
   {
     "id": 552,
@@ -40,7 +42,8 @@
     "station_code": "PN002",
     "lat": "1.56548000",
     "lng": "103.47767000",
-    "distance": 774.9
+    "distance": 774,
+    "duration": 9
   },
   {
     "id": 565,
@@ -51,12 +54,15 @@
     "station_code": "PN002",
     "lat": "1.54407809",
     "lng": "103.49373170",
-    "distance": 3176.3,
+    "distance": 3176,
+    "duration": 38,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 1,
         "stopId": 553,
-        "distance": 90.3
+        "distance": 90,
+        "duration": 1
       }
     ]
   },
@@ -69,17 +75,22 @@
     "station_code": "PN002",
     "lat": "1.51956905",
     "lng": "103.51404180",
-    "distance": 3989.4,
+    "distance": 3989,
+    "duration": 47,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 1,
         "stopId": 555,
-        "distance": 23.9
+        "distance": 23,
+        "duration": 0
       },
       {
         "withRoute": "PN002",
+        "withBound": 1,
         "stopId": 554,
-        "distance": 248.5
+        "distance": 248,
+        "duration": 2
       }
     ]
   },
@@ -92,7 +103,8 @@
     "station_code": "PN002",
     "lat": "1.51476764",
     "lng": "103.51285370",
-    "distance": 547.1
+    "distance": 547,
+    "duration": 6
   },
   {
     "id": 569,
@@ -103,12 +115,15 @@
     "station_code": "PN002",
     "lat": "1.51218761",
     "lng": "103.51208940",
-    "distance": 297.9,
+    "distance": 297,
+    "duration": 3,
     "intersections": [
       {
         "withRoute": "PN002",
+        "withBound": 1,
         "stopId": 570,
-        "distance": 21.7
+        "distance": 21,
+        "duration": 0
       }
     ]
   },
@@ -121,6 +136,7 @@
     "station_code": "PN002",
     "lat": "1.50323519",
     "lng": "103.51710770",
-    "distance": 1382.8
+    "distance": 1382,
+    "duration": 16
   }
 ]

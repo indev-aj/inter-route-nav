@@ -11,13 +11,17 @@
     "intersections": [
       {
         "withRoute": "P401",
+        "withBound": 1,
         "stopId": 213,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P412",
+        "withBound": 2,
         "stopId": 897,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -30,7 +34,8 @@
     "station_code": "P411",
     "lat": "1.66135832",
     "lng": "103.60364140",
-    "distance": 588.5
+    "distance": 588,
+    "duration": 7
   },
   {
     "id": 102,
@@ -41,7 +46,8 @@
     "station_code": "P411",
     "lat": "1.65083006",
     "lng": "103.61145950",
-    "distance": 1499.6
+    "distance": 1499,
+    "duration": 17
   },
   {
     "id": 54,
@@ -52,7 +58,8 @@
     "station_code": "P411",
     "lat": "1.64834637",
     "lng": "103.61328750",
-    "distance": 1685.3
+    "distance": 1685,
+    "duration": 20
   },
   {
     "id": 184,
@@ -63,7 +70,8 @@
     "station_code": "P411",
     "lat": "1.64523294",
     "lng": "103.61650460",
-    "distance": 1188.4
+    "distance": 1188,
+    "duration": 14
   },
   {
     "id": 96,
@@ -74,7 +82,8 @@
     "station_code": "P411",
     "lat": "1.63976463",
     "lng": "103.62470450",
-    "distance": 1096.2
+    "distance": 1096,
+    "duration": 13
   },
   {
     "id": 105,
@@ -85,7 +94,8 @@
     "station_code": "P411",
     "lat": "1.63571574",
     "lng": "103.62999180",
-    "distance": 739.8
+    "distance": 739,
+    "duration": 8
   },
   {
     "id": 98,
@@ -96,7 +106,8 @@
     "station_code": "P411",
     "lat": "1.63283470",
     "lng": "103.63346290",
-    "distance": 500.4
+    "distance": 500,
+    "duration": 6
   },
   {
     "id": 101,
@@ -107,12 +118,15 @@
     "station_code": "P411",
     "lat": "1.62023333",
     "lng": "103.64613330",
-    "distance": 1987.2,
+    "distance": 1987,
+    "duration": 23,
     "intersections": [
       {
         "withRoute": "P411",
+        "withBound": 0,
         "stopId": 80,
-        "distance": 209.3
+        "distance": 209,
+        "duration": 2
       }
     ]
   },
@@ -125,7 +139,8 @@
     "station_code": "P411",
     "lat": "1.61207695",
     "lng": "103.64749790",
-    "distance": 914.8
+    "distance": 914,
+    "duration": 10
   },
   {
     "id": 1012,
@@ -136,17 +151,22 @@
     "station_code": "P402, P403, P411",
     "lat": "1.59985814",
     "lng": "103.64492680",
-    "distance": 1476.5,
+    "distance": 1476,
+    "duration": 17,
     "intersections": [
       {
         "withRoute": "P402",
+        "withBound": 0,
         "stopId": 128,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P403",
+        "withBound": 1,
         "stopId": 875,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -160,16 +180,21 @@
     "lat": "1.59657098",
     "lng": "103.64554890",
     "distance": 524,
+    "duration": 6,
     "intersections": [
       {
         "withRoute": "P402",
+        "withBound": 0,
         "stopId": 133,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P403",
+        "withBound": 1,
         "stopId": 877,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -182,17 +207,22 @@
     "station_code": "P402, P403, P411",
     "lat": "1.59091010",
     "lng": "103.64797750",
-    "distance": 687.9,
+    "distance": 687,
+    "duration": 8,
     "intersections": [
       {
         "withRoute": "P402",
+        "withBound": 0,
         "stopId": 60,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P403",
+        "withBound": 1,
         "stopId": 865,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -205,12 +235,15 @@
     "station_code": "P403, P411",
     "lat": "1.58175836",
     "lng": "103.65439660",
-    "distance": 1366.7,
+    "distance": 1366,
+    "duration": 16,
     "intersections": [
       {
         "withRoute": "P403",
+        "withBound": 1,
         "stopId": 63,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -223,17 +256,22 @@
     "station_code": "P104, P211, P411",
     "lat": "1.50889000",
     "lng": "103.68924000",
-    "distance": 9816.5,
+    "distance": 9816,
+    "duration": 117,
     "intersections": [
       {
         "withRoute": "P104",
+        "withBound": 2,
         "stopId": 34,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 1231,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -246,12 +284,15 @@
     "station_code": "P211, P411",
     "lat": "1.49883778",
     "lng": "103.69889690",
-    "distance": 1804.5,
+    "distance": 1804,
+    "duration": 21,
     "intersections": [
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 1158,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -264,12 +305,15 @@
     "station_code": "P211, P411",
     "lat": "1.49694697",
     "lng": "103.70175710",
-    "distance": 420.1,
+    "distance": 420,
+    "duration": 5,
     "intersections": [
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 288,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -282,17 +326,22 @@
     "station_code": "P211, P411",
     "lat": "1.49576641",
     "lng": "103.70357080",
-    "distance": 242.3,
+    "distance": 242,
+    "duration": 2,
     "intersections": [
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 288,
-        "distance": 242.3
+        "distance": 242,
+        "duration": 2
       },
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 290,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -305,12 +354,15 @@
     "station_code": "P211, P411",
     "lat": "1.48956853",
     "lng": "103.71213760",
-    "distance": 2000.6,
+    "distance": 2000,
+    "duration": 23,
     "intersections": [
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 291,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -323,17 +375,22 @@
     "station_code": "P211, P411,P104",
     "lat": "1.48705339",
     "lng": "103.72440130",
-    "distance": 2045.9,
+    "distance": 2045,
+    "duration": 24,
     "intersections": [
       {
         "withRoute": "P104",
+        "withBound": 0,
         "stopId": 1235,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 292,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -346,12 +403,15 @@
     "station_code": "P211, P411",
     "lat": "1.48873700",
     "lng": "103.72762900",
-    "distance": 406.1,
+    "distance": 406,
+    "duration": 4,
     "intersections": [
       {
         "withRoute": "P211",
+        "withBound": 1,
         "stopId": 231,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   },
@@ -364,42 +424,57 @@
     "station_code": "P101,P103,P104,P112,P113,P411,P211",
     "lat": "1.49496000",
     "lng": "103.74241000",
-    "distance": 3954.6,
+    "distance": 3954,
+    "duration": 47,
     "intersections": [
       {
         "withRoute": "HSA",
+        "withBound": 1,
         "stopId": 2471,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P101",
+        "withBound": 1,
         "stopId": 214,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P103",
+        "withBound": 1,
         "stopId": 1216,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P104",
+        "withBound": 2,
         "stopId": 1217,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P113",
+        "withBound": 1,
         "stopId": 1221,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P113-01",
+        "withBound": 0,
         "stopId": 2880,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       },
       {
         "withRoute": "P211",
+        "withBound": 0,
         "stopId": 1236,
-        "distance": 0
+        "distance": 0,
+        "duration": 0
       }
     ]
   }
