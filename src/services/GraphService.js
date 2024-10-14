@@ -123,8 +123,8 @@ class GraphService {
             
             // Loop through the nodes and add them back into the graph
             Object.keys(graphData).forEach(nodeKey => {
-              const neighbors = graphData[nodeKey];
-              this.#routeGraph.addNode(nodeKey, neighbors);
+                const neighbors = graphData[nodeKey];
+                this.#routeGraph.addNode(nodeKey, neighbors);
             });
             
             console.log('Graph loaded successfully from file');
@@ -317,7 +317,6 @@ class GraphService {
      */
     #filterPath(paths) {
         const filteredPath = [];
-        let i = 0;
     
         for (let i = 0; i < paths.length; i++) {
             const currentStop = paths[i];
@@ -345,11 +344,11 @@ class GraphService {
                     const cost = node.get(nextStop);
                     const [ distance, duration ] = String(cost).split(".");
 
-                    return { stop: currentStop, nextStop: nextStop, duration: duration, distance: distance };
+                    return { stop: currentStop, nextStop: nextStop, durationToNextStop: duration, distanceToNextStop: distance };
                 }
             }
             
-            return { stop: currentStop, nextStop: null, duration: null, distance: null };
+            return { stop: currentStop, finalStop: true, nextStop: null, durationToNextStop: null, distanceToNextStop: null };
         });
 
         // filter to set whether user should drop off and hop on to certain stops

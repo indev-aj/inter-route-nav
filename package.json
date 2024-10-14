@@ -8,7 +8,9 @@
     "graph": "nodemon src/v2/runner.js",
     "dev": "nodemon --inspect src/v2/runner.js",
     "clear": "rm output/* output/routes/*",
-    "push": "git push origin master && git push origin-personal master"
+    "push": "git push origin master && git push origin-personal master",
+    "lint": "npx eslint '**/*.js'",
+    "lint-fix": "npx eslint '**/*.js' --fix"
   },
   "author": "",
   "license": "ISC",
@@ -24,6 +26,10 @@
     "redis": "^4.7.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "@stylistic/eslint-plugin-js": "^2.9.0",
+    "eslint": "^9.12.0",
+    "globals": "^15.11.0",
     "nodemon": "^3.1.7"
   }
 }
